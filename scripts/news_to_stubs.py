@@ -128,9 +128,78 @@ def _extract_school(title: str) -> str:
     return ""
 
 
+# Major US cities/counties mapped to their state for extraction from headlines
+CITY_TO_STATE = {
+    "Detroit": "Michigan", "Flint": "Michigan", "Ann Arbor": "Michigan", "Grand Rapids": "Michigan",
+    "Lansing": "Michigan", "Kalamazoo": "Michigan", "Dearborn": "Michigan",
+    "Houston": "Texas", "Dallas": "Texas", "Austin": "Texas", "San Antonio": "Texas",
+    "Fort Worth": "Texas", "El Paso": "Texas", "Arlington": "Texas", "Plano": "Texas",
+    "Lubbock": "Texas", "Laredo": "Texas", "Irving": "Texas", "Amarillo": "Texas",
+    "Los Angeles": "California", "San Francisco": "California", "San Diego": "California",
+    "Sacramento": "California", "San Jose": "California", "Fresno": "California",
+    "Oakland": "California", "Long Beach": "California", "Bakersfield": "California",
+    "Stockton": "California", "Riverside": "California", "Anaheim": "California",
+    "Santa Ana": "California", "Irvine": "California", "Oxnard": "California",
+    "Chicago": "Illinois", "Springfield": "Illinois", "Rockford": "Illinois", "Aurora": "Illinois",
+    "New York City": "New York", "NYC": "New York", "Brooklyn": "New York", "Bronx": "New York",
+    "Queens": "New York", "Manhattan": "New York", "Buffalo": "New York", "Rochester": "New York",
+    "Syracuse": "New York", "Albany": "New York", "Yonkers": "New York",
+    "Philadelphia": "Pennsylvania", "Pittsburgh": "Pennsylvania", "Allentown": "Pennsylvania",
+    "Scranton": "Pennsylvania", "Lackawanna": "Pennsylvania", "Erie": "Pennsylvania",
+    "Harrisburg": "Pennsylvania", "Reading": "Pennsylvania", "Bethlehem": "Pennsylvania",
+    "Miami": "Florida", "Orlando": "Florida", "Tampa": "Florida", "Jacksonville": "Florida",
+    "St. Petersburg": "Florida", "Fort Lauderdale": "Florida", "Tallahassee": "Florida",
+    "Palm Beach": "Florida", "Broward": "Florida", "Hialeah": "Florida", "Gainesville": "Florida",
+    "Pensacola": "Florida", "Daytona": "Florida", "Cape Coral": "Florida",
+    "Atlanta": "Georgia", "Savannah": "Georgia", "Augusta": "Georgia", "Macon": "Georgia",
+    "Columbus": "Ohio", "Cleveland": "Ohio", "Cincinnati": "Ohio", "Toledo": "Ohio",
+    "Akron": "Ohio", "Dayton": "Ohio", "Canton": "Ohio", "Youngstown": "Ohio",
+    "Charlotte": "North Carolina", "Raleigh": "North Carolina", "Durham": "North Carolina",
+    "Greensboro": "North Carolina", "Winston-Salem": "North Carolina", "Fayetteville": "North Carolina",
+    "Phoenix": "Arizona", "Tucson": "Arizona", "Mesa": "Arizona", "Scottsdale": "Arizona",
+    "Chandler": "Arizona", "Tempe": "Arizona", "Gilbert": "Arizona", "Glendale": "Arizona",
+    "Denver": "Colorado", "Colorado Springs": "Colorado", "Aurora": "Colorado", "Boulder": "Colorado",
+    "Fort Collins": "Colorado", "Lakewood": "Colorado", "Pueblo": "Colorado",
+    "Seattle": "Washington", "Tacoma": "Washington", "Spokane": "Washington", "Bellevue": "Washington",
+    "Nashville": "Tennessee", "Memphis": "Tennessee", "Knoxville": "Tennessee", "Chattanooga": "Tennessee",
+    "Indianapolis": "Indiana", "Fort Wayne": "Indiana", "Evansville": "Indiana", "South Bend": "Indiana",
+    "Baltimore": "Maryland", "Annapolis": "Maryland", "Silver Spring": "Maryland",
+    "Las Vegas": "Nevada", "Reno": "Nevada", "Henderson": "Nevada",
+    "Portland": "Oregon", "Salem": "Oregon", "Eugene": "Oregon",
+    "Milwaukee": "Wisconsin", "Madison": "Wisconsin", "Green Bay": "Wisconsin",
+    "Minneapolis": "Minnesota", "St. Paul": "Minnesota", "Duluth": "Minnesota",
+    "Kansas City": "Missouri", "St. Louis": "Missouri", "Springfield": "Missouri",
+    "New Orleans": "Louisiana", "Baton Rouge": "Louisiana", "Shreveport": "Louisiana",
+    "Louisville": "Kentucky", "Lexington": "Kentucky", "Bowling Green": "Kentucky",
+    "Birmingham": "Alabama", "Montgomery": "Alabama", "Huntsville": "Alabama", "Mobile": "Alabama",
+    "Oklahoma City": "Oklahoma", "Tulsa": "Oklahoma", "Norman": "Oklahoma",
+    "Omaha": "Nebraska", "Lincoln": "Nebraska",
+    "Charleston": "South Carolina", "Columbia": "South Carolina", "Greenville": "South Carolina",
+    "Richmond": "Virginia", "Virginia Beach": "Virginia", "Norfolk": "Virginia",
+    "Arlington": "Virginia", "Alexandria": "Virginia", "Fairfax": "Virginia",
+    "Little Rock": "Arkansas", "Fayetteville": "Arkansas",
+    "Des Moines": "Iowa", "Cedar Rapids": "Iowa", "Davenport": "Iowa",
+    "Jackson": "Mississippi", "Hattiesburg": "Mississippi", "Biloxi": "Mississippi",
+    "Hartford": "Connecticut", "New Haven": "Connecticut", "Stamford": "Connecticut", "Bridgeport": "Connecticut",
+    "Newark": "New Jersey", "Jersey City": "New Jersey", "Trenton": "New Jersey", "Paterson": "New Jersey",
+    "Camden": "New Jersey", "Elizabeth": "New Jersey",
+    "Albuquerque": "New Mexico", "Santa Fe": "New Mexico", "Las Cruces": "New Mexico",
+    "Honolulu": "Hawaii", "Boise": "Idaho", "Salt Lake City": "Utah", "Provo": "Utah",
+    "Providence": "Rhode Island", "Wilmington": "Delaware",
+    "Anchorage": "Alaska", "Billings": "Montana", "Cheyenne": "Wyoming",
+    "Sioux Falls": "South Dakota", "Fargo": "North Dakota", "Burlington": "Vermont",
+    "Wichita": "Kansas", "Topeka": "Kansas", "Overland Park": "Kansas",
+}
+
+
 def _extract_state(title: str) -> Optional[str]:
+    # First try direct state name match
     for state in US_STATES:
         if re.search(rf"\b{re.escape(state)}\b", title, re.IGNORECASE):
+            return state
+    # Then try city/county name match
+    for city, state in CITY_TO_STATE.items():
+        if re.search(rf"\b{re.escape(city)}\b", title, re.IGNORECASE):
             return state
     return None
 

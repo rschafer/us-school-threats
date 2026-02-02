@@ -233,6 +233,75 @@ def fetch_rss_url(rss_url: str) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# GDELT API (free, no API key, massive historical archive)
+# ---------------------------------------------------------------------------
+GDELT_QUERIES = [
+    "school threat",
+    "school bomb threat",
+    "school lockdown",
+    "school shooting threat",
+]
+
+
+def fetch_gdelt(year: Optional[int] = None) -> list[dict]:
+    """Fetch from GDELT DOC 2.0 API. Free, no key, excellent historical coverage.
+    Returns up to 250 articles per query. Searches full article text, not just headlines."""
+    results = []
+    seen_urls = set()
+    base_url = "https://api.gdeltproject.org/api/v2/doc/doc"
+
+    for q in GDELT_QUERIES:
+        RateLimiter.wait("gdelt", 5.0)  # GDELT asks for 5s between requests
+        params = {
+            "query": f'{q} sourcelang:english sourcecountry:US',
+            "mode": "ArtList",
+            "maxrecords": 250,
+            "format": "json",
+            "sort": "DateDesc",
+        }
+        if year:
+            params["startdatetime"] = f"{year}0101000000"
+            params["enddatetime"] = f"{year}1231235959"
+
+        try:
+            r = requests.get(base_url, params=params, timeout=30)
+            if r.status_code == 429:
+                print(f"GDELT: rate limited on query {q!r}, waiting 30s", file=sys.stderr)
+                time.sleep(30)
+                r = requests.get(base_url, params=params, timeout=30)
+            r.raise_for_status()
+            data = r.json()
+        except Exception as e:
+            print(f"GDELT ({q!r}): {e}", file=sys.stderr)
+            continue
+
+        articles = data.get("articles") or []
+        for art in articles:
+            url = (art.get("url") or "").strip()
+            if not url or url in seen_urls:
+                continue
+            seen_urls.add(url)
+            # GDELT returns seendate as "YYYYMMDDTHHMMSSZ"
+            seendate = art.get("seendate") or ""
+            try:
+                published = f"{seendate[:4]}-{seendate[4:6]}-{seendate[6:8]}T{seendate[9:11]}:{seendate[11:13]}:{seendate[13:15]}Z"
+            except (IndexError, TypeError):
+                published = ""
+
+            results.append({
+                "title": (art.get("title") or "").strip(),
+                "url": url,
+                "published": published,
+                "source": art.get("domain") or "GDELT",
+                "snippet": "",  # GDELT doesn't return snippets in ArtList mode
+            })
+        print(f"GDELT ({q!r}): {len(articles)} articles")
+
+    print(f"GDELT total: {len(results)} unique articles")
+    return results
+
+
+# ---------------------------------------------------------------------------
 # GNews API (free tier: 100 req/day, no credit card)
 # ---------------------------------------------------------------------------
 def fetch_gnews(api_key: str, year: Optional[int] = None) -> list[dict]:
@@ -409,7 +478,12 @@ def main() -> int:
     all_items.extend(google_items)
     record_source_stats("google_news_rss", len(google_items))
 
-    # 2) NewsAPI (optional)
+    # 2) GDELT (free, no key, best historical coverage)
+    gdelt_items = fetch_gdelt(year=year)
+    all_items.extend(gdelt_items)
+    record_source_stats("gdelt", len(gdelt_items))
+
+    # 3) NewsAPI (optional)
     api_key = os.environ.get("NEWS_API_KEY", "").strip()
     if api_key:
         newsapi_items = fetch_newsapi(api_key, from_date=from_date, to_date=to_date)
@@ -418,7 +492,7 @@ def main() -> int:
     else:
         print("NewsAPI: skipped (set NEWS_API_KEY to enable)")
 
-    # 3) GNews API (optional, free tier)
+    # 4) GNews API (optional, free tier)
     gnews_key = os.environ.get("GNEWS_API_KEY", "").strip()
     if gnews_key:
         gnews_items = fetch_gnews(gnews_key, year=year)
@@ -427,7 +501,7 @@ def main() -> int:
     else:
         print("GNews: skipped (set GNEWS_API_KEY to enable)")
 
-    # 4) Custom RSS URL (optional, e.g. IFTTT from Google Alerts)
+    # 5) Custom RSS URL (optional, e.g. IFTTT from Google Alerts)
     rss_url = os.environ.get("RSS_URL", "").strip()
     if rss_url:
         rss_items = fetch_rss_url(rss_url)
