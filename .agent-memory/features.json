@@ -1,0 +1,91 @@
+{
+  "features": [
+    {
+      "id": "scheduled-collection",
+      "description": "Automated daily data collection via cron/GitHub Actions with logging and failure alerts",
+      "priority": 1,
+      "verification": [
+        "GitHub Action or cron job config exists and runs fetch_news.py daily",
+        "Each run logs timestamp, articles fetched, new vs known count",
+        "Failures trigger a notification (GitHub Issue or email)",
+        "No duplicate entries accumulate across multiple runs"
+      ],
+      "passes": false
+    },
+    {
+      "id": "database-backend",
+      "description": "Replace flat JSON files with SQLite database, migration script, and API layer",
+      "priority": 2,
+      "verification": [
+        "All 897+ existing incidents import via migration script",
+        "All JSON schema fields are represented as database columns",
+        "Query by any single field returns correct results",
+        "Date range query returns correct results",
+        "Frontend loads data from the API instead of static JSON"
+      ],
+      "passes": false
+    },
+    {
+      "id": "advanced-filtering",
+      "description": "Date range picker and multi-select filters across all views with shareable URLs",
+      "priority": 3,
+      "verification": [
+        "Date range picker filters by start/end dates",
+        "Multi-select dropdowns for state, threat type, school type, conveyance, outcome",
+        "Filters apply across map, charts, and incident list",
+        "URL parameters encode filter state; pasting URL restores filters",
+        "Clear all button resets all filters"
+      ],
+      "passes": false
+    },
+    {
+      "id": "data-export",
+      "description": "Export filtered incident data as CSV and Excel from the incident list view",
+      "priority": 4,
+      "verification": [
+        "CSV export downloads valid CSV with correct headers",
+        "Excel export downloads valid .xlsx file",
+        "Exported data matches the currently filtered view",
+        "Files open correctly in Excel and Google Sheets"
+      ],
+      "passes": false
+    },
+    {
+      "id": "public-deployment",
+      "description": "Deploy site publicly with HTTPS, custom domain, SEO, and mobile responsiveness",
+      "priority": 5,
+      "verification": [
+        "Site loads at configured domain over HTTPS",
+        "All views function correctly in production",
+        "Page load under 3 seconds on broadband",
+        "Mobile layout usable on 375px viewport"
+      ],
+      "passes": false
+    },
+    {
+      "id": "dedup-improvements",
+      "description": "Entity-based matching with fuzzy matching, confidence scores, and review queue",
+      "priority": 6,
+      "verification": [
+        "Entity-based matching groups articles by school + state + date + type",
+        "Fuzzy matching catches common name variations",
+        "Confidence score assigned to each potential match",
+        "Low-confidence matches held for manual review",
+        "False positive rate under 5%"
+      ],
+      "passes": false
+    },
+    {
+      "id": "additional-news-apis",
+      "description": "Integrate at least one additional news API with plugin architecture and rate limiting",
+      "priority": 7,
+      "verification": [
+        "At least one new source integrated alongside Google News RSS",
+        "New source follows same ingestion interface",
+        "Rate limits respected (no 429 errors)",
+        "Fetch statistics logged per source per run"
+      ],
+      "passes": false
+    }
+  ]
+}
