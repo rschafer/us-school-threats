@@ -107,6 +107,13 @@
     background-repeat: no-repeat; background-position: right 8px center;
   }
   .filter-group select:focus { outline: none; border-color: var(--accent-blue); }
+  .filter-group input[type="date"] {
+    background: var(--bg-secondary); color: var(--text-primary);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 7px 10px; font-size: 13px; cursor: pointer;
+    color-scheme: dark;
+  }
+  .filter-group input[type="date"]:focus { outline: none; border-color: var(--accent-blue); }
   .btn {
     padding: 8px 20px; border: none; border-radius: 6px;
     font-size: 13px; font-weight: 600; cursor: pointer; transition: background 0.15s;
@@ -115,12 +122,54 @@
   .btn-primary:hover { background: #3b7be6; }
   .btn-secondary { background: var(--bg-secondary); color: var(--text-secondary); border: 1px solid var(--border); }
   .btn-secondary:hover { background: var(--bg-hover); }
+  .btn-danger { background: var(--accent-red); color: #fff; }
+  .btn-danger:hover { background: #dc2626; }
   .active-filter-tag {
     display: inline-flex; align-items: center; gap: 6px;
     background: #4f8ff722; color: var(--accent-blue); border: 1px solid #4f8ff744;
     border-radius: 20px; padding: 4px 12px; font-size: 12px; margin-top: 8px;
   }
   .active-filters { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+
+  /* Filter count badge */
+  .filter-count-badge {
+    display: inline-flex; align-items: center; justify-content: center;
+    background: var(--accent-blue); color: #fff; font-size: 11px; font-weight: 700;
+    min-width: 20px; height: 20px; border-radius: 10px; padding: 0 6px;
+    margin-left: 8px;
+  }
+  .filter-count-badge.hidden { display: none; }
+
+  /* Multi-select dropdown */
+  .multi-select {
+    position: relative; min-width: 140px;
+  }
+  .multi-select-trigger {
+    background: var(--bg-secondary); color: var(--text-primary);
+    border: 1px solid var(--border); border-radius: 6px;
+    padding: 8px 28px 8px 10px; font-size: 13px; cursor: pointer;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%239aa0b0' viewBox='0 0 16 16'%3E%3Cpath d='M8 11L3 6h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 8px center;
+    user-select: none;
+  }
+  .multi-select-trigger:focus { outline: none; border-color: var(--accent-blue); }
+  .multi-select-dropdown {
+    display: none; position: absolute; top: 100%; left: 0; z-index: 50;
+    background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: 6px; margin-top: 4px; max-height: 220px; overflow-y: auto;
+    min-width: 100%; box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+  }
+  .multi-select-dropdown.open { display: block; }
+  .multi-select-dropdown label {
+    display: flex; align-items: center; gap: 8px;
+    padding: 6px 12px; font-size: 13px; cursor: pointer;
+    text-transform: none; letter-spacing: normal; color: var(--text-primary);
+  }
+  .multi-select-dropdown label:hover { background: var(--bg-hover); }
+  .multi-select-dropdown input[type="checkbox"] {
+    accent-color: var(--accent-blue); width: 14px; height: 14px; cursor: pointer;
+  }
 
   /* Table */
   .table-section { margin-top: 20px; margin-bottom: 40px; }
@@ -210,13 +259,36 @@
 
   <!-- Filters -->
   <div class="filters-bar" id="filters-bar">
+    <div class="filter-group"><label>Date From</label><input type="date" id="f-date-start"></div>
+    <div class="filter-group"><label>Date To</label><input type="date" id="f-date-end"></div>
     <div class="filter-group"><label>State</label><select id="f-state"><option value="">All States</option></select></div>
     <div class="filter-group"><label>Region</label><select id="f-region"><option value="">All Regions</option></select></div>
-    <div class="filter-group"><label>Threat Type</label><select id="f-type"><option value="">All Types</option></select></div>
+    <div class="filter-group">
+      <label>Threat Type</label>
+      <div class="multi-select" id="ms-type">
+        <div class="multi-select-trigger" tabindex="0">All Types</div>
+        <div class="multi-select-dropdown"></div>
+      </div>
+    </div>
     <div class="filter-group"><label>School Type</label><select id="f-school"><option value="">All School Types</option></select></div>
+    <div class="filter-group">
+      <label>Conveyance</label>
+      <div class="multi-select" id="ms-conveyance">
+        <div class="multi-select-trigger" tabindex="0">All</div>
+        <div class="multi-select-dropdown"></div>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Outcome</label>
+      <div class="multi-select" id="ms-custody">
+        <div class="multi-select-trigger" tabindex="0">All</div>
+        <div class="multi-select-dropdown"></div>
+      </div>
+    </div>
     <div class="filter-group"><label>Gender</label><select id="f-gender"><option value="">All</option></select></div>
-    <button class="btn btn-primary" id="btn-apply">Apply</button>
+    <button class="btn btn-primary" id="btn-apply">Apply <span class="filter-count-badge hidden" id="filter-badge">0</span></button>
     <button class="btn btn-secondary" id="btn-reset">Reset</button>
+    <button class="btn btn-danger" id="btn-clear-all" style="display:none">Clear All Filters</button>
   </div>
   <div class="active-filters" id="active-filters"></div>
 
@@ -269,10 +341,150 @@ const PAGE_SIZE = 20;
 let selectedState = null;
 let chartRegion, chartStates, chartTypes;
 
+// Multi-select state
+const multiSelectState = {
+  'ms-type': [],
+  'ms-conveyance': [],
+  'ms-custody': []
+};
+
 // Chart.js defaults
 Chart.defaults.color = '#9aa0b0';
 Chart.defaults.borderColor = '#2a2e3f';
 Chart.defaults.font.family = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+
+/* ---- DATE PARSING ---- */
+function parseOffenseDate(val) {
+  if (!val || typeof val !== 'string') return null;
+  // Try standard date parse
+  const d = new Date(val);
+  if (!isNaN(d.getTime()) && d.getFullYear() > 2000) return d;
+  // Try MM/DD/YYYY or similar
+  const m = val.match(/^(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})$/);
+  if (m) {
+    const yr = m[3].length === 2 ? 2000 + parseInt(m[3]) : parseInt(m[3]);
+    const d2 = new Date(yr, parseInt(m[1]) - 1, parseInt(m[2]));
+    if (!isNaN(d2.getTime())) return d2;
+  }
+  return null;
+}
+
+/* ---- MULTI-SELECT COMPONENT ---- */
+function initMultiSelect(containerId, values, allLabel) {
+  const container = document.getElementById(containerId);
+  const trigger = container.querySelector('.multi-select-trigger');
+  const dropdown = container.querySelector('.multi-select-dropdown');
+  dropdown.innerHTML = '';
+
+  values.filter(Boolean).sort().forEach(v => {
+    const lbl = document.createElement('label');
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.value = v;
+    cb.addEventListener('change', () => {
+      const checked = [...dropdown.querySelectorAll('input:checked')].map(i => i.value);
+      multiSelectState[containerId] = checked;
+      trigger.textContent = checked.length === 0 ? allLabel : checked.length === 1 ? checked[0] : checked.length + ' selected';
+    });
+    lbl.appendChild(cb);
+    lbl.appendChild(document.createTextNode(v));
+    dropdown.appendChild(lbl);
+  });
+
+  trigger.addEventListener('click', (e) => {
+    e.stopPropagation();
+    // Close other dropdowns
+    document.querySelectorAll('.multi-select-dropdown.open').forEach(d => {
+      if (d !== dropdown) d.classList.remove('open');
+    });
+    dropdown.classList.toggle('open');
+  });
+}
+
+// Close multi-selects on outside click
+document.addEventListener('click', () => {
+  document.querySelectorAll('.multi-select-dropdown.open').forEach(d => d.classList.remove('open'));
+});
+
+/* ---- URL PARAMS ---- */
+function encodeFiltersToURL() {
+  const params = new URLSearchParams();
+  const fs = document.getElementById('f-state').value;
+  const fr = document.getElementById('f-region').value;
+  const fsc = document.getElementById('f-school').value;
+  const fg = document.getElementById('f-gender').value;
+  const ds = document.getElementById('f-date-start').value;
+  const de = document.getElementById('f-date-end').value;
+
+  if (fs) params.set('state', fs);
+  if (fr) params.set('region', fr);
+  if (fsc) params.set('school', fsc);
+  if (fg) params.set('gender', fg);
+  if (ds) params.set('date_start', ds);
+  if (de) params.set('date_end', de);
+  if (multiSelectState['ms-type'].length) params.set('type', multiSelectState['ms-type'].join('|'));
+  if (multiSelectState['ms-conveyance'].length) params.set('conveyance', multiSelectState['ms-conveyance'].join('|'));
+  if (multiSelectState['ms-custody'].length) params.set('custody', multiSelectState['ms-custody'].join('|'));
+
+  const qs = params.toString();
+  const newURL = window.location.pathname + (qs ? '?' + qs : '');
+  history.replaceState(null, '', newURL);
+}
+
+function restoreFiltersFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('state')) document.getElementById('f-state').value = params.get('state');
+  if (params.get('region')) document.getElementById('f-region').value = params.get('region');
+  if (params.get('school')) document.getElementById('f-school').value = params.get('school');
+  if (params.get('gender')) document.getElementById('f-gender').value = params.get('gender');
+  if (params.get('date_start')) document.getElementById('f-date-start').value = params.get('date_start');
+  if (params.get('date_end')) document.getElementById('f-date-end').value = params.get('date_end');
+
+  ['ms-type', 'ms-conveyance', 'ms-custody'].forEach(msId => {
+    const paramKey = msId === 'ms-type' ? 'type' : msId === 'ms-conveyance' ? 'conveyance' : 'custody';
+    const val = params.get(paramKey);
+    if (val) {
+      const values = val.split('|');
+      multiSelectState[msId] = values;
+      const container = document.getElementById(msId);
+      const dropdown = container.querySelector('.multi-select-dropdown');
+      const trigger = container.querySelector('.multi-select-trigger');
+      dropdown.querySelectorAll('input').forEach(cb => {
+        cb.checked = values.includes(cb.value);
+      });
+      trigger.textContent = values.length === 1 ? values[0] : values.length + ' selected';
+    }
+  });
+}
+
+/* ---- FILTER COUNT ---- */
+function getActiveFilterCount() {
+  let count = 0;
+  if (document.getElementById('f-state').value) count++;
+  if (document.getElementById('f-region').value) count++;
+  if (document.getElementById('f-school').value) count++;
+  if (document.getElementById('f-gender').value) count++;
+  if (document.getElementById('f-date-start').value) count++;
+  if (document.getElementById('f-date-end').value) count++;
+  if (multiSelectState['ms-type'].length) count++;
+  if (multiSelectState['ms-conveyance'].length) count++;
+  if (multiSelectState['ms-custody'].length) count++;
+  return count;
+}
+
+function updateFilterBadge() {
+  const count = getActiveFilterCount();
+  const badge = document.getElementById('filter-badge');
+  const clearBtn = document.getElementById('btn-clear-all');
+  if (count > 0) {
+    badge.textContent = count;
+    badge.classList.remove('hidden');
+    clearBtn.style.display = '';
+  } else {
+    badge.classList.add('hidden');
+    clearBtn.style.display = 'none';
+  }
+}
 
 async function init() {
   // Try API first, fall back to static JSON
@@ -292,10 +504,17 @@ async function init() {
   filteredData = [...allData];
 
   populateFilters();
+  restoreFiltersFromURL();
   updateStats(allData);
   drawMap(us);
   createCharts();
-  updateAll();
+
+  // If URL had filters, apply them
+  if (window.location.search) {
+    applyFilters();
+  } else {
+    updateAll();
+  }
   bindEvents();
 }
 
@@ -308,9 +527,13 @@ function populateFilters() {
   };
   fill('f-state', [...new Set(allData.map(d=>d.state))]);
   fill('f-region', [...new Set(allData.map(d=>d.region))]);
-  fill('f-type', [...new Set(allData.map(d=>d.threat_type))]);
   fill('f-school', [...new Set(allData.map(d=>d.school_type))]);
   fill('f-gender', [...new Set(allData.map(d=>d.gender))]);
+
+  // Multi-selects
+  initMultiSelect('ms-type', [...new Set(allData.map(d=>d.threat_type))], 'All Types');
+  initMultiSelect('ms-conveyance', [...new Set(allData.map(d=>d.conveyance))], 'All');
+  initMultiSelect('ms-custody', [...new Set(allData.map(d=>d.custody))], 'All');
 }
 
 function updateStats(data) {
@@ -523,27 +746,75 @@ function renderTable() {
 function applyFilters() {
   const fs = document.getElementById('f-state').value;
   const fr = document.getElementById('f-region').value;
-  const ft = document.getElementById('f-type').value;
   const fsc = document.getElementById('f-school').value;
   const fg = document.getElementById('f-gender').value;
+  const dateStart = document.getElementById('f-date-start').value;
+  const dateEnd = document.getElementById('f-date-end').value;
+  const ftypes = multiSelectState['ms-type'];
+  const fconv = multiSelectState['ms-conveyance'];
+  const fcust = multiSelectState['ms-custody'];
+
   selectedState = fs || null;
 
-  filteredData = allData.filter(d =>
-    (!fs || d.state === fs) &&
-    (!fr || d.region === fr) &&
-    (!ft || d.threat_type === ft) &&
-    (!fsc || d.school_type === fsc) &&
-    (!fg || d.gender === fg)
-  );
+  const startDate = dateStart ? new Date(dateStart + 'T00:00:00') : null;
+  const endDate = dateEnd ? new Date(dateEnd + 'T23:59:59') : null;
+
+  filteredData = allData.filter(d => {
+    if (fs && d.state !== fs) return false;
+    if (fr && d.region !== fr) return false;
+    if (fsc && d.school_type !== fsc) return false;
+    if (fg && d.gender !== fg) return false;
+    if (ftypes.length && !ftypes.includes(d.threat_type)) return false;
+    if (fconv.length && !fconv.includes(d.conveyance)) return false;
+    if (fcust.length && !fcust.includes(d.custody)) return false;
+
+    // Date range filter - only filter records with parseable dates
+    if (startDate || endDate) {
+      const parsed = parseOffenseDate(d.offense_date);
+      if (!parsed) return false;
+      if (startDate && parsed < startDate) return false;
+      if (endDate && parsed > endDate) return false;
+    }
+
+    return true;
+  });
   currentPage = 1;
   updateAll();
   renderActiveTags();
+  updateFilterBadge();
+  encodeFiltersToURL();
+}
+
+function clearAllFilters() {
+  ['f-state','f-region','f-school','f-gender'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('f-date-start').value = '';
+  document.getElementById('f-date-end').value = '';
+
+  // Reset multi-selects
+  ['ms-type','ms-conveyance','ms-custody'].forEach(msId => {
+    multiSelectState[msId] = [];
+    const container = document.getElementById(msId);
+    const trigger = container.querySelector('.multi-select-trigger');
+    container.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+    const labels = { 'ms-type': 'All Types', 'ms-conveyance': 'All', 'ms-custody': 'All' };
+    trigger.textContent = labels[msId];
+  });
+
+  selectedState = null;
+  filteredData = [...allData];
+  currentPage = 1;
+  updateAll();
+  renderActiveTags();
+  updateFilterBadge();
+  encodeFiltersToURL();
 }
 
 function renderActiveTags() {
   const c = document.getElementById('active-filters');
   c.innerHTML = '';
-  const filters = { State: 'f-state', Region: 'f-region', 'Threat Type': 'f-type', 'School Type': 'f-school', Gender: 'f-gender' };
+  const filters = { State: 'f-state', Region: 'f-region', 'School Type': 'f-school', Gender: 'f-gender' };
+
+  // Standard select filters
   Object.entries(filters).forEach(([label, id]) => {
     const v = document.getElementById(id).value;
     if (v) {
@@ -553,6 +824,44 @@ function renderActiveTags() {
       tag.querySelector('[data-clear]').addEventListener('click', e => {
         document.getElementById(e.target.dataset.clear).value = '';
         if (e.target.dataset.clear === 'f-state') selectedState = null;
+        applyFilters();
+      });
+      c.appendChild(tag);
+    }
+  });
+
+  // Date filters
+  const ds = document.getElementById('f-date-start').value;
+  const de = document.getElementById('f-date-end').value;
+  if (ds || de) {
+    const tag = document.createElement('span');
+    tag.className = 'active-filter-tag';
+    const rangeText = ds && de ? `${ds} to ${de}` : ds ? `From ${ds}` : `To ${de}`;
+    tag.innerHTML = `Date: ${rangeText} <span style="cursor:pointer;margin-left:2px" data-clear-date>&times;</span>`;
+    tag.querySelector('[data-clear-date]').addEventListener('click', () => {
+      document.getElementById('f-date-start').value = '';
+      document.getElementById('f-date-end').value = '';
+      applyFilters();
+    });
+    c.appendChild(tag);
+  }
+
+  // Multi-select filters
+  const msLabels = { 'ms-type': 'Threat Type', 'ms-conveyance': 'Conveyance', 'ms-custody': 'Outcome' };
+  Object.entries(msLabels).forEach(([msId, label]) => {
+    const vals = multiSelectState[msId];
+    if (vals.length) {
+      const tag = document.createElement('span');
+      tag.className = 'active-filter-tag';
+      const display = vals.length <= 2 ? vals.join(', ') : vals.length + ' selected';
+      tag.innerHTML = `${label}: ${display} <span style="cursor:pointer;margin-left:2px" data-clear-ms="${msId}">&times;</span>`;
+      tag.querySelector('[data-clear-ms]').addEventListener('click', e => {
+        const id = e.target.dataset.clearMs;
+        multiSelectState[id] = [];
+        const container = document.getElementById(id);
+        container.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+        const defaults = { 'ms-type': 'All Types', 'ms-conveyance': 'All', 'ms-custody': 'All' };
+        container.querySelector('.multi-select-trigger').textContent = defaults[id];
         applyFilters();
       });
       c.appendChild(tag);
@@ -569,14 +878,8 @@ function updateAll() {
 
 function bindEvents() {
   document.getElementById('btn-apply').addEventListener('click', applyFilters);
-  document.getElementById('btn-reset').addEventListener('click', () => {
-    ['f-state','f-region','f-type','f-school','f-gender'].forEach(id => document.getElementById(id).value = '');
-    selectedState = null;
-    filteredData = [...allData];
-    currentPage = 1;
-    updateAll();
-    renderActiveTags();
-  });
+  document.getElementById('btn-reset').addEventListener('click', clearAllFilters);
+  document.getElementById('btn-clear-all').addEventListener('click', clearAllFilters);
   document.querySelectorAll('thead th').forEach(th => {
     th.addEventListener('click', () => {
       const key = th.dataset.key;
