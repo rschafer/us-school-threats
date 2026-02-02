@@ -50,6 +50,10 @@
     padding: 28px 0;
   }
   .header-inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+  .year-toggle { display: flex; background: var(--bg-primary); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+  .year-toggle button { padding: 8px 20px; border: none; background: transparent; color: var(--text-secondary); font-size: 15px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+  .year-toggle button.active { background: var(--accent-blue); color: #fff; }
+  .year-toggle button:hover:not(.active) { background: var(--bg-hover); color: var(--text-primary); }
   .header h1 { font-size: 26px; font-weight: 700; letter-spacing: -0.5px; }
   .header h1 span { color: var(--accent-blue); }
   .stats { display: flex; gap: 32px; flex-wrap: wrap; }
@@ -245,7 +249,12 @@
 
 <div class="header">
   <div class="container header-inner">
-    <h1>US School Threats &mdash; <span>2025–2026</span></h1>
+    <h1>US School Threats &mdash; <span id="header-year">2026</span></h1>
+    <div class="year-toggle" id="year-toggle">
+      <button data-year="2025">2025</button>
+      <button data-year="2026" class="active">2026</button>
+      <button data-year="all">All</button>
+    </div>
     <div class="stats">
       <div class="stat"><div class="stat-value" id="stat-total">--</div><div class="stat-label">Total Incidents</div></div>
       <div class="stat"><div class="stat-value" id="stat-states">--</div><div class="stat-label">States Affected</div></div>
@@ -356,6 +365,8 @@ const FIPS = {
 const FIPS_REV = Object.fromEntries(Object.entries(FIPS).map(([k,v])=>[v,k]));
 
 let allData = [], filteredData = [], sortKey = 'id', sortAsc = true, currentPage = 1;
+let data2025 = [], data2026 = [];
+let currentYear = '2026';
 const PAGE_SIZE = 20;
 let selectedState = null;
 let chartRegion, chartStates, chartTypes;
@@ -506,21 +517,21 @@ function updateFilterBadge() {
 }
 
 async function init() {
-  // Try API first, fall back to static JSON
-  const apiBase = window.location.origin;
-  let dataPromise;
-  try {
-    const resp = await fetch(`${apiBase}/api/incidents`);
-    if (resp.ok) { dataPromise = resp.json(); } else { throw new Error('API unavailable'); }
-  } catch {
-    dataPromise = fetch('data/school_threats_2026.json').then(r => r.json());
+  // Load both years + map data in parallel
+  const load2026 = fetch('data/school_threats_2026.json').then(r => r.json()).catch(() => []);
+  const load2025 = fetch('data/school_threats_2025.json').then(r => r.json()).catch(() => []);
+  const loadMap = fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(r => r.json());
+
+  const [d2026, d2025, us] = await Promise.all([load2026, load2025, loadMap]);
+  data2026 = d2026;
+  data2025 = d2025;
+
+  // Check URL for year param
+  const urlYear = new URLSearchParams(window.location.search).get('year');
+  if (urlYear && ['2025', '2026', 'all'].includes(urlYear)) {
+    currentYear = urlYear;
   }
-  const [data, us] = await Promise.all([
-    dataPromise,
-    fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(r => r.json())
-  ]);
-  allData = data;
-  filteredData = [...allData];
+  setYearData(currentYear);
 
   populateFilters();
   restoreFiltersFromURL();
@@ -528,18 +539,60 @@ async function init() {
   drawMap(us);
   createCharts();
 
-  // If URL had filters, apply them
   if (window.location.search) {
     applyFilters();
   } else {
     updateAll();
   }
   bindEvents();
+  bindYearToggle();
+}
+
+function setYearData(year) {
+  currentYear = year;
+  if (year === '2025') allData = [...data2025];
+  else if (year === '2026') allData = [...data2026];
+  else allData = [...data2025, ...data2026];
+  filteredData = [...allData];
+  // Update header
+  document.getElementById('header-year').textContent = year === 'all' ? '2025–2026' : year;
+  // Update toggle buttons
+  document.querySelectorAll('#year-toggle button').forEach(b => {
+    b.classList.toggle('active', b.dataset.year === year);
+  });
+  // Update URL
+  const url = new URL(window.location);
+  if (year === '2026') url.searchParams.delete('year');
+  else url.searchParams.set('year', year);
+  history.replaceState(null, '', url);
+}
+
+function bindYearToggle() {
+  document.getElementById('year-toggle').addEventListener('click', e => {
+    const btn = e.target.closest('button[data-year]');
+    if (!btn || btn.dataset.year === currentYear) return;
+    setYearData(btn.dataset.year);
+    // Re-populate filters for new dataset
+    clearFilterSelections();
+    populateFilters();
+    updateStats(allData);
+    filteredData = [...allData];
+    updateAll();
+  });
+}
+
+function clearFilterSelections() {
+  document.querySelectorAll('.filters select').forEach(s => s.value = '');
+  document.getElementById('date-start') && (document.getElementById('date-start').value = '');
+  document.getElementById('date-end') && (document.getElementById('date-end').value = '');
+  Object.keys(multiSelectState).forEach(k => { multiSelectState[k] = []; });
 }
 
 function populateFilters() {
   const fill = (id, vals) => {
     const sel = document.getElementById(id);
+    // Clear existing options except first (the "All" option)
+    while (sel.options.length > 1) sel.remove(1);
     vals.filter(Boolean).sort().forEach(v => {
       const o = document.createElement('option'); o.value = v; o.textContent = v; sel.appendChild(o);
     });
