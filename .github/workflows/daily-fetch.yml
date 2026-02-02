@@ -1,0 +1,79 @@
+name: Daily News Fetch
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 8 AM EST / 1 PM UTC daily
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch_news.py
+        id: fetch
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          RSS_URL: ${{ secrets.RSS_URL }}
+        run: |
+          echo "timestamp=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
+          python scripts/fetch_news.py 2>&1 | tee fetch_output.log
+          # Count articles in news_feed.json
+          ARTICLE_COUNT=$(python -c "import json; print(len(json.load(open('data/news_feed.json'))))")
+          echo "article_count=$ARTICLE_COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Run news_to_stubs.py
+        id: stubs
+        run: |
+          python scripts/news_to_stubs.py 2>&1 | tee stubs_output.log
+          if [ -f data/stub_incidents_from_news.json ]; then
+            STUB_COUNT=$(python -c "import json; print(len(json.load(open('data/stub_incidents_from_news.json'))))")
+          else
+            STUB_COUNT=0
+          fi
+          echo "stub_count=$STUB_COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Merge stubs into dataset
+        run: python scripts/news_to_stubs.py --merge 2>&1 | tee merge_output.log
+
+      - name: Log run results
+        run: |
+          mkdir -p logs
+          cat >> logs/fetch_log.jsonl << EOF
+          {"timestamp": "${{ steps.fetch.outputs.timestamp }}", "articles": ${{ steps.fetch.outputs.article_count }}, "stubs": ${{ steps.stubs.outputs.stub_count }}, "status": "success"}
+          EOF
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ logs/
+          git diff --staged --quiet || git commit -m "Daily fetch: ${{ steps.fetch.outputs.article_count }} articles, ${{ steps.stubs.outputs.stub_count }} stubs"
+          git push
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `Daily fetch failed: ${new Date().toISOString().split('T')[0]}`;
+            const body = `The daily news fetch workflow failed.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: ['pipeline-failure']
+            });
