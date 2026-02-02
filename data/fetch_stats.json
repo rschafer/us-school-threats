@@ -8,6 +8,33 @@
           "timestamp": "2026-02-02T18:42:13Z"
         }
       }
+    },
+    {
+      "timestamp": "2026-02-02T18:46:07Z",
+      "sources": {
+        "google_news_rss": {
+          "articles_fetched": 330,
+          "timestamp": "2026-02-02T18:46:07Z"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-02T19:03:38Z",
+      "sources": {
+        "google_news_rss": {
+          "articles_fetched": 338,
+          "timestamp": "2026-02-02T19:03:38Z"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-02T19:03:59Z",
+      "sources": {
+        "google_news_rss": {
+          "articles_fetched": 250,
+          "timestamp": "2026-02-02T19:03:59Z"
+        }
+      }
     }
   ]
 }
