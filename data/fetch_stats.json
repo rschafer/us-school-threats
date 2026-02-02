@@ -61,6 +61,32 @@
           "timestamp": "2026-02-02T19:11:28Z"
         }
       }
+    },
+    {
+      "timestamp": "2026-02-02T19:15:01Z",
+      "sources": {
+        "google_news_rss": {
+          "articles_fetched": 322,
+          "timestamp": "2026-02-02T19:14:34Z"
+        },
+        "gdelt": {
+          "articles_fetched": 929,
+          "timestamp": "2026-02-02T19:15:00Z"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-02T19:16:24Z",
+      "sources": {
+        "google_news_rss": {
+          "articles_fetched": 272,
+          "timestamp": "2026-02-02T19:16:06Z"
+        },
+        "gdelt": {
+          "articles_fetched": 903,
+          "timestamp": "2026-02-02T19:16:22Z"
+        }
+      }
     }
   ]
 }

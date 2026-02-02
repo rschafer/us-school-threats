@@ -266,7 +266,13 @@
 <div class="container">
   <!-- Map -->
   <div class="map-section card">
-    <div class="card-title">Incidents by State</div>
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+      <div class="card-title" style="margin-bottom:0">Incidents by State</div>
+      <div class="year-toggle" id="map-mode-toggle" style="font-size:13px;">
+        <button data-mode="total" class="active" style="padding:5px 14px;">Total</button>
+        <button data-mode="percapita" style="padding:5px 14px;">Per Capita</button>
+      </div>
+    </div>
     <div class="map-container" id="map"></div>
     <div class="legend">
       <span>0</span>
@@ -367,9 +373,25 @@ const FIPS_REV = Object.fromEntries(Object.entries(FIPS).map(([k,v])=>[v,k]));
 let allData = [], filteredData = [], sortKey = 'id', sortAsc = true, currentPage = 1;
 let data2025 = [], data2026 = [];
 let currentYear = '2026';
+let mapMode = 'total'; // 'total' or 'percapita'
 const PAGE_SIZE = 20;
 let selectedState = null;
 let chartRegion, chartStates, chartTypes;
+
+// 2024 US Census population estimates (millions)
+const STATE_POP = {
+  "Alabama":5.1,"Alaska":0.73,"Arizona":7.4,"Arkansas":3.05,"California":38.9,
+  "Colorado":5.9,"Connecticut":3.6,"Delaware":1.02,"Florida":22.6,"Georgia":11.0,
+  "Hawaii":1.44,"Idaho":2.0,"Illinois":12.5,"Indiana":6.9,"Iowa":3.2,"Kansas":2.94,
+  "Kentucky":4.5,"Louisiana":4.6,"Maine":1.39,"Maryland":6.2,"Massachusetts":7.0,
+  "Michigan":10.0,"Minnesota":5.7,"Mississippi":2.9,"Missouri":6.2,"Montana":1.13,
+  "Nebraska":2.0,"Nevada":3.2,"New Hampshire":1.4,"New Jersey":9.3,"New Mexico":2.1,
+  "New York":19.6,"North Carolina":10.8,"North Dakota":0.78,"Ohio":11.8,"Oklahoma":4.0,
+  "Oregon":4.2,"Pennsylvania":12.9,"Rhode Island":1.1,"South Carolina":5.3,
+  "South Dakota":0.91,"Tennessee":7.1,"Texas":30.5,"Utah":3.4,"Vermont":0.65,
+  "Virginia":8.7,"Washington":7.8,"West Virginia":1.77,"Wisconsin":5.9,"Wyoming":0.58,
+  "Washington D.C.":0.69
+};
 
 // Multi-select state
 const multiSelectState = {
@@ -546,6 +568,7 @@ async function init() {
   }
   bindEvents();
   bindYearToggle();
+  bindMapModeToggle();
 }
 
 function setYearData(year) {
@@ -565,6 +588,16 @@ function setYearData(year) {
   if (year === '2026') url.searchParams.delete('year');
   else url.searchParams.set('year', year);
   history.replaceState(null, '', url);
+}
+
+function bindMapModeToggle() {
+  document.getElementById('map-mode-toggle').addEventListener('click', e => {
+    const btn = e.target.closest('button[data-mode]');
+    if (!btn || btn.dataset.mode === mapMode) return;
+    mapMode = btn.dataset.mode;
+    document.querySelectorAll('#map-mode-toggle button').forEach(b => b.classList.toggle('active', b.dataset.mode === mapMode));
+    updateMap();
+  });
 }
 
 function bindYearToggle() {
@@ -640,16 +673,28 @@ function drawMap(us) {
 }
 
 function updateMap() {
-  const counts = {};
-  filteredData.forEach(d => { if(d.state && FIPS[d.state]) counts[FIPS[d.state]] = (counts[FIPS[d.state]]||0)+1; });
-  const max = Math.max(1, ...Object.values(counts));
-  document.getElementById('legend-max').textContent = max;
+  const rawCounts = {};
+  filteredData.forEach(d => { if(d.state && FIPS[d.state]) rawCounts[FIPS[d.state]] = (rawCounts[FIPS[d.state]]||0)+1; });
+
+  // Build display values (raw or per capita)
+  const displayVals = {};
+  for (const [fips, count] of Object.entries(rawCounts)) {
+    const name = FIPS_REV[fips];
+    if (mapMode === 'percapita' && name && STATE_POP[name]) {
+      displayVals[fips] = count / STATE_POP[name]; // per million
+    } else {
+      displayVals[fips] = count;
+    }
+  }
+  const max = Math.max(0.01, ...Object.values(displayVals));
+  const legendLabel = mapMode === 'percapita' ? max.toFixed(1) + '/M' : max;
+  document.getElementById('legend-max').textContent = legendLabel;
   colorScale = d3.scaleSequential(d3.interpolateRgbBasis(['#1a2744','#1e3a5f','#4f8ff7','#e07040','#ef4444']))
     .domain([0, max]);
   mapSvg.selectAll('.state-path')
     .attr('fill', d => {
-      const c = counts[String(d.id).padStart(2,'0')] || 0;
-      return c > 0 ? colorScale(c) : '#1a1d27';
+      const v = displayVals[String(d.id).padStart(2,'0')] || 0;
+      return v > 0 ? colorScale(v) : '#1a1d27';
     })
     .classed('selected', d => selectedState && FIPS_REV[String(d.id).padStart(2,'0')] === selectedState);
 }
@@ -660,8 +705,10 @@ function mapHover(e, d) {
   const counts = {};
   filteredData.forEach(r => { if(r.state && FIPS[r.state]) counts[FIPS[r.state]] = (counts[FIPS[r.state]]||0)+1; });
   const c = counts[fips] || 0;
+  const pop = STATE_POP[name];
+  const perCap = pop ? (c / pop).toFixed(1) : '?';
   const tt = document.getElementById('tooltip');
-  tt.innerHTML = `<span class="tt-state">${name}</span><br><span class="tt-count">${c} incident${c!==1?'s':''}</span>`;
+  tt.innerHTML = `<span class="tt-state">${name}</span><br><span class="tt-count">${c} incident${c!==1?'s':''}</span>${pop ? `<br><span style="color:var(--text-secondary);font-size:12px">${perCap} per million</span>` : ''}`;
   tt.style.display = 'block';
 }
 function mapMove(e) {
@@ -681,22 +728,46 @@ function mapClick(e, d) {
 /* ---- CHARTS ---- */
 const PALETTE = ['#4f8ff7','#ef4444','#22c55e','#f59e0b','#a78bfa','#ec4899','#06b6d4','#84cc16','#f97316','#6366f1','#14b8a6','#e879f9','#fbbf24','#fb7185'];
 
+function pctTooltip(context) {
+  const dataset = context.dataset;
+  const total = dataset.data.reduce((a, b) => a + b, 0);
+  const value = dataset.data[context.dataIndex];
+  const pct = total > 0 ? ((value / total) * 100).toFixed(1) : '0.0';
+  return `${context.label}: ${value} (${pct}%)`;
+}
+
 function createCharts() {
+  const pieTooltipOpts = { callbacks: { label: pctTooltip } };
   chartRegion = new Chart(document.getElementById('chart-region'), {
     type: 'pie', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
-    options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { padding: 14, font: { size: 12 } } } } }
+    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { padding: 14, font: { size: 12 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
   });
   chartStates = new Chart(document.getElementById('chart-states'), {
     type: 'bar', data: { labels: [], datasets: [{ data: [], backgroundColor: '#4f8ff7', borderRadius: 4, barThickness: 18 }] },
     options: {
       responsive: true, indexAxis: 'y',
-      plugins: { legend: { display: false } },
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: (ctx) => { const total = filteredData.filter(d=>d.state).length; const pct = total > 0 ? ((ctx.raw/total)*100).toFixed(1) : '0.0'; return `${ctx.raw} (${pct}%)`; } } } },
       scales: { x: { grid: { color: '#2a2e3f' }, ticks: { font: { size: 11 } } }, y: { grid: { display: false }, ticks: { font: { size: 11 } } } }
     }
   });
   chartTypes = new Chart(document.getElementById('chart-types'), {
     type: 'doughnut', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
-    options: { responsive: true, plugins: { legend: { position: 'bottom', labels: { padding: 14, font: { size: 11 } } } } }
+    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { padding: 14, font: { size: 11 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
+  });
+}
+
+function pctLegendLabels(chart) {
+  const ds = chart.data.datasets[0];
+  const total = ds.data.reduce((a, b) => a + b, 0);
+  return chart.data.labels.map((label, i) => {
+    const val = ds.data[i];
+    const pct = total > 0 ? ((val / total) * 100).toFixed(0) : '0';
+    return {
+      text: `${label}: ${val} (${pct}%)`,
+      fillStyle: ds.backgroundColor[i % ds.backgroundColor.length],
+      hidden: !chart.getDataVisibility(i),
+      index: i
+    };
   });
 }
 

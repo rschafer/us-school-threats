@@ -1,6 +1,31 @@
 [
   {
     "id": 1,
+    "school": "",
+    "school_type": "",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWpSZ25nSHNBLWllTndvZG5tbFNhM0tqelhHZDBLNDlNWmszdUZ0ZG45T19JV3RrMGxXdy1zTElPY2JZWGRyY2xuS3RaTzNhVWstQzBoNFAwYUNCT0VBUV9hNWphOV9jSXVtdkdvVkRoVmxjUTZzc0RJSUdLdEhYczBlaE1sa2g2Q2V2eHZPXzhoSDRXSVhBeUhTUlpsQnZSVDVjUDZFaG5aaVVlcDh4cGFaRVUzaVJNbUJVbUl1ZXZ4bU0?oc=5",
+    "offense_date": "2-Feb",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Bomb threats close Minnesota schools in district where Liam Conejo Ramos lives, police say &nbsp;&nbsp; Scripps News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 2,
     "school": "Law For Oxnard School",
     "school_type": "",
     "state": "California",
@@ -25,7 +50,32 @@
     "additional_sources": ""
   },
   {
-    "id": 2,
+    "id": 3,
+    "school": "",
+    "school_type": "High School",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlZWeXhMRDNoSUZOcDJ2SlE2YUpxM0JCeUhuNUZmdlF4QnVCWWdwRE5ZMnhsQUNYV04td1RzTEdHUlVsdFZBNUZBRGxKcjlqMm1BYjEweDFubS1ObXQwaFVOR0xXcGhGTlZheTJzWVEyWjVIaVExU3gxbHgwVEhTbmNkSTVfem0zTFVFc2dwNWZKN0t0Tjh0TjdIWmowN2duR2UxelJfSlk?oc=5",
+    "offense_date": "2-Feb",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Firearm seized at Barrie, Ont., high school, three youths arrested &nbsp;&nbsp; CTV News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 4,
     "school": "",
     "school_type": "",
     "state": "South Carolina",
@@ -50,7 +100,7 @@
     "additional_sources": ""
   },
   {
-    "id": 3,
+    "id": 5,
     "school": "",
     "school_type": "",
     "state": "Maine",
@@ -75,7 +125,7 @@
     "additional_sources": ""
   },
   {
-    "id": 4,
+    "id": 6,
     "school": "",
     "school_type": "",
     "state": "Oregon",
@@ -100,7 +150,7 @@
     "additional_sources": ""
   },
   {
-    "id": 5,
+    "id": 7,
     "school": "",
     "school_type": "",
     "state": "Maine",
@@ -125,7 +175,32 @@
     "additional_sources": ""
   },
   {
-    "id": 6,
+    "id": 8,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.winknews.com/news/collier/aubrey-rogers-student-arrested-after-alleged-threat-of-violence-on-social-media/article_eda41758-7686-40a0-a6ad-2d51c876caff.html",
+    "offense_date": "2-Feb",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Aubrey Rogers student arrested after alleged violence threat | Collier County",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 9,
     "school": "Columbia Heights Public Schools",
     "school_type": "",
     "state": "South Carolina",
@@ -150,7 +225,7 @@
     "additional_sources": "https://www.fox9.com/news/columbia-heights-schools-threat-liam-ramos, https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1RaRzBBVXN5d3F4Q1dWTFRORlpGMmN1alctTW1tdGZLVGFWOHl3d1BNNjdhQUozbXZlY2F1b2gtUGJaeU9lRjRZSzhTRUZLbWZmMVM4b1ZsZzNmZ04wRTRDdTZZalRKVG5uSm1KZWdvTGItSXhudnNmc0VEQWxRa0taZ2dzR0pDSTFwSFZjU2tjVGxOcjd4RnFsYktRX0hm?oc=5, https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGw2d2t4b3VQRmZ5UmhIdGFxOUMtUzAzM2hseVRyWXYySzUxMjczMlRoQzM1TTBKMmxWaDlteVpIT2xLY2VLaDlqeUZMLWJkVzdnVXo2c0tJM0hKOE1wekw5Z3RRanMyRjI1bkRoSkMwMVhQdlRTd2E4T1k0SjNSQkhrdmRXNi14dElqM0RCOHlDTlNkdzlsVmFCUVBORkhLX09sanlJdVhqWV8wTkVXMERHR0I2NUZuT2w4Tm44RlZ3Q0xzbW1VRTc4TTI2OWdEZURPM2dDR0xoaElHZjJqcEVWTXhLZ3JFV2JHejYtV2VWZw?oc=5"
   },
   {
-    "id": 7,
+    "id": 10,
     "school": "",
     "school_type": "",
     "state": "",
@@ -175,7 +250,7 @@
     "additional_sources": ""
   },
   {
-    "id": 8,
+    "id": 11,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -200,7 +275,32 @@
     "additional_sources": ""
   },
   {
-    "id": 9,
+    "id": 12,
+    "school": "Elite NYC Prep School",
+    "school_type": "",
+    "state": "New York",
+    "region": "Northeast",
+    "source": "https://www.breitbart.com/education/2026/02/01/girls-sue-elite-nyc-prep-school-over-teacher-soliciting-nudes-then-distributing-them-as-revenge-porn/",
+    "offense_date": "1-Feb",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Girls Sue Elite NYC Prep School over Teacher Distributing  Revenge Porn",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 13,
     "school": "Little Cypress Junior High School",
     "school_type": "Middle School",
     "state": "",
@@ -225,7 +325,7 @@
     "additional_sources": ""
   },
   {
-    "id": 10,
+    "id": 14,
     "school": "Tucker High School",
     "school_type": "High School",
     "state": "",
@@ -250,7 +350,32 @@
     "additional_sources": ""
   },
   {
-    "id": 11,
+    "id": 15,
+    "school": "",
+    "school_type": "",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://www.foxnews.com/us/campus-radicals-dems-target-military-school-chicago-teachers-wreak-havoc-college-nurses-viral-scandal",
+    "offense_date": "31-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Campus Radicals : Dems target VMI , Chicago teachers protest , anti - ICE nurse fired",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 16,
     "school": "Kealakehe Elementary School",
     "school_type": "Elementary School",
     "state": "",
@@ -275,7 +400,7 @@
     "additional_sources": ""
   },
   {
-    "id": 12,
+    "id": 17,
     "school": "",
     "school_type": "",
     "state": "",
@@ -300,7 +425,7 @@
     "additional_sources": ""
   },
   {
-    "id": 13,
+    "id": 18,
     "school": "Stanford University School",
     "school_type": "High School",
     "state": "",
@@ -325,7 +450,7 @@
     "additional_sources": ""
   },
   {
-    "id": 14,
+    "id": 19,
     "school": "",
     "school_type": "",
     "state": "",
@@ -350,7 +475,7 @@
     "additional_sources": ""
   },
   {
-    "id": 15,
+    "id": 20,
     "school": "Rainier Beach High School",
     "school_type": "High School",
     "state": "",
@@ -375,7 +500,7 @@
     "additional_sources": ""
   },
   {
-    "id": 16,
+    "id": 21,
     "school": "Wayne Community Schools",
     "school_type": "",
     "state": "",
@@ -400,7 +525,57 @@
     "additional_sources": ""
   },
   {
-    "id": 17,
+    "id": 22,
+    "school": "",
+    "school_type": "",
+    "state": "Missouri",
+    "region": "Midwest",
+    "source": "http://sedaliademocrat.com/stories/missouri-appeals-court-rejects-secretary-of-states-ballot-language-on-private-school-funding-ban,51139",
+    "offense_date": "31-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Missouri appeals court rejects Secretary of State ballot language on private school funding ban",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.komu.com/news/state/missouri-appeals-court-rejects-secretary-of-state-s-ballot-language-on-private-school-funding-ban/article_1bda6b19-4153-4113-b232-8c0658418d21.html, https://www.newstribune.com/news/2026/jan/31/missouri-appeals-court-rejects-secretary-of/"
+  },
+  {
+    "id": 23,
+    "school": "",
+    "school_type": "",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://www.king5.com/article/news/crime/2-shot-killed-near-seattle-school-rainier-beach/281-4d6080fa-7161-4fd4-a76c-49cf77958863",
+    "offense_date": "31-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "2  young  people shot , killed near Seattle school",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 24,
     "school": "",
     "school_type": "",
     "state": "",
@@ -425,7 +600,7 @@
     "additional_sources": "https://www.timesheraldonline.com/2026/01/30/false-threat-rumors-rattle-vacaville-schools/"
   },
   {
-    "id": 18,
+    "id": 25,
     "school": "Medford High School",
     "school_type": "High School",
     "state": "",
@@ -450,7 +625,7 @@
     "additional_sources": ""
   },
   {
-    "id": 19,
+    "id": 26,
     "school": "",
     "school_type": "High School",
     "state": "",
@@ -475,7 +650,57 @@
     "additional_sources": ""
   },
   {
-    "id": 20,
+    "id": 27,
+    "school": "",
+    "school_type": "",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://www.fox43.com/article/news/local/dauphin-county/governor-shapiro-pushes-for-classroom-cellphone-ban-to-reduce-distractions-in-pennsylvania-schools/521-c2ec590b-9b72-4920-9bb0-8bb93d3f3751",
+    "offense_date": "31-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Governor Shapiro pushes for classroom cellphone ban to reduce distractions in Pennsylvania schools",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 28,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.yahoo.com/news/articles/mistaken-identity-leads-police-drawing-003102631.html",
+    "offense_date": "31-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Mistaken identity leads to police drawing weapons , handcuffing Prince George , B . C ., school trustee",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 29,
     "school": "",
     "school_type": "",
     "state": "Wisconsin",
@@ -500,7 +725,7 @@
     "additional_sources": ""
   },
   {
-    "id": 21,
+    "id": 30,
     "school": "",
     "school_type": "",
     "state": "Nebraska",
@@ -525,7 +750,7 @@
     "additional_sources": ""
   },
   {
-    "id": 22,
+    "id": 31,
     "school": "HEM High School",
     "school_type": "High School",
     "state": "",
@@ -550,7 +775,7 @@
     "additional_sources": ""
   },
   {
-    "id": 23,
+    "id": 32,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -575,7 +800,7 @@
     "additional_sources": ""
   },
   {
-    "id": 24,
+    "id": 33,
     "school": "New Braunfels Area School",
     "school_type": "",
     "state": "",
@@ -600,7 +825,7 @@
     "additional_sources": ""
   },
   {
-    "id": 25,
+    "id": 34,
     "school": "Wayne Community Schools",
     "school_type": "",
     "state": "",
@@ -625,7 +850,7 @@
     "additional_sources": ""
   },
   {
-    "id": 26,
+    "id": 35,
     "school": "",
     "school_type": "",
     "state": "",
@@ -650,7 +875,7 @@
     "additional_sources": ""
   },
   {
-    "id": 27,
+    "id": 36,
     "school": "Fake School",
     "school_type": "",
     "state": "Michigan",
@@ -675,7 +900,32 @@
     "additional_sources": ""
   },
   {
-    "id": 28,
+    "id": 37,
+    "school": "",
+    "school_type": "",
+    "state": "California",
+    "region": "West",
+    "source": "https://www.naturalnews.com/2026-01-30-california-government-targets-schools-low-vaccination-rates.html",
+    "offense_date": "30-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "California medical police state grows : State officials using financial coercion , target 428 schools with so - called  low vaccination rates  \u2013 NaturalNews . com",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 38,
     "school": "Online Claims Palatine School",
     "school_type": "",
     "state": "",
@@ -700,7 +950,7 @@
     "additional_sources": ""
   },
   {
-    "id": 29,
+    "id": 39,
     "school": "",
     "school_type": "",
     "state": "",
@@ -725,7 +975,7 @@
     "additional_sources": ""
   },
   {
-    "id": 30,
+    "id": 40,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -750,7 +1000,7 @@
     "additional_sources": ""
   },
   {
-    "id": 31,
+    "id": 41,
     "school": "",
     "school_type": "",
     "state": "",
@@ -775,7 +1025,7 @@
     "additional_sources": ""
   },
   {
-    "id": 32,
+    "id": 42,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -800,7 +1050,32 @@
     "additional_sources": ""
   },
   {
-    "id": 33,
+    "id": 43,
+    "school": "Earlimart Middle School",
+    "school_type": "Middle School",
+    "state": "",
+    "region": "",
+    "source": "https://bakersfieldnow.com/news/local/earlimart-middle-school-briefly-locked-down-amid-nearby-police-activity-campus-students",
+    "offense_date": "30-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Earlimart Middle School briefly locked down amid nearby police activity",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 44,
     "school": "Maxwell Elementary School",
     "school_type": "Elementary School",
     "state": "",
@@ -825,7 +1100,7 @@
     "additional_sources": ""
   },
   {
-    "id": 34,
+    "id": 45,
     "school": "",
     "school_type": "",
     "state": "",
@@ -850,7 +1125,7 @@
     "additional_sources": ""
   },
   {
-    "id": 35,
+    "id": 46,
     "school": "High School",
     "school_type": "High School",
     "state": "",
@@ -875,7 +1150,7 @@
     "additional_sources": "https://mynewsla.com/crime/2026/01/29/threat-prompts-lockdown-at-high-school-in-woodland-hills/"
   },
   {
-    "id": 36,
+    "id": 47,
     "school": "",
     "school_type": "",
     "state": "",
@@ -900,7 +1175,7 @@
     "additional_sources": ""
   },
   {
-    "id": 37,
+    "id": 48,
     "school": "",
     "school_type": "",
     "state": "",
@@ -925,7 +1200,7 @@
     "additional_sources": ""
   },
   {
-    "id": 38,
+    "id": 49,
     "school": "Aptos High School",
     "school_type": "High School",
     "state": "",
@@ -950,7 +1225,7 @@
     "additional_sources": "https://www.eastbaytimes.com/2026/01/29/authorities-determine-no-ongoing-threat-after-gun-discovery-at-aptos-high-school/"
   },
   {
-    "id": 39,
+    "id": 50,
     "school": "",
     "school_type": "",
     "state": "",
@@ -975,7 +1250,7 @@
     "additional_sources": ""
   },
   {
-    "id": 40,
+    "id": 51,
     "school": "",
     "school_type": "",
     "state": "",
@@ -997,10 +1272,10 @@
     "custody": "Unknown",
     "charges": "Unknown",
     "bond": "N/A",
-    "additional_sources": ""
+    "additional_sources": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVVsMnMxcnJGWWhXWmhZUVhQbFhaa0hYYlNaMi1pN0x3dFIya25Ha2M4TkpVM0FnbGNSZEZQczhaMFZnUUFYREN4aE1CS0RFZTZVT19VRHBKVlNEdkhnNk5aTEdTaVgydENIa1R0dzNmbHJfN3cyaTg3MmhjX3VxWWxmbG1oVXVpZUVSOEVhcVRLQU0tOFlXMXdlLXo3Nl9WTjl6SW5mdEJ2QdIBvgFBVV95cUxPYWNNWEk2SDd1OVN0U1FzWENHRC16N1U1ZHdoT0lZeGd1djFVR0hwdHBURzMzVlZBcFRzV1d2RTI0MkNTbDZwZlJkb29fUk9nMTBFNlVEV3JnRC05c1Nod08tRWsxV2VFRHJ4aXc3YWZZNDJwa1JOemtwVnhtdFlaV0RpOUx2bFpSTEVOSWNNcFhySGdYZFpGd2pLMVA5Ym92LXhmUUFCNFg5WURlbXREVE5Na0IzM3FldTRpRmh3?oc=5"
   },
   {
-    "id": 41,
+    "id": 52,
     "school": "Edgecombe County Public Schools",
     "school_type": "",
     "state": "",
@@ -1025,7 +1300,7 @@
     "additional_sources": ""
   },
   {
-    "id": 42,
+    "id": 53,
     "school": "High Schools",
     "school_type": "High School",
     "state": "Wyoming",
@@ -1050,7 +1325,7 @@
     "additional_sources": ""
   },
   {
-    "id": 43,
+    "id": 54,
     "school": "",
     "school_type": "",
     "state": "Wyoming",
@@ -1075,7 +1350,32 @@
     "additional_sources": ""
   },
   {
-    "id": 44,
+    "id": 55,
+    "school": "",
+    "school_type": "",
+    "state": "California",
+    "region": "West",
+    "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnpxcXM3OEdKd1p2NnJCSnBLWnBVVjQ0Q3BaWUhjejN1SXJsNmZQX01xRmpySGtQUHRCQ2JxbVBTaFFlbmpLdzUzUll1OU1wVkNyenR5SXg2dG9WQnRVVHgyelZlWEo4dkJEZU5SVW8ydy1iREhBOHkwQmxEalJidE5jQnBvY0NNUE53RVl3ampMcXlmbFRsNW5tUktDZUc0MDZNN2pXTnkxQ2FGdkJLb0F1ZVRxSXYwSVhQTkR1bnVWdzZUMkZkZ0dkV3U1WU1ZTksxc1k3NUtzWDliVVU1SjFVUThlUWs?oc=5",
+    "offense_date": "28-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "An armed search, a school unwarned &nbsp;&nbsp; Los Angeles Times",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 56,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -1100,7 +1400,7 @@
     "additional_sources": ""
   },
   {
-    "id": 45,
+    "id": 57,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1125,7 +1425,7 @@
     "additional_sources": ""
   },
   {
-    "id": 46,
+    "id": 58,
     "school": "",
     "school_type": "",
     "state": "Michigan",
@@ -1150,7 +1450,7 @@
     "additional_sources": ""
   },
   {
-    "id": 47,
+    "id": 59,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1175,7 +1475,7 @@
     "additional_sources": "https://www.thevindicator.com:443/article/2210,hull-daisetta-campus-subject-of-bomb-threat"
   },
   {
-    "id": 48,
+    "id": 60,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -1200,7 +1500,32 @@
     "additional_sources": ""
   },
   {
-    "id": 49,
+    "id": 61,
+    "school": "",
+    "school_type": "",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://www.king5.com/article/news/local/schools-washington-lawmakers-limit-where-ice-can-go/281-f69a763a-eb23-4717-a088-c7eb034a98d0",
+    "offense_date": "28-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "As fear ripples through schools , Washington lawmakers move to limit where ICE can go",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.krem.com/article/news/local/schools-washington-lawmakers-limit-where-ice-can-go/281-f69a763a-eb23-4717-a088-c7eb034a98d0"
+  },
+  {
+    "id": 62,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1225,7 +1550,7 @@
     "additional_sources": ""
   },
   {
-    "id": 50,
+    "id": 63,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1250,7 +1575,57 @@
     "additional_sources": ""
   },
   {
-    "id": 51,
+    "id": 64,
+    "school": "",
+    "school_type": "High School",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.gpb.org/news/2026/01/26/bell-bell-cellphone-ban-proposed-for-georgia-high-schools",
+    "offense_date": "27-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Bell to bell  cellphone ban proposed for Georgia high schools | Georgia Public Broadcasting",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 65,
+    "school": "Santa Fe Public Schools",
+    "school_type": "",
+    "state": "New Mexico",
+    "region": "West",
+    "source": "https://www.santafenewmexican.com/news/local_news/santa-fe-public-schools-appoints-interim-safety-security-director/article_c4eb6723-e5f9-4ad3-8219-0740baece4da.html",
+    "offense_date": "27-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Santa Fe Public Schools appoints interim safety , security director",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 66,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1275,7 +1650,7 @@
     "additional_sources": ""
   },
   {
-    "id": 52,
+    "id": 67,
     "school": "FBI Stop Potential School",
     "school_type": "",
     "state": "Montana",
@@ -1300,7 +1675,7 @@
     "additional_sources": "https://ksenam.com/ixp/1106/p/billings-school-shooting-stopped-2026/"
   },
   {
-    "id": 53,
+    "id": 68,
     "school": "Santa Monica High School",
     "school_type": "High School",
     "state": "",
@@ -1325,7 +1700,7 @@
     "additional_sources": ""
   },
   {
-    "id": 54,
+    "id": 69,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1350,7 +1725,82 @@
     "additional_sources": ""
   },
   {
-    "id": 55,
+    "id": 70,
+    "school": "",
+    "school_type": "High School",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.news-daily.com/news/bell-to-bell-cell-phone-ban-proposed-for-georgia-high-schools/article_237b4368-8dae-5af9-affa-92b414a2eb6c.html",
+    "offense_date": "26-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Bell to bell  cell phone ban proposed for Georgia high schools | News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.timesfreepress.com/news/2026/jan/28/bell-to-bell-cell-phone-ban-proposed-for-georgia/"
+  },
+  {
+    "id": 71,
+    "school": "Are Montana Schools",
+    "school_type": "",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://xlcountry.com/montana-school-safety/",
+    "offense_date": "26-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Are Montana Schools Safe ?",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://kmmsam.com/ixp/12/p/montana-school-safety/"
+  },
+  {
+    "id": 72,
+    "school": "",
+    "school_type": "",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://scallywagandvagabond.com/2026/01/kaylie-wirkman-lear-billings-mn-student-stabs-teacher-then-self/",
+    "offense_date": "26-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Kaylie Wirkman Lear love struck Billings student stabs teacher",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 73,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1375,7 +1825,7 @@
     "additional_sources": ""
   },
   {
-    "id": 56,
+    "id": 74,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1400,7 +1850,7 @@
     "additional_sources": ""
   },
   {
-    "id": 57,
+    "id": 75,
     "school": "",
     "school_type": "Elementary School",
     "state": "Texas",
@@ -1425,7 +1875,7 @@
     "additional_sources": ""
   },
   {
-    "id": 58,
+    "id": 76,
     "school": "Covington High School",
     "school_type": "High School",
     "state": "",
@@ -1450,7 +1900,7 @@
     "additional_sources": ""
   },
   {
-    "id": 59,
+    "id": 77,
     "school": "Brandon High School",
     "school_type": "High School",
     "state": "",
@@ -1475,7 +1925,7 @@
     "additional_sources": ""
   },
   {
-    "id": 60,
+    "id": 78,
     "school": "Villanova University",
     "school_type": "University/College",
     "state": "",
@@ -1500,7 +1950,7 @@
     "additional_sources": ""
   },
   {
-    "id": 61,
+    "id": 79,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1525,7 +1975,7 @@
     "additional_sources": ""
   },
   {
-    "id": 62,
+    "id": 80,
     "school": "Sahuarita Middle School",
     "school_type": "Middle School",
     "state": "",
@@ -1550,7 +2000,7 @@
     "additional_sources": ""
   },
   {
-    "id": 63,
+    "id": 81,
     "school": "Woodrow Wilson High School",
     "school_type": "High School",
     "state": "Texas",
@@ -1575,7 +2025,7 @@
     "additional_sources": "https://www.fox4news.com/news/woodrow-wilson-willis-winters-park-shooting"
   },
   {
-    "id": 64,
+    "id": 82,
     "school": "Aptos High School",
     "school_type": "High School",
     "state": "",
@@ -1600,7 +2050,7 @@
     "additional_sources": "https://www.eastbaytimes.com/2026/01/23/juvenile-arrested-in-connection-with-gun-discovered-at-aptos-high-school/"
   },
   {
-    "id": 65,
+    "id": 83,
     "school": "Bishop State Community College",
     "school_type": "University/College",
     "state": "",
@@ -1625,7 +2075,7 @@
     "additional_sources": ""
   },
   {
-    "id": 66,
+    "id": 84,
     "school": "Alcorn State University",
     "school_type": "University/College",
     "state": "",
@@ -1650,7 +2100,7 @@
     "additional_sources": ""
   },
   {
-    "id": 67,
+    "id": 85,
     "school": "Wiley University",
     "school_type": "University/College",
     "state": "",
@@ -1675,7 +2125,7 @@
     "additional_sources": ""
   },
   {
-    "id": 68,
+    "id": 86,
     "school": "Harvard Kennedy School",
     "school_type": "",
     "state": "",
@@ -1700,7 +2150,57 @@
     "additional_sources": ""
   },
   {
-    "id": 69,
+    "id": 87,
+    "school": "",
+    "school_type": "",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.whmi.com/news/fox/conservative-utah-student-says-radical-left-wing-classmate-threatened-kirk-him-before-campus-arrest",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 88,
+    "school": "",
+    "school_type": "",
+    "state": "Utah",
+    "region": "West",
+    "source": "https://www.foxnews.com/us/conservative-utah-student-says-radical-left-wing-classmate-threatened-kirk-him-before-campus-arrest",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Utah student arrested for allegedly threatening to shoot conservatives",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 89,
     "school": "",
     "school_type": "",
     "state": "Florida",
@@ -1725,7 +2225,7 @@
     "additional_sources": ""
   },
   {
-    "id": 70,
+    "id": 90,
     "school": "",
     "school_type": "",
     "state": "Nevada",
@@ -1750,7 +2250,7 @@
     "additional_sources": ""
   },
   {
-    "id": 71,
+    "id": 91,
     "school": "Brown University",
     "school_type": "University/College",
     "state": "",
@@ -1775,7 +2275,7 @@
     "additional_sources": ""
   },
   {
-    "id": 72,
+    "id": 92,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1800,7 +2300,107 @@
     "additional_sources": ""
   },
   {
-    "id": 73,
+    "id": 93,
+    "school": "Washington College",
+    "school_type": "University/College",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://www.myeasternshoremd.com/kent_county_news/news/former-student-arrested-after-threatening-washington-college-shooting/article_5b3e7e3e-3760-4db3-923d-ebc6cfa683e3.html",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Former student arrested after threatening Washington College shooting",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.stardem.com/news/local_news/former-student-arrested-after-threatening-washington-college-shooting/article_a65afdd6-8729-4c0e-a862-bb24006c5a78.html"
+  },
+  {
+    "id": 94,
+    "school": "",
+    "school_type": "",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://www.pennlive.com/nation-world/2026/01/former-uvalde-officer-acquitted-in-trial-over-police-response-to-texas-school-attack.html",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Former Uvalde officer acquitted in trial over police response to Texas school attack",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.al.com/news/2026/01/former-uvalde-officer-acquitted-in-trial-over-police-response-to-texas-school-attack.html"
+  },
+  {
+    "id": 95,
+    "school": "",
+    "school_type": "",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://komonews.com/news/local/south-seattle-schools-resume-normal-operations-after-ice-scare-seattle-public-schools-ice-arrest-police-lockdown-city-of-seattles-immigrant-and-refugee-affairs-rapid-response",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Seattle schools emphasize student protection day after unconfirmed reports of ICE activity",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 96,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.durangoherald.com/articles/jury-deliberating-case-of-former-uvalde-officer-charged-over-response-to-2022-school-attack/",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Jury deliberating case of former Uvalde officer charged over response to 2022 school attack",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 97,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1825,7 +2425,7 @@
     "additional_sources": ""
   },
   {
-    "id": 74,
+    "id": 98,
     "school": "Redan Middle School",
     "school_type": "Middle School",
     "state": "",
@@ -1850,7 +2450,32 @@
     "additional_sources": ""
   },
   {
-    "id": 75,
+    "id": 99,
+    "school": "",
+    "school_type": "",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.chalkbeat.org/detroit/2026/01/21/michigan-school-districts-reject-conditions-on-school-safety-mental-health-funding/",
+    "offense_date": "22-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Hundreds of Michigan school districts reject school safety funding",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 100,
     "school": "Owensboro Middle School",
     "school_type": "Middle School",
     "state": "",
@@ -1875,7 +2500,7 @@
     "additional_sources": ""
   },
   {
-    "id": 76,
+    "id": 101,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1900,7 +2525,7 @@
     "additional_sources": ""
   },
   {
-    "id": 77,
+    "id": 102,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1925,7 +2550,32 @@
     "additional_sources": ""
   },
   {
-    "id": 78,
+    "id": 103,
+    "school": "Redan Middle School",
+    "school_type": "Middle School",
+    "state": "",
+    "region": "",
+    "source": "https://www.wsbtv.com/news/local/dekalb-county/swat-situation-unfolding-dekalb-county-neighborhood-near-redan-middle-school/NQUCO7TY3JGTVF2RFYTX5WYMKQ/",
+    "offense_date": "21-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "SWAT situation unfolding in DeKalb County neighborhood near Redan Middle School",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 104,
     "school": "South Waco Elementary School",
     "school_type": "Elementary School",
     "state": "",
@@ -1950,7 +2600,7 @@
     "additional_sources": ""
   },
   {
-    "id": 79,
+    "id": 105,
     "school": "",
     "school_type": "",
     "state": "",
@@ -1975,7 +2625,32 @@
     "additional_sources": "https://www.fox7austin.com/news/uvalde-school-shooting-trial-closing-arguments-expected-begin, https://cbs6albany.com/news/nation-world/closing-arguments-tuesday-morning-in-former-uvalde-cisd-officers-case"
   },
   {
-    "id": 80,
+    "id": 106,
+    "school": "",
+    "school_type": "",
+    "state": "Maine",
+    "region": "Northeast",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTVlSMk5MVXAtX3RCQXN6ZjhKZVNqblowcUcwaTdoSkh5X24tVWFSREZDSUtZZk1aN3ZXdkIzWEJBSDNZUE01LWEzbFJ0S3R1Z1RYbXM0NGllUGh0MXpjNUhlclV4TUNWeldvb3R4cG5kQnZrWFI3eTFTUmdYNGRJOdIBlAFBVV95cUxQQTlmR0lyamlaRW5GWGI1aUFpMDVDMFcxQjg5RnpoVkdOaWhjS0JoQU1XRV9yRzN4UnBRbzVOalFGTDY2T1k2OHVrYnF1SkhhSUcxRlBfVGJ4RkNjZjhreHJHNS1sc1N3SDJaWVE2MmEtTmZSdXc0dGJyWG1NUHRDUjBWbjZad0JsQ3NpckFqWl9tVXV0?oc=5",
+    "offense_date": "21-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Multiple Maine schools take safety precautions Wedn",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 107,
     "school": "",
     "school_type": "",
     "state": "New York",
@@ -2000,7 +2675,7 @@
     "additional_sources": "https://www.syracuse.com/news/2026/01/central-ny-students-sent-home-early-after-bomb-threat-deputies-search-school.html"
   },
   {
-    "id": 81,
+    "id": 108,
     "school": "Churchill County High School",
     "school_type": "High School",
     "state": "",
@@ -2025,7 +2700,32 @@
     "additional_sources": ""
   },
   {
-    "id": 82,
+    "id": 109,
+    "school": "Six Seattle Schools",
+    "school_type": "",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://www.thestranger.com/news/2026/01/20/80429275/six-seattle-schools-sheltered-in-place-after-unconfirmed-ice-activity",
+    "offense_date": "21-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Six Seattle Schools Sheltered - in - Place After Unconfirmed ICE Activity",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 110,
     "school": "Southaven High School",
     "school_type": "High School",
     "state": "",
@@ -2050,7 +2750,57 @@
     "additional_sources": ""
   },
   {
-    "id": 83,
+    "id": 111,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.tpr.org/news/2026-01-20/prosecution-and-defense-rest-in-trial-of-former-uvalde-school-police-officer",
+    "offense_date": "21-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Prosecution and defense rest in trial of former Uvalde school police officer",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 112,
+    "school": "",
+    "school_type": "",
+    "state": "Indiana",
+    "region": "Midwest",
+    "source": "https://www.news-herald.com/2026/01/20/curt-cignetti-built-a-champion-at-indiana-with-what-he-knew-good-players-from-his-former-school/",
+    "offense_date": "21-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Curt Cignetti built champion at Indiana with what he knew good players from his former school",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "http://www.sitkasentinel.com/stories/curt-cignetti-built-a-champion-at-indiana-with-what-he-knew-good-players-from-his-former-school,111350, https://www.springfieldnewssun.com/news/nation-world/curt-cignetti-built-a-champion-at-indiana-with-what-he-knew-good-players-from-his-former-school/3QIZXIVHNVPXXB36EZN66PB7UY/, https://www.kob.com/ap-top-news/curt-cignetti-built-a-champion-at-indiana-with-what-he-knew-good-players-from-his-former-school/, https://www.wral.com/news/ap/7ab62-curt-cignetti-built-a-champion-at-indiana-with-what-he-knew-good-players-from-his-former-school/"
+  },
+  {
+    "id": 113,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2075,7 +2825,7 @@
     "additional_sources": ""
   },
   {
-    "id": 84,
+    "id": 114,
     "school": "",
     "school_type": "",
     "state": "Nebraska",
@@ -2100,7 +2850,7 @@
     "additional_sources": ""
   },
   {
-    "id": 85,
+    "id": 115,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2125,7 +2875,7 @@
     "additional_sources": "https://www.foxla.com/news/uvalde-school-shooting-trial-verdict, https://www.fox5ny.com/news/uvalde-school-shooting-trial-verdict, https://www.fox7austin.com/news/uvalde-school-shooting-trial-verdict, https://www.ktvu.com/news/uvalde-school-shooting-trial-verdict, https://www.fox5atlanta.com/news/uvalde-school-shooting-trial-verdict, https://www.fox32chicago.com/news/uvalde-school-shooting-trial-verdict, https://www.fox35orlando.com/news/uvalde-school-shooting-trial-verdict"
   },
   {
-    "id": 86,
+    "id": 116,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -2150,7 +2900,7 @@
     "additional_sources": "https://www.wapt.com/article/mccomb-schools-placed-on-lockdown-out-of-abundance-of-caution/70079233, https://www.idsnews.com/article/2026/01/bloomington-mccsc-lockdown-lifted-student-safety-threat"
   },
   {
-    "id": 87,
+    "id": 117,
     "school": "Bridgetown Middle School",
     "school_type": "Middle School",
     "state": "Ohio",
@@ -2175,7 +2925,57 @@
     "additional_sources": "https://local12.com/news/local/cincinnati-middle-school-bomb-threat-evacuated-evacuation-threatening-threatened-explosive-terrorist-bridgetown-students-student-teachers-teacher-staff-announced-district-reunite-parents-parent, https://www.fox19.com/2026/01/20/bridgetown-middle-school-evacuated-after-bomb-threat-superintendent-says/"
   },
   {
-    "id": 88,
+    "id": 118,
+    "school": "",
+    "school_type": "",
+    "state": "Maine",
+    "region": "Northeast",
+    "source": "https://www.chicagotribune.com/2026/01/18/recent-maine-south-nicole-grad-picks-up-three-more-student-emmys/",
+    "offense_date": "18-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Maine South alum Nicole Scimeca won three more student Emmys",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 119,
+    "school": "",
+    "school_type": "",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://komonews.com/news/politics/washington-state-legislature-hears-bill-aimed-at-regulating-ai-use-in-public-schools-high-school-elementary-middle-school-education-safety-technology",
+    "offense_date": "18-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Washington legislature hears bill aimed at regulating AI use in public schools",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 120,
     "school": "",
     "school_type": "High School",
     "state": "Michigan",
@@ -2200,7 +3000,7 @@
     "additional_sources": ""
   },
   {
-    "id": 89,
+    "id": 121,
     "school": "",
     "school_type": "Elementary School",
     "state": "Michigan",
@@ -2225,7 +3025,7 @@
     "additional_sources": ""
   },
   {
-    "id": 90,
+    "id": 122,
     "school": "Threat At Daughter School",
     "school_type": "",
     "state": "Michigan",
@@ -2250,7 +3050,7 @@
     "additional_sources": ""
   },
   {
-    "id": 91,
+    "id": 123,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2275,7 +3075,7 @@
     "additional_sources": ""
   },
   {
-    "id": 92,
+    "id": 124,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2300,7 +3100,7 @@
     "additional_sources": ""
   },
   {
-    "id": 93,
+    "id": 125,
     "school": "Dutchtown High School",
     "school_type": "High School",
     "state": "",
@@ -2325,7 +3125,7 @@
     "additional_sources": ""
   },
   {
-    "id": 94,
+    "id": 126,
     "school": "",
     "school_type": "",
     "state": "California",
@@ -2350,7 +3150,7 @@
     "additional_sources": ""
   },
   {
-    "id": 95,
+    "id": 127,
     "school": "",
     "school_type": "High School",
     "state": "",
@@ -2375,7 +3175,32 @@
     "additional_sources": ""
   },
   {
-    "id": 96,
+    "id": 128,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.kokomotribune.com/news/peru-students-staff-evacuated-after-bomb-threat/article_9ea3fa23-08ef-4916-9410-e905b29f1406.html",
+    "offense_date": "15-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Peru students , staff evacuated after bomb threat",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.pharostribune.com/news/article_135a2c0c-98f5-53b2-82eb-595ca73a2235.html"
+  },
+  {
+    "id": 129,
     "school": "",
     "school_type": "High School",
     "state": "",
@@ -2400,7 +3225,7 @@
     "additional_sources": ""
   },
   {
-    "id": 97,
+    "id": 130,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2425,7 +3250,32 @@
     "additional_sources": ""
   },
   {
-    "id": 98,
+    "id": 131,
+    "school": "",
+    "school_type": "",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://rivergrandrapids.com/ixp/44/p/michigan-cell-phone-ban-revived/",
+    "offense_date": "15-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Michigan Revives Push to Ban Cell Phones in Schools",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 132,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -2450,7 +3300,7 @@
     "additional_sources": ""
   },
   {
-    "id": 99,
+    "id": 133,
     "school": "",
     "school_type": "",
     "state": "Colorado",
@@ -2475,7 +3325,7 @@
     "additional_sources": ""
   },
   {
-    "id": 100,
+    "id": 134,
     "school": "Eastern High School",
     "school_type": "High School",
     "state": "",
@@ -2500,7 +3350,7 @@
     "additional_sources": ""
   },
   {
-    "id": 101,
+    "id": 135,
     "school": "Sr High School",
     "school_type": "High School",
     "state": "",
@@ -2525,7 +3375,7 @@
     "additional_sources": ""
   },
   {
-    "id": 102,
+    "id": 136,
     "school": "Truman Middle School",
     "school_type": "Middle School",
     "state": "",
@@ -2550,7 +3400,7 @@
     "additional_sources": "https://www.sun-sentinel.com/2026/01/27/police-investigate-shooting-near-multiple-schools-in-davie/"
   },
   {
-    "id": 103,
+    "id": 137,
     "school": "Delta County High School",
     "school_type": "High School",
     "state": "Colorado",
@@ -2575,7 +3425,7 @@
     "additional_sources": ""
   },
   {
-    "id": 104,
+    "id": 138,
     "school": "Shelbyville Central High School",
     "school_type": "High School",
     "state": "",
@@ -2600,7 +3450,7 @@
     "additional_sources": ""
   },
   {
-    "id": 105,
+    "id": 139,
     "school": "",
     "school_type": "",
     "state": "New Jersey",
@@ -2625,7 +3475,32 @@
     "additional_sources": ""
   },
   {
-    "id": 106,
+    "id": 140,
+    "school": "",
+    "school_type": "",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://www.kxlh.com/news/montana-news/2-people-stabbed-at-billings-school-witnesses-recount-scary-scene",
+    "offense_date": "15-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "2 people stabbed at Billings school ; witnesses recount  scary  scene",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.krtv.com/news/montana-and-regional-news/2-people-stabbed-at-billings-school-witnesses-recount-scary-scene"
+  },
+  {
+    "id": 141,
     "school": "Port Saint Joe School",
     "school_type": "",
     "state": "",
@@ -2650,7 +3525,57 @@
     "additional_sources": ""
   },
   {
-    "id": 107,
+    "id": 142,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://www.hot103.fm/2026/01/14/police-ask-students-parents-to-report-suspicious-behavior/",
+    "offense_date": "15-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Police Ask Students , Parents to Report Suspicious Behavior",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 143,
+    "school": "Union Grove High School",
+    "school_type": "High School",
+    "state": "",
+    "region": "",
+    "source": "https://www.fox5atlanta.com/news/student-arrested-after-weapons-found-union-grove-high-school",
+    "offense_date": "15-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Student arrested after weapons found at Union Grove High School",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 144,
     "school": "Chandler Park High School",
     "school_type": "High School",
     "state": "Arizona",
@@ -2675,7 +3600,7 @@
     "additional_sources": ""
   },
   {
-    "id": 108,
+    "id": 145,
     "school": "",
     "school_type": "High School",
     "state": "Georgia",
@@ -2700,7 +3625,57 @@
     "additional_sources": "https://www.wsbradio.com/news/crime-and-law/student-found-with-weapon-led-lockdown-metro-atlanta-high-school/DDGL2QEEJVCH3J5VDH2KB4Y4CU/"
   },
   {
-    "id": 109,
+    "id": 146,
+    "school": "",
+    "school_type": "Elementary School",
+    "state": "",
+    "region": "",
+    "source": "https://keprtv.com/news/crime/richland-police-investigate-situation-near-elementary-school",
+    "offense_date": "14-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Richland elementary school on secure and teach as SWAT team responds to nearby home",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 147,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://abc11.com/story/camp-lejeune-tarawa-terrace-lockdown-person-killed-no-students-injured/18401985/",
+    "offense_date": "14-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Camp Lejeune Tarawa Terrace lockdown | One person killed , no students injured",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 148,
     "school": "East Knox Local Schools",
     "school_type": "",
     "state": "",
@@ -2725,7 +3700,7 @@
     "additional_sources": ""
   },
   {
-    "id": 110,
+    "id": 149,
     "school": "After Berkeley County School",
     "school_type": "",
     "state": "California",
@@ -2750,7 +3725,32 @@
     "additional_sources": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTM0T25XSEhuTXlmTllUS0ZzSExKRnRZUzNBaEt1cF9wR0RQdlRpTmdCVHNIc0RlMkV4TF9yWlVVVUNIcF9jV25KaG9YOGtsUWIxRzhGa2hOdUFZNUdaWVpYYlMyeTY2Z0FnSmRXSHQ0ZFdXU2hOZXFub2k4a3pBdlZNaDBwd0Iwc092WTBQZ1NaWk1JYzl2ZGhqS2RPSVhpdlUwZTVfWWs4dUpEb01DQmRVUkMxaVhwUEg5a1BCZlBSLVV5V2JiZ3hxdGhaUmZEZkhIZQ?oc=5, https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGdickR6WlBMLU1semRnMV9wOXQtT2pOR1RLUk9wZEZwcERDLW1vbDAzSzY3VFdLeWNfWDREZGh2VFVvcHVVWkZxUHhiYkFqeUx2a0hxLUhWT1Z2bElsMjFmMmtJVXlIS0txYlMtdWltWnowUUF3ZU0wUnpxeE9nLW1rcXFiY3BtT3k4a0xaSTBoN0l2Mkt2OUhOUUNSb0xOY04wdVVUcDhnVUw5bldJU2U1Q3c5ZnVsX2dSREZpTnlENlN5RlY3Mmx3OG4?oc=5, https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaE1nbUlKNW9GUzV1SHlZM0ZCc2JGY0w3dllueXA2R3M2WVc5UXFmVHdNLVBscGd0YlR2enc2TnhEOU80elhXZm94NVdUOWxWUEpHbkE0ek96Y1dLbDFmUndMblZTS2VTcE9ZaXJqRi02bzhWZVQ2a29IZ3hyVUp6ZEtsQnFCU1N1Qk93cUtPNXN5dXprWGZEYm1VSGhBY2JYd0FyQlRqZEhnTGp5WWctUGlBSzYyTHR2TldPNklEN2lQMVFUM2lFMmIzQWt4MUNj?oc=5, https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU25ZT0h6dlJvaUo4bnBuYzY4Yml3ZVF1SmFjb2ZteS1GQUMzUEFCV01lbTF3LVpmYTlqYU44OVpnam1UcmZiX2xtUE5PWllCdWpiUE1jc3oxTGM5REdUNGxpWjRpczgzNUp2TGxPakh6VF9yN0Z3UUtRT1pCLWduT0lBWmtsRF9MUWR4Nng0T0FOeXUyclh5ZDRFLUlJbHAybWVsTEszQ3Jxa3h6ekdWT085cXZHaVM1RjdsaWNsVmhZTFFzekdCNl9Nc3luclA4RHEyUg?oc=5, https://news.google.com/rss/articles/CBMi1gFBVV95cUxPamR3dTBzMU9xZmJsSnVWTVF0X3MwOG5CRFN5S21meVp2QTVzU0M5RE5fQ2dhZllTSUJxZ2h5QmpjZFFqVTBNSFRsOWlFeDZsd1VDYWlsOUl1SEFYZk4yQ3RsajRDQnRxbDlaRktUNWg3T1lzSndQTXRRRHVvZ2xyUHpDZXN1ZWVJMVRFTTZpSm01d25YRHZIb0tOQ19UYnlJQjFrMUh2UjFiN1g1U1YyNHlWSldvUUxLM3RpU1Jma2QxYW5ZUDV0NnowaElXXzd3WmNxQmZB?oc=5, https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFRkTS1LMzlzcDloQWs1eDJ6dENYN1FPSnhraUZTTDhYb0Z4SllTZW9MNWhCTExxd0tMelhkN2FDU2dIYm4wdXd2Q29GYkJfMkVOUG51SENITHc1blBsWVAyNG9qNndOUnM5ZEZuc3hBdTROQ19DQ3lab25hbHViM2k2YmUwb3g4bEFMb2FjSi1xWXloLW4xcjdzRFhHOXVYd08zNnJUM1FwaWhjY3BYQ0xSUzNOY19qREdhOThmakN5eEJmSHU4UDJOYUlYaGgzQVNkRG9uclhGQQ?oc=5"
   },
   {
-    "id": 111,
+    "id": 150,
+    "school": "Billings Senior High School",
+    "school_type": "High School",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2tJZTZiTFJoY2VTVnFzZVZqaUxHdjNyN0EzWi1NSnQ2U2E0aHRuQWJvaE12a0Y0ZW94RDF1SG9YYkt3bUZ1YklrM19pWmpPUktwdXJuRVJjdFBjT0pFMG1PckdFUVdmUWQ2UEZEN0d3UHJMaHVSQVlmblZwcC1LazJ0OE5iVmFhLW13QXAzQmc5UlBtNXRwTnJqMnpxU1FIekh0cTFHdllhNmhlNzZIb3FR?oc=5",
+    "offense_date": "14-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Teacher in stable condition after being stabbed at Billings Senior High School &nbsp;&nbsp; NBC Montana",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 151,
     "school": "",
     "school_type": "",
     "state": "Colorado",
@@ -2775,7 +3775,7 @@
     "additional_sources": "https://www.kjct8.com/2026/01/15/several-colorado-schools-go-lockdown-after-receiving-similar-threats/"
   },
   {
-    "id": 112,
+    "id": 152,
     "school": "",
     "school_type": "",
     "state": "Colorado",
@@ -2800,7 +3800,7 @@
     "additional_sources": ""
   },
   {
-    "id": 113,
+    "id": 153,
     "school": "",
     "school_type": "High School",
     "state": "Florida",
@@ -2825,7 +3825,7 @@
     "additional_sources": ""
   },
   {
-    "id": 114,
+    "id": 154,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2850,7 +3850,7 @@
     "additional_sources": ""
   },
   {
-    "id": 115,
+    "id": 155,
     "school": "",
     "school_type": "Middle School",
     "state": "",
@@ -2875,7 +3875,7 @@
     "additional_sources": ""
   },
   {
-    "id": 116,
+    "id": 156,
     "school": "",
     "school_type": "",
     "state": "Colorado",
@@ -2900,7 +3900,7 @@
     "additional_sources": ""
   },
   {
-    "id": 117,
+    "id": 157,
     "school": "Ludington High School",
     "school_type": "High School",
     "state": "",
@@ -2925,7 +3925,32 @@
     "additional_sources": ""
   },
   {
-    "id": 118,
+    "id": 158,
+    "school": "",
+    "school_type": "High School",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://www.ktvq.com/news/crime-watch/police-teacher-stabbed-during-altercation-with-student-at-billings-senior-high-school",
+    "offense_date": "14-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Police : Teacher stabbed during altercation with student at Billings Senior High",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXRXbDd3ckNvaUpoTEktaEN6ZVNmZWxRV25WSVlKR29CT0NvMUFjdWpWNllqUVY2X3ZKLWo5UG93WS1vRUY0VzliMWZTalZsZ05PRkNWSVVoS000SkNTVld5cjM3ZmJjLW9xUjhPLTlmYnc3V0djNGRXNU0tV19BLVhsSkM5S1RKTUZOYTdGTkFWWUtXRnJtTk45UzMxdURqR2J0LXBRVDBNZHEtWFMtTEQyZXdTWjdtZWlyTkF3Smk?oc=5, https://www.ktvh.com/news/crime-and-courts/teacher-student-suffer-stab-wounds-during-altercation-at-billings-senior-high-school"
+  },
+  {
+    "id": 159,
     "school": "",
     "school_type": "",
     "state": "",
@@ -2950,7 +3975,7 @@
     "additional_sources": ""
   },
   {
-    "id": 119,
+    "id": 160,
     "school": "Camp Lejeune Base Schools",
     "school_type": "",
     "state": "",
@@ -2975,7 +4000,7 @@
     "additional_sources": "https://www.witn.com/2026/01/13/camp-lejeune-base-schools-under-lockdown-after-nearby-security-incident/"
   },
   {
-    "id": 120,
+    "id": 161,
     "school": "Huntington High School",
     "school_type": "High School",
     "state": "",
@@ -3000,7 +4025,7 @@
     "additional_sources": ""
   },
   {
-    "id": 121,
+    "id": 162,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3025,57 +4050,7 @@
     "additional_sources": "https://www.dallasnews.com/news/education/2026/01/13/as-north-texas-schools-deal-with-a-rash-of-hoax-threats-experts-say-the-effects-are-real/, https://www.texarkanagazette.com/news/2026/jan/14/as-north-texas-schools-deal-with-a-rash-of-hoax/"
   },
   {
-    "id": 122,
-    "school": "",
-    "school_type": "",
-    "state": "Florida",
-    "region": "South",
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXdoZ1ljNEVUb2NZWGh2Z242WGpNb1M0THM0RjNJMWlOR0R1TnFOdnJwOHZsdFpPNVFlbDlmd0ZkYzFGQmRtZzlIUXAwS2hVU0RGUjRMXzZmcVZDRFVIQ3BYMlRBNUhlTnAyYkdNck85eklpRlZ5OXBMMHZJRzJ1M1dhSzZub2dtUWNMbUQ3VkFMVi11ZnZXYmhXeG5pM01fOFV3YWRESkp0R2FVNFZSalZHMGZiQ0t1Nm1xR3JiYVZzZ0xVaHhmcw?oc=5",
-    "offense_date": "13-Jan",
-    "time": "Not Specified",
-    "law_enforcement": "Unknown",
-    "threat_type": "Threat",
-    "conveyance": "Not Disclosed",
-    "who_threatened": "School",
-    "incident_details": "Seven Santa Rosa schools resume normal operations after threat &nbsp;&nbsp; Pensacola News Journal",
-    "lockdown_type": "N/A",
-    "classes_cancelled": "N/A",
-    "precautions": "N/A",
-    "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "custody": "Unknown",
-    "charges": "Unknown",
-    "bond": "N/A",
-    "additional_sources": ""
-  },
-  {
-    "id": 123,
-    "school": "Hart County Middle School",
-    "school_type": "Middle School",
-    "state": "",
-    "region": "",
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0x0SDd0bjBwSkZQUjhfUjN2YkhKa0xqVkZGamFEbXczNnA1S3loSUp0ZzNZMVJuSXVaZG1LX0ZRdW04YlZnREp1UWo0MF9oSlByTmhfODItMDZHUlYyenF5QTRqUG9hX3BHS1c2RU5lWFFWRXF5Z2hlZmFjOHd0ZzJ0cHJrSW50UHU0MXc2Z1ZVSlh0b3M5RGVMaE9rNndScnBmN0hvemd6aC1fTlhMdVhBOA?oc=5",
-    "offense_date": "13-Jan",
-    "time": "Not Specified",
-    "law_enforcement": "Unknown",
-    "threat_type": "Bomb",
-    "conveyance": "Not Disclosed",
-    "who_threatened": "School",
-    "incident_details": "Investigation underway into bomb threat at Hart County Middle School &nbsp;&nbsp; FOX Carolina",
-    "lockdown_type": "N/A",
-    "classes_cancelled": "N/A",
-    "precautions": "N/A",
-    "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "custody": "Unknown",
-    "charges": "Unknown",
-    "bond": "N/A",
-    "additional_sources": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXBmd1NjVGFHUXV4MnVOQkJ1RnE0eU5PaXJHbVdBRTd1MlZ3V0g4WXFlOWd0RkpkNU13ZTYtWDBjekthMGxoSG1VTERUVnRqNEJ0SGNkQVdEYWFCYURKeFgtdXZZRTJEd3NlQjZTRmdaQW9GT2RjTzktRDRQNEh4MG9VSHJyeEp0emo0NUM2SXl1UkhkRllYbFJfdjc?oc=5, https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmRhUjRZeDVUNWlxZkdzUzNYeFFqa3ZyWWM5ckxwTTc3cVNzUDYtNUZaZXpadDJZMkE5azN4eFhqUE80WTA2NjJmV3lIMnFrbUJ0M3EyVXlLNGhpS21IYzM5aENPSFBFbUM4eUtKUXJEdU5TZGRfSkVhZ2doeFlqcmRWZWtxZkNncUo1cUdoNHZKZ0R0MG9tVW5jOHJtdUhhaWZnekJMNzhkNTlWb0Rzbg?oc=5"
-  },
-  {
-    "id": 124,
+    "id": 163,
     "school": "Once Again Rattle Schools",
     "school_type": "University/College",
     "state": "",
@@ -3100,7 +4075,57 @@
     "additional_sources": ""
   },
   {
-    "id": 125,
+    "id": 164,
+    "school": "",
+    "school_type": "",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXdoZ1ljNEVUb2NZWGh2Z242WGpNb1M0THM0RjNJMWlOR0R1TnFOdnJwOHZsdFpPNVFlbDlmd0ZkYzFGQmRtZzlIUXAwS2hVU0RGUjRMXzZmcVZDRFVIQ3BYMlRBNUhlTnAyYkdNck85eklpRlZ5OXBMMHZJRzJ1M1dhSzZub2dtUWNMbUQ3VkFMVi11ZnZXYmhXeG5pM01fOFV3YWRESkp0R2FVNFZSalZHMGZiQ0t1Nm1xR3JiYVZzZ0xVaHhmcw?oc=5",
+    "offense_date": "13-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Seven Santa Rosa schools resume normal operations after threat &nbsp;&nbsp; Pensacola News Journal",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 165,
+    "school": "Hart County Middle School",
+    "school_type": "Middle School",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0x0SDd0bjBwSkZQUjhfUjN2YkhKa0xqVkZGamFEbXczNnA1S3loSUp0ZzNZMVJuSXVaZG1LX0ZRdW04YlZnREp1UWo0MF9oSlByTmhfODItMDZHUlYyenF5QTRqUG9hX3BHS1c2RU5lWFFWRXF5Z2hlZmFjOHd0ZzJ0cHJrSW50UHU0MXc2Z1ZVSlh0b3M5RGVMaE9rNndScnBmN0hvemd6aC1fTlhMdVhBOA?oc=5",
+    "offense_date": "13-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Investigation underway into bomb threat at Hart County Middle School &nbsp;&nbsp; FOX Carolina",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXBmd1NjVGFHUXV4MnVOQkJ1RnE0eU5PaXJHbVdBRTd1MlZ3V0g4WXFlOWd0RkpkNU13ZTYtWDBjekthMGxoSG1VTERUVnRqNEJ0SGNkQVdEYWFCYURKeFgtdXZZRTJEd3NlQjZTRmdaQW9GT2RjTzktRDRQNEh4MG9VSHJyeEp0emo0NUM2SXl1UkhkRllYbFJfdjc?oc=5, https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmRhUjRZeDVUNWlxZkdzUzNYeFFqa3ZyWWM5ckxwTTc3cVNzUDYtNUZaZXpadDJZMkE5azN4eFhqUE80WTA2NjJmV3lIMnFrbUJ0M3EyVXlLNGhpS21IYzM5aENPSFBFbUM4eUtKUXJEdU5TZGRfSkVhZ2doeFlqcmRWZWtxZkNncUo1cUdoNHZKZ0R0MG9tVW5jOHJtdUhhaWZnekJMNzhkNTlWb0Rzbg?oc=5"
+  },
+  {
+    "id": 166,
     "school": "Hobbs Middle School",
     "school_type": "Middle School",
     "state": "",
@@ -3125,7 +4150,32 @@
     "additional_sources": ""
   },
   {
-    "id": 126,
+    "id": 167,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFB1dF9wLTRuSVV3YmE4S0kyWWZTazhmT21sWkcxNWNaRTBYQnZsNXVOZkFVM3k4NVlULUZELUZZb0hNWVJuNkRtZ1JUcGFWRG9ESGhmOXM3UGFUNUV3cHBTQ2JMWU96a2Z3cEhlU2FoQk0ta0NnMTEzSEVGc0dDZENaNVozYVNOLXAzUTRHNUdvakVUc0hR0gGcAUFVX3lxTFBUanhkV0dQSlBlYi1LbzZPUGViS0dGSEdHc2htSjBQZ1hYandLNENPLXF4XzFUZGNYRWVUQ3c3cWxHRzc5VFhKRWxCM0xMUlZ2azlmQ2dIcmNXdlZZVzFsSnNDTGp5VkdxZ2RCRmctOWZYOE5XaVBZOHZfQVpMVjRlaG52VFNUd0FNRmxwakJrVDBsRU1Rd2RXbFc0ZA?oc=5",
+    "offense_date": "13-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Student f",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 168,
     "school": "",
     "school_type": "",
     "state": "Michigan",
@@ -3150,7 +4200,7 @@
     "additional_sources": ""
   },
   {
-    "id": 127,
+    "id": 169,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3175,7 +4225,7 @@
     "additional_sources": ""
   },
   {
-    "id": 128,
+    "id": 170,
     "school": "Central Florida High School",
     "school_type": "High School",
     "state": "Florida",
@@ -3200,32 +4250,7 @@
     "additional_sources": ""
   },
   {
-    "id": 129,
-    "school": "",
-    "school_type": "",
-    "state": "",
-    "region": "",
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2VqcEI4bEh5NjZhb0llM0JPQWMwOHJlRW43bFZhaE52eXF6WHhQZ1RUYXZHYlYtOVFFNUtTbnlfQjlxY01lMGtQR1R2ZmhKX1EyNGJWQUd0NmgwY3ZkcDh0anVLX2JzYy1GMmNnSUtlSjlfUXJkNmtOMFpUSDFGUWl1cE1qTEh2UFR1bVZfZ0tGVUVaaVp6SA?oc=5",
-    "offense_date": "12-Jan",
-    "time": "Not Specified",
-    "law_enforcement": "Unknown",
-    "threat_type": "Shooting",
-    "conveyance": "Not Disclosed",
-    "who_threatened": "School",
-    "incident_details": "School shootings dropped in 2025. Here\u2019s what to know for 2026. &nbsp;&nbsp; K-12 Dive",
-    "lockdown_type": "N/A",
-    "classes_cancelled": "N/A",
-    "precautions": "N/A",
-    "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "custody": "Unknown",
-    "charges": "Unknown",
-    "bond": "N/A",
-    "additional_sources": ""
-  },
-  {
-    "id": 130,
+    "id": 171,
     "school": "",
     "school_type": "High School",
     "state": "Michigan",
@@ -3250,7 +4275,7 @@
     "additional_sources": ""
   },
   {
-    "id": 131,
+    "id": 172,
     "school": "Allendale Public Schools",
     "school_type": "",
     "state": "Michigan",
@@ -3275,7 +4300,7 @@
     "additional_sources": ""
   },
   {
-    "id": 132,
+    "id": 173,
     "school": "Alma High School",
     "school_type": "High School",
     "state": "Michigan",
@@ -3300,7 +4325,7 @@
     "additional_sources": ""
   },
   {
-    "id": 133,
+    "id": 174,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3325,7 +4350,7 @@
     "additional_sources": ""
   },
   {
-    "id": 134,
+    "id": 175,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3350,7 +4375,7 @@
     "additional_sources": ""
   },
   {
-    "id": 135,
+    "id": 176,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3375,57 +4400,7 @@
     "additional_sources": "https://www.mlive.com/news/2026/01/up-school-district-closed-today-after-principal-receives-bomb-threat-voicemail.html"
   },
   {
-    "id": 136,
-    "school": "Bessemer Schools",
-    "school_type": "",
-    "state": "",
-    "region": "",
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEZjbExBeUdkRlIxX2VmNFdOVjQxTm91TTBhczdYM2x2YVJ0Mm5Feld3TmFLc2NSNjVJUEx1c3ZkUmtwYVdGVFZBRHh6ZkQ1dkFvTDczT21wZ3dfM3UyNEFDaGp4WUk3Yk43bnZ0SFBiWnJ2WGxndlM4S1VjM1RSU1dxSHpyM3lETVVBbXRVaXYtYzdMd0cxc09EWGFFdWFMYXpBQ3NuWllmTE1Ic2c?oc=5",
-    "offense_date": "12-Jan",
-    "time": "Not Specified",
-    "law_enforcement": "Unknown",
-    "threat_type": "Bomb",
-    "conveyance": "Not Disclosed",
-    "who_threatened": "School",
-    "incident_details": "Bessemer Schools To Reopen Tuesday After Weekend Bomb Threat &nbsp;&nbsp; Radioresultsnetwork.com",
-    "lockdown_type": "N/A",
-    "classes_cancelled": "N/A",
-    "precautions": "N/A",
-    "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "custody": "Unknown",
-    "charges": "Unknown",
-    "bond": "N/A",
-    "additional_sources": ""
-  },
-  {
-    "id": 137,
-    "school": "",
-    "school_type": "",
-    "state": "Texas",
-    "region": "South",
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRm5VbU1Dczh3a2htMVliWHZpNlYyRElXZGlvT0FTenllSkU1UWtSMGRaQ2lDQlZ3SkNVUHdDamdSMHBld2NJZjRENjRHM1dBZF9iQjFmOEFFeFE5cHVfZTVHZmVsMTNIMkpLaHk2X2xocUdmcUdhZ0FBOGkxTHBJLWhJS1Y1SzZWOTBqWFNJZXM2QS05VkNwTlAxVnV3bXJLd0FSQy1BSmpmajFGYndVLTFHZzhNSDNlaHpEZg?oc=5",
-    "offense_date": "12-Jan",
-    "time": "Not Specified",
-    "law_enforcement": "Unknown",
-    "threat_type": "Threat",
-    "conveyance": "Not Disclosed",
-    "who_threatened": "School",
-    "incident_details": "Threats against Frisco ISD schools aren\u2019t credible, police determine &nbsp;&nbsp; Dallas News",
-    "lockdown_type": "N/A",
-    "classes_cancelled": "N/A",
-    "precautions": "N/A",
-    "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "custody": "Unknown",
-    "charges": "Unknown",
-    "bond": "N/A",
-    "additional_sources": ""
-  },
-  {
-    "id": 138,
+    "id": 177,
     "school": "Alma High School",
     "school_type": "High School",
     "state": "",
@@ -3450,7 +4425,82 @@
     "additional_sources": ""
   },
   {
-    "id": 139,
+    "id": 178,
+    "school": "Bessemer Schools",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEZjbExBeUdkRlIxX2VmNFdOVjQxTm91TTBhczdYM2x2YVJ0Mm5Feld3TmFLc2NSNjVJUEx1c3ZkUmtwYVdGVFZBRHh6ZkQ1dkFvTDczT21wZ3dfM3UyNEFDaGp4WUk3Yk43bnZ0SFBiWnJ2WGxndlM4S1VjM1RSU1dxSHpyM3lETVVBbXRVaXYtYzdMd0cxc09EWGFFdWFMYXpBQ3NuWllmTE1Ic2c?oc=5",
+    "offense_date": "12-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Bessemer Schools To Reopen Tuesday After Weekend Bomb Threat &nbsp;&nbsp; Radioresultsnetwork.com",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 179,
+    "school": "",
+    "school_type": "",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRm5VbU1Dczh3a2htMVliWHZpNlYyRElXZGlvT0FTenllSkU1UWtSMGRaQ2lDQlZ3SkNVUHdDamdSMHBld2NJZjRENjRHM1dBZF9iQjFmOEFFeFE5cHVfZTVHZmVsMTNIMkpLaHk2X2xocUdmcUdhZ0FBOGkxTHBJLWhJS1Y1SzZWOTBqWFNJZXM2QS05VkNwTlAxVnV3bXJLd0FSQy1BSmpmajFGYndVLTFHZzhNSDNlaHpEZg?oc=5",
+    "offense_date": "12-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Threats against Frisco ISD schools aren\u2019t credible, police determine &nbsp;&nbsp; Dallas News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 180,
+    "school": "",
+    "school_type": "",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2piZnZXQ2tURXlsMUtEZnZfLV9wNUJ6dU9IMnVWcExCSU5zRUVuaGx6N3pLR3pnQ1gtREM1TjRwc2haLWJncF9lRFdXUGlZMHE2bzY2N05DQUJIaWo5NnBXTXdwVnMzeUFmb3FGMGVLXzBzcUdQdFN1U3pEUmVzZHRqYW5xQkNWVmgzT1ZB?oc=5",
+    "offense_date": "12-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Ellison says Minnesota suing feds to end ICE \u2018invasion,\u2019 students continue to protest &nbsp;&nbsp; MPR News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 181,
     "school": "Bessemer High School",
     "school_type": "High School",
     "state": "",
@@ -3475,7 +4525,7 @@
     "additional_sources": ""
   },
   {
-    "id": 140,
+    "id": 182,
     "school": "Columbia High School",
     "school_type": "High School",
     "state": "Florida",
@@ -3500,7 +4550,32 @@
     "additional_sources": ""
   },
   {
-    "id": 141,
+    "id": 183,
+    "school": "",
+    "school_type": "High School",
+    "state": "",
+    "region": "",
+    "source": "https://www.yahoo.com/news/articles/17-old-girl-stabs-critically-171418025.html",
+    "offense_date": "9-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "17 - year - old girl stabs , critically injures fellow student on Zion high school campus : police",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 184,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3525,7 +4600,7 @@
     "additional_sources": ""
   },
   {
-    "id": 142,
+    "id": 185,
     "school": "",
     "school_type": "",
     "state": "Florida",
@@ -3550,7 +4625,7 @@
     "additional_sources": ""
   },
   {
-    "id": 143,
+    "id": 186,
     "school": "Leander High School",
     "school_type": "High School",
     "state": "",
@@ -3575,7 +4650,32 @@
     "additional_sources": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaThMQnp4Y2hSSVFlT01nbGU5OG1BQkwwT21WcnJwYkVPc083V3N5Z2lNTW04XzZ1eWJNVkU2aVNGMnMxTWYwMk9yTVFONGF5eHU2X2hRMzVITU01TmdoTFBKRlFiTGlHT2ZybGpzVjZvTUFwX25ON29pSzNIcHN4aXdJcTFsWkQyMGFqSHB6LUlsUUZ5SnJUdldFYjFVdkxZbFHSAacBQVVfeXFMTi16d0ZkVjc1NXhZY0tLRks2OGdjSVFjRm1zT2xQdVVFUGxXaVI2bmFNUThpMW40cldsYVoyLXB2elFmNVpTWDFfUE51LThlRmRtREdHb2dYVVI1bkw5N3VEN2lJSFNkaFB5U1J6M2JBY2FaR2N5MVgzbE1DLXR5ajFqcHJKYjhFWkg2WlhEYVVtbFowLWI5UEoyXzVIbTZnbUV0Ti1Zbmc?oc=5, https://www.fox7austin.com/news/police-investigating-bomb-threat-leander-high-school, https://www.yahoo.com/news/articles/leander-high-school-lockdown-receiving-201351622.html, https://www.statesman.com/news/crime/article/leander-high-school-bomb-threat-shutdown-21286422.php, https://www.kvue.com/article/news/crime/bomb-threat-leander-high-school-texas/269-b83c8498-caa5-43d1-9321-055d6b4ec76e, https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFhqNkcyYXAyVkVVZ3VpMVhwZVFYeFJZcHE3ZVF0U2hES0ttZG55UWx2elhLckVRWGtJRGNzd3F2Y3p5MWkzbEV4cElkLXF6S1ZwVDQ5RXdWZ1RmLWFHbUlaSkRwd3dRMGdwYzlHRHE3OHRhWTNzTENBOWZPdzBCZDZnZVpmZ3ZRR0w2QWlBTkJVNkxYTXlFVU5menlsbHFzVnlIQjFkM1F3aTA?oc=5, https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWRLeXJFOUplM1FSMUhud2Z0LWVIVUxUOTRaRXRHTDEwUmdsYmt5WFhpWjBXeVdBQUpRYnlsZVM5WlNacEFFaFI5ZVE3SHprVERyRjlqS1c3dlBlaEhJZmVpTms0R2VaMFQyVEZTanhTQjZ2S01LYXYyUkNXODdKMWRCcDBDQjY0VV8wd2s4b3pGaVQzNTZaTEJEYk1fQjNRYjlVTzZjYWxXWnVvUzlBMDNB?oc=5, https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWJaMml1VEZGZUp2S2hSeTNtOXdlYmxDLUlmUTZ6YWE1cWRQRmRzdjFCT0xEb0tySlFTUnlWVWF4Zm5GaTQ1RFVQNldUVGkyTjVaQlhRa01NQ3ptQ2xxX05nVTRmQ1I1QVY1S1dtbGZNb2hFazlfcEg5WTBzQml0NllyR3hHNVc2a2hFLVIyOE5UZGxJZlhQZtIBoAFBVV95cUxOeHhlaUVpbkxFS0ZpbDFDNU5teVI3TkhRczVZRHkzTGhSU214SFlmcHJKUmM0alFIUU4tNmxCbUxEbHhKaEw3UWFFUlZfSGQwZnM5eGh1a3Z6MG9JNWlIR1JNSHh0LU9JY3l3R255Z2tHa2xJc1BPN0p1YnVGam94SWlZQkVmUTBWdWd3Y2pHN2JocFg1LXg0X3cyOW1vVnVs?oc=5, https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFAtaXU5SVVJRVI1NHFFY2VRSE1USG9BVFZEZ1dyT0Z6UHhVWTNZaHBPUTBHcDVKZjdFU2xyUXA0U3J2YUZ5aFFnVUhJcFlfb3JsQkFFY2Z4TGdzdXp6RzNKRDdrV1N4NHpOYnp1dEhQRnd5RFZZbGJJcmZzN2JGci1zVUtXX1hRUEtpenJQcmhKY05ZcjZuQ2tVa9IBoAFBVV95cUxOcy0zZnBGTDVmYlNkZmlvUnptbGlnN2RXbEZPWVRyRnRPSF95cF93b0syRG4zNTVyZzI4dFN1YUVTZmdvc0pWT21VS25NY2JsRHF4alNDU0dFVE9xUmVQQ0lpVHhUWXgybXFpdWhVeHRPNkJENHBfdnR2ZVJhSTVwdWFfcDQ5YXJIS3g3MFNkeGRlQ0pyWHU4THhZdHpRZ1Bt?oc=5, https://news.google.com/rss/articles/CBMipwFBVV95cUxNMU9kSWdscVFVMTlsSnd6S1hNclYyTll0RzFBcEtnX0ZYaTlURVNDWloyN3o3YnJxUVh1LUhPWU55eS16dm4yNGpRRjBpWngxVWFMUDFIbmxQUzVQekRiWXRpN1cxMXVjeEVwc24xZDhZVzhTS3lrVVVacGhidWNqNnZkR1N2YUUweUxXanA1anBGYXJGZ2l1b2U1UEkyODc5eE1QOGxvUQ?oc=5, https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFNFU3htcU5yWjN3eUFCQUl4bS1ONUZpeDZ6c0oyN25qTXJXbm5nYUlWWTI2a2NDX05xd016RkNybmxGc3ZleThhS21wVllPUkZsWU9JbTJVWHo1clVaOF9TTlpBR3EybnVBSUpQcW00bkpUYWxzVzJldTQ4NG1Qd3dianVGVk1FT3BaV1Y2blE4MG11RWEweEwyUk1vN3pIM0cw?oc=5, https://www.wesh.com/article/lake-minneola-high-school-lockdown/69976211, https://www.nbclosangeles.com/news/local/california-high-school-lockdown-bomb-threat/3830681/"
   },
   {
-    "id": 144,
+    "id": 187,
+    "school": "",
+    "school_type": "High School",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUU9XTDgtaGZMR3QwQXlvU0tFTnh6aEFqc1FaeGladHFMLWJfM0ZBMzM2d3FqWjlyMHFEU0dOQm1Ka29VWXZYbmNhZVFYTmdreXhBRUM5cnRHRE0tOERYMm9OTU5SSFBFeG5JNU1JR0pveThtcmFTTV9veDlmX3dQeDd2dUh3VUR1YnlnMXpob2hzeDRSdFVfd0lfQWh6SC1PQzVzd3djZ3hhZ0dNcU9QQjlaa1RYRlZyUkk5SlBpSQ?oc=5",
+    "offense_date": "9-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Police find no explosives at Leander High after bomb threat; students safely evacuated &nbsp;&nbsp; KEYE",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 188,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3600,7 +4700,7 @@
     "additional_sources": ""
   },
   {
-    "id": 145,
+    "id": 189,
     "school": "",
     "school_type": "",
     "state": "Ohio",
@@ -3625,7 +4725,7 @@
     "additional_sources": "https://www.wcjb.com/2026/01/09/12-year-old-boy-arrested-alachua-county-threatening-school-shooting-ohio/"
   },
   {
-    "id": 146,
+    "id": 190,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3650,7 +4750,7 @@
     "additional_sources": ""
   },
   {
-    "id": 147,
+    "id": 191,
     "school": "Texas Schools",
     "school_type": "",
     "state": "Texas",
@@ -3675,7 +4775,57 @@
     "additional_sources": ""
   },
   {
-    "id": 148,
+    "id": 192,
+    "school": "Roosevelt High School",
+    "school_type": "High School",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUW85RmszU0haeHB6R2lWbHJTYzZDSHMwU1p0U182LU93WUVFNXFXUmgyUjNKckdoR190SEVGNWx5NW90V21mVnl6MTZma1lqNExGbXp3bkhoa01sRGhBcllUZElVdTNUTjJXY0pWX0N0Tl9UcHFrUFVESklUNGNMdlc0eTgxUVNKeV9MRnJRa2dqTmpIVE9JWGl1Y21oRzZwYUdFYWJQZTVVNHk00gGyAUFVX3lxTE1ZREljc3F5a2xlREw4SUpMM0xYcmhZVmNBcWlZR19iMzg0NVhvNE1ZbUFxdzdMWlg0OEJsUDk2MllkREN3S3Y3MnZmcU9EbjZFNDBqbWE3d3NxNFVNLS11a01MM2FvaG4xQjZac0p2RDNHc1JDWWdOc0lLRkhPM1VRN1BlZGRuZ1RsUVpZRkdha0pXUmVtUlZLZjNvWmdQMG9BQzdVYUltU3B2dlpoM3ZySXc?oc=5",
+    "offense_date": "8-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUW85RmszU0haeHB6R2lWbHJTYzZDSHMwU1p0U182LU93WUVFNXFXUmgyUjNKckdoR190SEVGNWx5NW90V21mVnl6MTZma1lqNExGbXp3bkhoa01sRGhBcllUZElVdTNUTjJXY0pWX0N0Tl9UcHFrUFVESklUNGNMdlc0eTgxUVNKeV9MRnJRa2dqTmpIVE9JWGl1Y21oRzZwYUdFYWJQZTVVNHk00gGyAUFVX3lxTE1ZREljc3F5a2xlREw4SUpMM0xYcmhZVmNBcWlZR19iMzg0NVhvNE1ZbUFxdzdMWlg0OEJsUDk2MllkREN3S3Y3MnZmcU9EbjZFNDBqbWE3d3NxNFVNLS11a01MM2FvaG4xQjZac0p2RDNHc1JDWWdOc0lLRkhPM1VRN1BlZGRuZ1RsUVpZRkdha0pXUmVtUlZLZjNvWmdQMG",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 193,
+    "school": "",
+    "school_type": "",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUN3YXhCQnFodmJOeXVYVDRwdEZQb0FEeWs1QU1GYUNua3RPWjlGalNmcTNsWkdPajl4NGE4Rm5NbWs1ZXlaLVJweDdNS3NNTFpHRUZ4QkVKeEtZOXhmU2dRYVlrbjdqaUp1akNjanVkOHo3aUNhcDlUTlppOXVCRkhXRkY5R1FqaWJ5N0dnRk1aRlpzWHpidmJhXzcwT0dxelNOLUNBb0JJM0h3dkZfdWkzdTY?oc=5",
+    "offense_date": "8-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "General Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Minneapolis schools cancel classes after Border Patrol clash disrupts dismissal at Roosevelt &nbsp;&nbsp; MPR News",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 194,
     "school": "Minneapolis Public Schools",
     "school_type": "",
     "state": "Minnesota",
@@ -3700,7 +4850,7 @@
     "additional_sources": ""
   },
   {
-    "id": 149,
+    "id": 195,
     "school": "Columbia High School",
     "school_type": "High School",
     "state": "Ohio",
@@ -3725,7 +4875,7 @@
     "additional_sources": ""
   },
   {
-    "id": 150,
+    "id": 196,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3750,7 +4900,7 @@
     "additional_sources": ""
   },
   {
-    "id": 151,
+    "id": 197,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3775,7 +4925,7 @@
     "additional_sources": ""
   },
   {
-    "id": 152,
+    "id": 198,
     "school": "",
     "school_type": "Elementary School",
     "state": "",
@@ -3800,7 +4950,7 @@
     "additional_sources": ""
   },
   {
-    "id": 153,
+    "id": 199,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3825,7 +4975,7 @@
     "additional_sources": ""
   },
   {
-    "id": 154,
+    "id": 200,
     "school": "At Multiple North Texas High Schools",
     "school_type": "High School",
     "state": "Texas",
@@ -3850,7 +5000,7 @@
     "additional_sources": ""
   },
   {
-    "id": 155,
+    "id": 201,
     "school": "Eau Gallie High School",
     "school_type": "High School",
     "state": "",
@@ -3875,7 +5025,7 @@
     "additional_sources": ""
   },
   {
-    "id": 156,
+    "id": 202,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3900,7 +5050,7 @@
     "additional_sources": ""
   },
   {
-    "id": 157,
+    "id": 203,
     "school": "Coconut Creek Schools",
     "school_type": "",
     "state": "Florida",
@@ -3925,7 +5075,7 @@
     "additional_sources": ""
   },
   {
-    "id": 158,
+    "id": 204,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -3950,7 +5100,7 @@
     "additional_sources": ""
   },
   {
-    "id": 159,
+    "id": 205,
     "school": "",
     "school_type": "",
     "state": "",
@@ -3975,7 +5125,7 @@
     "additional_sources": ""
   },
   {
-    "id": 160,
+    "id": 206,
     "school": "",
     "school_type": "",
     "state": "",
@@ -4000,7 +5150,7 @@
     "additional_sources": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOeGxyUDBwMkR4ZmFTMUNaempyWmdNTXVvemdsX2RQRGprb2xiYU1Vc3czMmZZTGZtUlYzeW1KeUR2RHlhbXhxc2RHR1VBOFdDT2ZXTUdybTJ2cXR0ejlINkJMbm1ablJQdXF5enVMcjVvTVZlSTFZc2Z2NUlEcXJnaTVtMFJmdHBUYVZlX2NzX1lSNzU5SV84RkRMcVpBWXpnSzJUdTJmLXd4WEhKdVY4blJtLVhKbk56REtoUzlzODBwVHlQUzNFMEMxem96YV92eWszV05nNUt3dTdJakZwZVV1elg0NGRWMHNHclN2SFdBbzUwZXBnNE14Yjk1VFAyYzFidlZ4U1ZObEdHWDVTRkxVc3lwWGVLLUVQSnRtNlRmYWNMN2NzOGp1VmhfY1k?oc=5"
   },
   {
-    "id": 161,
+    "id": 207,
     "school": "",
     "school_type": "Elementary School",
     "state": "Texas",
@@ -4025,7 +5175,7 @@
     "additional_sources": ""
   },
   {
-    "id": 162,
+    "id": 208,
     "school": "Bomb Threat Targeting Tolman High School",
     "school_type": "High School",
     "state": "",
@@ -4050,7 +5200,7 @@
     "additional_sources": ""
   },
   {
-    "id": 163,
+    "id": 209,
     "school": "",
     "school_type": "",
     "state": "",
@@ -4075,7 +5225,7 @@
     "additional_sources": ""
   },
   {
-    "id": 164,
+    "id": 210,
     "school": "",
     "school_type": "",
     "state": "Texas",
@@ -4100,7 +5250,7 @@
     "additional_sources": ""
   },
   {
-    "id": 165,
+    "id": 211,
     "school": "",
     "school_type": "High School",
     "state": "Texas",
@@ -4125,19 +5275,19 @@
     "additional_sources": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1JkQlBUTUdSc0lRMW1raGhaWmc4ZzJnNWM0b1RSYzQ4aTFLLW1HMEcyLTBVU1JGRGdmbXY4aE95YXpmMDBramdZVF9RTWxmNTd4YXptUFlIVWV0NWZuNW5LUHc4SUFlbjFkZEFOMWZvbmV3ajJRUFgzcXdVNjBFU0wwblNFY3IzR0ppQQ?oc=5"
   },
   {
-    "id": 166,
-    "school": "",
+    "id": 212,
+    "school": "North Dallas High School",
     "school_type": "High School",
-    "state": "Indiana",
-    "region": "Midwest",
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeDBldw?oc=5",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXVGSy1RdWxoUHNnU0FSM1ZWSGhnRHBvVDQxLXR0VGRBVzNpRU9lbFJyUkJGMUxmVlBMX2k1eEdvSFlzWTRaVE1NbU9xYjFERWlzTWtnVHVxRFdtdXhEUjFOTndseWxxcVdkdW9XNXNTUDJzTTYwekhYUGotVnRzbExKOGV3UlVFMC1JbERiNVBHTlR6NGlzWVg5YlVQaW5GVUJTTE9tYmNxRmNQOXJOQm11MUdsaTFLeWY2T0NQbXVmWjhoNDA2endYYWFONlE?oc=5",
     "offense_date": "6-Jan",
     "time": "Not Specified",
     "law_enforcement": "Unknown",
-    "threat_type": "Shooting",
+    "threat_type": "General Threat",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
-    "incident_details": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeD",
+    "incident_details": "Heavy police presence near North Dallas High School was due to swatting call, Dallas ISD says &nbsp;&nbsp; WFAA",
     "lockdown_type": "N/A",
     "classes_cancelled": "N/A",
     "precautions": "N/A",
@@ -4150,7 +5300,7 @@
     "additional_sources": ""
   },
   {
-    "id": 167,
+    "id": 213,
     "school": "North Dallas High School",
     "school_type": "High School",
     "state": "Texas",
@@ -4175,7 +5325,7 @@
     "additional_sources": ""
   },
   {
-    "id": 168,
+    "id": 214,
     "school": "North Dallas High School",
     "school_type": "High School",
     "state": "Texas",
@@ -4200,7 +5350,7 @@
     "additional_sources": ""
   },
   {
-    "id": 169,
+    "id": 215,
     "school": "North Dallas High School",
     "school_type": "High School",
     "state": "Texas",
@@ -4225,7 +5375,82 @@
     "additional_sources": ""
   },
   {
-    "id": 170,
+    "id": 216,
+    "school": "",
+    "school_type": "High School",
+    "state": "Indiana",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeDBldw?oc=5",
+    "offense_date": "6-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeD",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 217,
+    "school": "",
+    "school_type": "",
+    "state": "",
+    "region": "",
+    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNjJqcE1NRlhTczh5MFViTlNxSGNRUTY0U0FkVnNsNUI3c3V2R0h0Rkh1NThvcEdLVWx2c3pKRXhjN3BYMUJ4NGZyZEp4NG1mQ3JfRkt3VVBKaS1BOFE0cU5mUElsVVVlSXJVOG4wVWdSZDQ2cWM2ZTNNLTFmOFJkY2Z2dUFYTFFQUFQzUzhvSG9vYmdpVXA5Q1YwUHpaUEczVC1JdHplTk9pNVRxbFNBbVVGWGJfbEhmbG9PTXVYYzVsbWZXaGItWlpudWozMmFibFlBWkFuaTN1aGtWalRwVWZ6WjJ3b2l3bnc1eldNMDMwcXd6UV9xZ1R2VTg?oc=5",
+    "offense_date": "6-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "18-year-old Aveda Institute student arrested for written mass shooting threat, PCSO says",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 218,
+    "school": "",
+    "school_type": "",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeWNZNDlYVXBiWmMwbU9lR0t6TGp4NXd3MWthUFhlcDU5NVpCc2MzOWtKWEpyQjZ3RVBaNVN3ZjNBRURRZ0lacnhhVG90U3l1MW1sR0hmbWthSFQ3bkFwemtCN3VrVXJxU2JDRm1xUUFkQVVNZUtrYXlQOVVCd2FsYW5tMG4yd3JMbzdNOE1vUjdfZEJVbm1vbFJYTGF0WU9Cc25FMFVHbVhDUkNXYVpwT3Z5NVVDVXVwem9tRGZ4dWVUcEdnT1puU2xhYkdFc3V3UXJJ?oc=5",
+    "offense_date": "6-Jan",
+    "time": "Not Specified",
+    "law_enforcement": "Unknown",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "East Texas student accused of making threat online arrested &nbsp;&nbsp; cbs19.tv",
+    "lockdown_type": "N/A",
+    "classes_cancelled": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "custody": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": ""
+  },
+  {
+    "id": 219,
     "school": "Tolman High School",
     "school_type": "High School",
     "state": "",
@@ -4250,19 +5475,19 @@
     "additional_sources": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjNWQ2c1YlVheHVNRjFkcURraUhObWdpWDRWeDlOOG1wLTV1anFyOWstUWd3ZjdRYkE0UmJVVUNkOXlfakZIZllpLXp1ZkVqQU1fcFBxWDRmcm5Ea09kZXpkNVVCaVNUWnVuVV81d3kxd01keHNYTmVHVXctVlBxSXlta01ua1lJektjdXJoeC1fRkFEcEJmMTZxSzhVay1peWNzTzhpQnpBN3ZyWnNmYkNTam9odWxfdlh3QVR4emtFdkZfZ1pUNWZkc0lOY3pabHJlOUJ5STM?oc=5"
   },
   {
-    "id": 171,
-    "school": "Cobb County School",
+    "id": 220,
+    "school": "",
     "school_type": "",
-    "state": "",
-    "region": "",
-    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExuMUJkMlpjSmkxZkVJV3lkLWNWdU50dG92TjF6SDFFYVg3Qm05RkNMMlZsVFlLejluc3lRZG9ldzJpbDNaUXZ4VnpyVGRPNmxxbk9hSElQUW1pRVpqMWxsQWJFQk10YXpXN2o0UUh2eEpjVW13UGNOZ1oxc29tVUVWZ0VCVkw3WUh5c2xKb3RfVVBNZmFMU0dtbG1qaUU5VjZVU0puMTVEc0Vtc2pOTFBnWUltT203VGZvb0xCM09xNE1md2JYRmhXYVU4SDRjbTVoUmw5QlBCNWFnTjRBelEwYzFXLTBZOENRVVZB?oc=5",
-    "offense_date": "2-Jan",
+    "state": "Indiana",
+    "region": "Midwest",
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3FmRHJlRjFtQXhlNkgzTjBsZ0ZJWkh6SWVmQV9aT0J3akRubXNjanBOdmNvWmgwZVF4Zm1wMHR5Z0ljZXN2bkhBRzIxdk82aXBkdDhHZFNURGtFM2RFbXJ0anFMNTQ5SEhKT0V2VTVtOWpIc0x1NmdkQ0MyOTA3YlpNVmNwLXlhZzRnWXI4Q0N0LWo0OXp6ZDdFSjhYbU9pbzlaTXJUOWdlQW5xVXZyUU1wTjBkOWZWek1venhVdmFwWE9acDBWVkQ2UnVuQQ?oc=5",
+    "offense_date": "5-Jan",
     "time": "Not Specified",
     "law_enforcement": "Unknown",
-    "threat_type": "Shooting",
+    "threat_type": "General Threat",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
-    "incident_details": "Cobb County School District bid for appeal denied in overturned expulsion of student who warned about schoo",
+    "incident_details": "FBI thwarted 'ISIS-inspired plot' at Indiana school, but won't say where &nbsp;&nbsp; IndyStar",
     "lockdown_type": "N/A",
     "classes_cancelled": "N/A",
     "precautions": "N/A",
@@ -4275,19 +5500,19 @@
     "additional_sources": ""
   },
   {
-    "id": 172,
-    "school": "",
+    "id": 221,
+    "school": "Cobb County School",
     "school_type": "",
     "state": "",
     "region": "",
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHYxc0tzMFJEZXV2WlFHcElDalJTUzFDazQxbk5RRmEzektVZ0RyUjQzbzMzOWlnRnlRRmlSN2RGdkVZMEIwSHNkb2RZTFJ1TllEQ0w3RnV1YS1NSmtZUC1VQlg2bGhFcjQxTTA1UUk3amFhQ3pIWjhTck5fY282c0owS1U3MlN3SUhESDNBM0Q?oc=5",
-    "offense_date": "1-Jan",
+    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTExuMUJkMlpjSmkxZkVJV3lkLWNWdU50dG92TjF6SDFFYVg3Qm05RkNMMlZsVFlLejluc3lRZG9ldzJpbDNaUXZ4VnpyVGRPNmxxbk9hSElQUW1pRVpqMWxsQWJFQk10YXpXN2o0UUh2eEpjVW13UGNOZ1oxc29tVUVWZ0VCVkw3WUh5c2xKb3RfVVBNZmFMU0dtbG1qaUU5VjZVU0puMTVEc0Vtc2pOTFBnWUltT203VGZvb0xCM09xNE1md2JYRmhXYVU4SDRjbTVoUmw5QlBCNWFnTjRBelEwYzFXLTBZOENRVVZB?oc=5",
+    "offense_date": "2-Jan",
     "time": "Not Specified",
     "law_enforcement": "Unknown",
     "threat_type": "Shooting",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
-    "incident_details": "School Shootings This Year: How Many and Where &nbsp;&nbsp; Education Week",
+    "incident_details": "Cobb County School District bid for appeal denied in overturned expulsion of student who warned about schoo",
     "lockdown_type": "N/A",
     "classes_cancelled": "N/A",
     "precautions": "N/A",

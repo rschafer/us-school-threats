@@ -239,18 +239,18 @@ def _is_likely_us(title: str) -> bool:
     for pat in NON_US_INDICATORS:
         if re.search(pat, title, re.IGNORECASE):
             return False
-    # Must mention school and some threat-related term
     t = title.lower()
-    has_school = "school" in t or "campus" in t
-    has_threat = any(x in t for x in ["threat", "lockdown", "bomb", "shooting", "gun"])
-    if not (has_school and has_threat):
-        return False
-    # Prefer if we found a US state
-    state = _extract_state(title)
-    if state:
+    has_school = "school" in t or "campus" in t or "student" in t or "classroom" in t
+    threat_terms = ["threat", "lockdown", "bomb", "shooting", "gun", "arrest",
+                    "charged", "weapon", "evacuate", "evacuation", "swat", "police"]
+    has_threat = any(x in t for x in threat_terms)
+    # If both school and threat terms present, include
+    if has_school and has_threat:
         return True
-    # No state but school+threat and not clearly non-US - include (user can filter)
-    return True
+    # If has school + a US state/city, include (likely relevant from our search queries)
+    if has_school and _extract_state(title):
+        return True
+    return False
 
 
 def _is_duplicate_of_existing(news_title: str, existing_incidents: list[dict],

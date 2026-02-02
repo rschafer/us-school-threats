@@ -1,8 +1,16 @@
 {
-  "fetched_at": "2026-02-02T19:11:29Z",
-  "count": 817,
-  "articles_after_url_dedup": 1170,
+  "fetched_at": "2026-02-02T19:16:24Z",
+  "count": 821,
+  "articles_after_url_dedup": 1175,
   "articles": [
+    {
+      "title": "Bomb threats close Minnesota schools in district where Liam Conejo Ramos lives, police say - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWpSZ25nSHNBLWllTndvZG5tbFNhM0tqelhHZDBLNDlNWmszdUZ0ZG45T19JV3RrMGxXdy1zTElPY2JZWGRyY2xuS3RaTzNhVWstQzBoNFAwYUNCT0VBUV9hNWphOV9jSXVtdkdvVkRoVmxjUTZzc0RJSUdLdEhYczBlaE1sa2g2Q2V2eHZPXzhoSDRXSVhBeUhTUlpsQnZSVDVjUDZFaG5aaVVlcDh4cGFaRVUzaVJNbUJVbUl1ZXZ4bU0?oc=5",
+      "published": "2026-02-02T23:36:26Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWpSZ25nSHNBLWllTndvZG5tbFNhM0tqelhHZDBLNDlNWmszdUZ0ZG45T19JV3RrMGxXdy1zTElPY2JZWGRyY2xuS3RaTzNhVWstQzBoNFAwYUNCT0VBUV9hNWphOV9jSXVtdkdvVkRoVmxjUTZzc0RJSUdLdEhYczBlaE1sa2g2Q2V2eHZPXzhoSDRXSVhBeUhTUlpsQnZSVDVjUDZFaG5aaVVlcDh4cGFaRVUzaVJNbUJVbUl1ZXZ4bU0?oc=5\" target=\"_blank\">Bomb threats close Minnesota schools in district where Liam Conejo Ramos lives, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
+      "other_sources": []
+    },
     {
       "title": "Juvenile Charged Under New Criminal Threats Law For Oxnard School Shooting Threat - edhat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTFMQ3FSZGM5aWtoUExBNnBVbVo3UjJ5MWJzSUo4NXBFZWtWb0tRY1c0MUt5Z2lGQkhSZkxxUUgwSng2bGR5dERkNFZySk5ONUVuTzNkZmZZMUdjMUxONy01VERQQUhPOWJ3NFlJaHlhWk9MUm5YWlN4UW16akFHOW80UW9ISlR6VkxnbDRSTWU0OUZ1WmxEcUppVGk5amJ0SzlUb0huSm5YVF9ORFVEcmc2WGhiOVFE?oc=5",
@@ -2436,18 +2444,20 @@
       "other_sources": []
     },
     {
-      "title": "Fall semester Safe2Tell data shows reporting shift while critical interventions continue",
-      "url": "http://www.pagosasun.com/stories/fall-semester-safe2tell-data-shows-reporting-shift-while-critical-interventions-continue,122715",
-      "published": "2026-01-29T04:00:00Z",
-      "source": "pagosasun.com",
-      "snippet": "",
-      "other_sources": []
-    },
-    {
       "title": "Two students arrested following mass violence threats at Rocky Mount schools",
       "url": "https://www.witn.com/2026/01/29/two-students-arrested-following-mass-violence-threats-rocky-mount-schools/",
       "published": "2026-01-29T04:00:00Z",
       "source": "witn.com",
+      "snippet": "",
+      "other_sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVVsMnMxcnJGWWhXWmhZUVhQbFhaa0hYYlNaMi1pN0x3dFIya25Ha2M4TkpVM0FnbGNSZEZQczhaMFZnUUFYREN4aE1CS0RFZTZVT19VRHBKVlNEdkhnNk5aTEdTaVgydENIa1R0dzNmbHJfN3cyaTg3MmhjX3VxWWxmbG1oVXVpZUVSOEVhcVRLQU0tOFlXMXdlLXo3Nl9WTjl6SW5mdEJ2QdIBvgFBVV95cUxPYWNNWEk2SDd1OVN0U1FzWENHRC16N1U1ZHdoT0lZeGd1djFVR0hwdHBURzMzVlZBcFRzV1d2RTI0MkNTbDZwZlJkb29fUk9nMTBFNlVEV3JnRC05c1Nod08tRWsxV2VFRHJ4aXc3YWZZNDJwa1JOemtwVnhtdFlaV0RpOUx2bFpSTEVOSWNNcFhySGdYZFpGd2pLMVA5Ym92LXhmUUFCNFg5WURlbXREVE5Na0IzM3FldTRpRmh3?oc=5"
+      ]
+    },
+    {
+      "title": "Fall semester Safe2Tell data shows reporting shift while critical interventions continue",
+      "url": "http://www.pagosasun.com/stories/fall-semester-safe2tell-data-shows-reporting-shift-while-critical-interventions-continue,122715",
+      "published": "2026-01-29T04:00:00Z",
+      "source": "pagosasun.com",
       "snippet": "",
       "other_sources": []
     },
@@ -3994,6 +4004,14 @@
       "other_sources": []
     },
     {
+      "title": "Multiple Maine schools take safety precautions Wednesday morning due to threats - WABI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTVlSMk5MVXAtX3RCQXN6ZjhKZVNqblowcUcwaTdoSkh5X24tVWFSREZDSUtZZk1aN3ZXdkIzWEJBSDNZUE01LWEzbFJ0S3R1Z1RYbXM0NGllUGh0MXpjNUhlclV4TUNWeldvb3R4cG5kQnZrWFI3eTFTUmdYNGRJOdIBlAFBVV95cUxQQTlmR0lyamlaRW5GWGI1aUFpMDVDMFcxQjg5RnpoVkdOaWhjS0JoQU1XRV9yRzN4UnBRbzVOalFGTDY2T1k2OHVrYnF1SkhhSUcxRlBfVGJ4RkNjZjhreHJHNS1sc1N3SDJaWVE2MmEtTmZSdXc0dGJyWG1NUHRDUjBWbjZad0JsQ3NpckFqWl9tVXV0?oc=5",
+      "published": "2026-01-21T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTVlSMk5MVXAtX3RCQXN6ZjhKZVNqblowcUcwaTdoSkh5X24tVWFSREZDSUtZZk1aN3ZXdkIzWEJBSDNZUE01LWEzbFJ0S3R1Z1RYbXM0NGllUGh0MXpjNUhlclV4TUNWeldvb3R4cG5kQnZrWFI3eTFTUmdYNGRJOdIBlAFBVV95cUxQQTlmR0lyamlaRW5GWGI1aUFpMDVDMFcxQjg5RnpoVkdOaWhjS0JoQU1XRV9yRzN4UnBRbzVOalFGTDY2T1k2OHVrYnF1SkhhSUcxRlBfVGJ4RkNjZjhreHJHNS1sc1N3SDJaWVE2MmEtTmZSdXc0dGJyWG1NUHRDUjBWbjZad0JsQ3NpckFqWl9tVXV0?oc=5\" target=\"_blank\">Multiple Maine schools take safety precautions Wedn",
+      "other_sources": []
+    },
+    {
       "title": "Central NY students sent home early following after-school bomb threat, deputies search school - Syracuse.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX18xamhkVzBzZ1o3WkVmMXl5Rzc1U093UWNDdkc4NmZlQ1NnMFplQm01TXhkUWhpQm9ITzgteU5DWFNOV19yNlAxQlNvVWdfQlQzV0JxaktMZVpxU3ZVVndpdF9TU04zM1d4WC1IYXZNZGRaVUpjRnJqZjl0SURpa3ZjXzJkRkxkMFZoRHgyNTFJRVJYTEROeGVlUWdidmhCVGw1UVN2Ty13dEpXQkdNZ2NqQS10SHFmNXhj0gHPAUFVX3lxTE10NENNbzRhSkhwREZtOWRjSHJ2anAwVHdiVHppcTdpQndVSWo4Nk1PdzNScFZTa29PbnNYTWhyMDdWOGlaSUJGUV9JNXV3YmFMZEk2Q3lTNmROaUNkb0pHN2IyOGI0YU5aa0ZYa2dROEVyQlBIUkllMUdxY2g5c2VqSnk1a1JPOG5DZGh1SzVZZUhqS19kaTlvMlVXQ0lXY1ZLc0NHZ3pVVlNWeHZxSVh3MmxaNktKTUdDMmVKTE1VUWwyajZobC0zY3d3cWNZZw?oc=5",
       "published": "2026-01-21T13:00:00Z",
@@ -4396,14 +4414,6 @@
       ]
     },
     {
-      "title": "Ranking the best quarterbacks in the college football transfer portal - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0xXTHlQREFMZ2VJbkRJQjF2WG03VnRNdlE1MXhRTk1iMmJLenI0U2V4VTl0Tnp0UVZXQ0c3WURBZVlUdHpsamF6QkZzR09jM2JYNG96bnNwYkItenMzam5jOE9FM2RYVWNHWlExU2diemV3dFJrOS1Fck96TnE4Wi1SYUp6OTZpdzB5XzVmSjcyRkdpa3J2Z3d2Ty0xUmpEZGx4bmYyUEx6eGtEVUE0?oc=5",
-      "published": "2026-01-16T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0xXTHlQREFMZ2VJbkRJQjF2WG03VnRNdlE1MXhRTk1iMmJLenI0U2V4VTl0Tnp0UVZXQ0c3WURBZVlUdHpsamF6QkZzR09jM2JYNG96bnNwYkItenMzam5jOE9FM2RYVWNHWlExU2diemV3dFJrOS1Fck96TnE4Wi1SYUp6OTZpdzB5XzVmSjcyRkdpa3J2Z3d2Ty0xUmpEZGx4bmYyUEx6eGtEVUE0?oc=5\" target=\"_blank\">Ranking the best quarterbacks in the college football transfer portal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
-      "other_sources": []
-    },
-    {
       "title": "Man arrested for Woodbury shooting that put school in lockdown - CourierPostOnline.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOME1uWmN5d0VlYnBvMDB6NG1qNUpsbWQ2T0NsNDFYQ2hTbF8waFN2TkV3dm5VTkY0TDZyTXZwVWc4N3NMT0FXX3FxZ0JKX3M0c2QtUDZ6bjJ3cDE4NkZzNjRsR2JEdHNXNTIxQlRiLXVCMTV3N3lzbEZwTDkwTXVZZy0yanRCSUllOWdrSFMxX2dYYXZKUV9zUE83b20yUHRsSXJsN1JSYlJ5R3JsNlJ3R0poOGx0LWppanZJelg5cm1NdUphSkg1ZzJyVnJQbFFZT196U3lIZHAyazRNQVVvb2RMbXN4TEJqYjRKNFh2ZUZsTEdCVi14SmxR?oc=5",
       "published": "2026-01-16T13:00:00Z",
@@ -4571,6 +4581,14 @@
       "published": "2026-01-15T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ01zN0Fuc1FObGp1a3RtVjlHOHlFSjN6a3VCVnl2WTdGYzFPWVhvZ1llRkp0NFdvVF84cDdndVdHSE5ScEVVM0dNVGhOOWZWT010eVVGVEJwcXhGTWc5bE9TdFJkc2plbUc4bWl2RWhaREpPVzVCVzJBMzNEYk9DeHJCZF9Na0RGQWFLVHZPRFRYeWRoZzNzV2dXLW1PYjg5RlpFbHoyazdZd0pRTU1FRDlfdzN2MkV2VllBbnFTbG05UENmVlhsZDc1OG82dDVQZVQ1STA5MzhXZ1FEOEMzWg?oc=5\" target=\"_blank\">Peru Jr/Sr High School evacuated following reported 'bomb threat,' further investigation reveals this was swatting call</a>&n",
+      "other_sources": []
+    },
+    {
+      "title": "SCOTUS Hears Trans Sports Cases - Gender Justice",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJYXZNaDhiMWJwckltMm4zMEJvNHFweFVaTVZmOTJ4ZmNmUV8tckZ0ZW94eVMwTmZiVkhycl9vQUhkX2M5a3ZkdmpRZEE2M3FkczExSDNvWFAwMWdEY2Z2R1ZqblFNcDRJZ1JrSURkMVVjQlJVZ1V2aTJieFY?oc=5",
+      "published": "2026-01-15T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBJYXZNaDhiMWJwckltMm4zMEJvNHFweFVaTVZmOTJ4ZmNmUV8tckZ0ZW94eVMwTmZiVkhycl9vQUhkX2M5a3ZkdmpRZEE2M3FkczExSDNvWFAwMWdEY2Z2R1ZqblFNcDRJZ1JrSURkMVVjQlJVZ1V2aTJieFY?oc=5\" target=\"_blank\">SCOTUS Hears Trans Sports Cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gender Justice</font>",
       "other_sources": []
     },
     {
@@ -5084,6 +5102,22 @@
       ]
     },
     {
+      "title": "Eight arrested in Minneapolis as Trump officials issue threats to protesters | Minnesota ICE shootings - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk9BTlJXeVFrX3c5Wk83UXd0R2htOGQ0Ri1WRnpQODNjMWlxc2ZCT2ZKTHZoU2RxdjBDOHBGeS1oSUJSZnBhbmFXVlE4aElld1FUdFhEUXYxcVNHbi1BSXZTdzBER1VyOTBpRk1KMy1BeDRtRmVwRFdvamRVM1l5Vg?oc=5",
+      "published": "2026-01-13T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk9BTlJXeVFrX3c5Wk83UXd0R2htOGQ0Ri1WRnpQODNjMWlxc2ZCT2ZKTHZoU2RxdjBDOHBGeS1oSUJSZnBhbmFXVlE4aElld1FUdFhEUXYxcVNHbi1BSXZTdzBER1VyOTBpRk1KMy1BeDRtRmVwRFdvamRVM1l5Vg?oc=5\" target=\"_blank\">Eight arrested in Minneapolis as Trump officials issue threats to protesters | Minnesota ICE shootings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "other_sources": []
+    },
+    {
+      "title": "University Library Bomb Threats Once Again Rattle Schools Nationwide - Book Riot",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kazJBa2VqM3gzT0wxSndJVndKaW1pOEUwbFBCbnJrQ0lpb0FjbUVRTFktS3dTVTNhbkpyTVZGSVpqaTVjdVczelNycmlMMDZHLXZ0bjRmNWJEQ3BVQjFVLThrYjZaY1NlWl9iQ3dLclpBZEJM?oc=5",
+      "published": "2026-01-13T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1kazJBa2VqM3gzT0wxSndJVndKaW1pOEUwbFBCbnJrQ0lpb0FjbUVRTFktS3dTVTNhbkpyTVZGSVpqaTVjdVczelNycmlMMDZHLXZ0bjRmNWJEQ3BVQjFVLThrYjZaY1NlWl9iQ3dLclpBZEJM?oc=5\" target=\"_blank\">University Library Bomb Threats Once Again Rattle Schools Nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Book Riot</font>",
+      "other_sources": []
+    },
+    {
       "title": "Seven Santa Rosa schools resume normal operations after threat - Pensacola News Journal",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXdoZ1ljNEVUb2NZWGh2Z242WGpNb1M0THM0RjNJMWlOR0R1TnFOdnJwOHZsdFpPNVFlbDlmd0ZkYzFGQmRtZzlIUXAwS2hVU0RGUjRMXzZmcVZDRFVIQ3BYMlRBNUhlTnAyYkdNck85eklpRlZ5OXBMMHZJRzJ1M1dhSzZub2dtUWNMbUQ3VkFMVi11ZnZXYmhXeG5pM01fOFV3YWRESkp0R2FVNFZSalZHMGZiQ0t1Nm1xR3JiYVZzZ0xVaHhmcw?oc=5",
       "published": "2026-01-13T13:00:00Z",
@@ -5101,14 +5135,6 @@
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXBmd1NjVGFHUXV4MnVOQkJ1RnE0eU5PaXJHbVdBRTd1MlZ3V0g4WXFlOWd0RkpkNU13ZTYtWDBjekthMGxoSG1VTERUVnRqNEJ0SGNkQVdEYWFCYURKeFgtdXZZRTJEd3NlQjZTRmdaQW9GT2RjTzktRDRQNEh4MG9VSHJyeEp0emo0NUM2SXl1UkhkRllYbFJfdjc?oc=5",
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmRhUjRZeDVUNWlxZkdzUzNYeFFqa3ZyWWM5ckxwTTc3cVNzUDYtNUZaZXpadDJZMkE5azN4eFhqUE80WTA2NjJmV3lIMnFrbUJ0M3EyVXlLNGhpS21IYzM5aENPSFBFbUM4eUtKUXJEdU5TZGRfSkVhZ2doeFlqcmRWZWtxZkNncUo1cUdoNHZKZ0R0MG9tVW5jOHJtdUhhaWZnekJMNzhkNTlWb0Rzbg?oc=5"
       ]
-    },
-    {
-      "title": "University Library Bomb Threats Once Again Rattle Schools Nationwide - Book Riot",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kazJBa2VqM3gzT0wxSndJVndKaW1pOEUwbFBCbnJrQ0lpb0FjbUVRTFktS3dTVTNhbkpyTVZGSVpqaTVjdVczelNycmlMMDZHLXZ0bjRmNWJEQ3BVQjFVLThrYjZaY1NlWl9iQ3dLclpBZEJM?oc=5",
-      "published": "2026-01-13T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1kazJBa2VqM3gzT0wxSndJVndKaW1pOEUwbFBCbnJrQ0lpb0FjbUVRTFktS3dTVTNhbkpyTVZGSVpqaTVjdVczelNycmlMMDZHLXZ0bjRmNWJEQ3BVQjFVLThrYjZaY1NlWl9iQ3dLclpBZEJM?oc=5\" target=\"_blank\">University Library Bomb Threats Once Again Rattle Schools Nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Book Riot</font>",
-      "other_sources": []
     },
     {
       "title": "All-clear given at Hobbs Middle School in Santa Rosa County after threat investigated - fox10tv.com",
@@ -5237,27 +5263,11 @@
       "other_sources": []
     },
     {
-      "title": "School shootings dropped in 2025. Here\u2019s what to know for 2026. - K-12 Dive",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2VqcEI4bEh5NjZhb0llM0JPQWMwOHJlRW43bFZhaE52eXF6WHhQZ1RUYXZHYlYtOVFFNUtTbnlfQjlxY01lMGtQR1R2ZmhKX1EyNGJWQUd0NmgwY3ZkcDh0anVLX2JzYy1GMmNnSUtlSjlfUXJkNmtOMFpUSDFGUWl1cE1qTEh2UFR1bVZfZ0tGVUVaaVp6SA?oc=5",
-      "published": "2026-01-12T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2VqcEI4bEh5NjZhb0llM0JPQWMwOHJlRW43bFZhaE52eXF6WHhQZ1RUYXZHYlYtOVFFNUtTbnlfQjlxY01lMGtQR1R2ZmhKX1EyNGJWQUd0NmgwY3ZkcDh0anVLX2JzYy1GMmNnSUtlSjlfUXJkNmtOMFpUSDFGUWl1cE1qTEh2UFR1bVZfZ0tGVUVaaVp6SA?oc=5\" target=\"_blank\">School shootings dropped in 2025. Here\u2019s what to know for 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">K-12 Dive</font>",
-      "other_sources": []
-    },
-    {
       "title": "Schools across Michigan on high alert after bomb threats, police investigate - midmichigannow.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGpGUFpETGtybklHOTRlQTA0Wml2aGw1UlJmWDBkRk5MUTRUbTZJbDlMR3RUR3ZPNkpia3VZVzdPaGktRTRRSXFHYzVFcVU1UEFVaHdpYng0blpOWkVuZ2wzU1BZSWlRdkZsemZKMHdiLXBja01Xbkk3ZGlHX3JNcUFJOEZzTEpxOGtORHdDby1VbUNNVUFmQlNmVTEtRmNNMTM2dm1yQ25vaFI3eGVLeUdmVQ?oc=5",
       "published": "2026-01-12T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGpGUFpETGtybklHOTRlQTA0Wml2aGw1UlJmWDBkRk5MUTRUbTZJbDlMR3RUR3ZPNkpia3VZVzdPaGktRTRRSXFHYzVFcVU1UEFVaHdpYng0blpOWkVuZ2wzU1BZSWlRdkZsemZKMHdiLXBja01Xbkk3ZGlHX3JNcUFJOEZzTEpxOGtORHdDby1VbUNNVUFmQlNmVTEtRmNNMTM2dm1yQ25vaFI3eGVLeUdmVQ?oc=5\" target=\"_blank\">Schools across Michigan on high alert after bomb threats, police investigate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">midmichigannow.com</font>",
-      "other_sources": []
-    },
-    {
-      "title": "Ellison says Minnesota suing feds to end ICE \u2018invasion,\u2019 students continue to protest - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2piZnZXQ2tURXlsMUtEZnZfLV9wNUJ6dU9IMnVWcExCSU5zRUVuaGx6N3pLR3pnQ1gtREM1TjRwc2haLWJncF9lRFdXUGlZMHE2bzY2N05DQUJIaWo5NnBXTXdwVnMzeUFmb3FGMGVLXzBzcUdQdFN1U3pEUmVzZHRqYW5xQkNWVmgzT1ZB?oc=5",
-      "published": "2026-01-12T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2piZnZXQ2tURXlsMUtEZnZfLV9wNUJ6dU9IMnVWcExCSU5zRUVuaGx6N3pLR3pnQ1gtREM1TjRwc2haLWJncF9lRFdXUGlZMHE2bzY2N05DQUJIaWo5NnBXTXdwVnMzeUFmb3FGMGVLXzBzcUdQdFN1U3pEUmVzZHRqYW5xQkNWVmgzT1ZB?oc=5\" target=\"_blank\">Ellison says Minnesota suing feds to end ICE \u2018invasion,\u2019 students continue to protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
       "other_sources": []
     },
     {
@@ -5303,6 +5313,14 @@
       ]
     },
     {
+      "title": "Alma High School ended classes for the day due to bomb threat - The Morning Sun",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTJMOGM3dEx4a1c3dUN3bndtYS10d1RMZDVld0txaEJDMkZWUmNtYThiWDIzQ2R5N0wyUTN1cndEU29GbkNMT0h6N09QZ3lQX3RkTVdnc0FRV2pZT3V6MEg2Q25idmFDdnR4al9ZMFFfakpCdmdraUdLSVEtWTVhYUV3VkVIMUliRXBmZ1JPeU9PaExXQ1lVSzNoXzg1VzZSa0xwU1ZR?oc=5",
+      "published": "2026-01-12T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTJMOGM3dEx4a1c3dUN3bndtYS10d1RMZDVld0txaEJDMkZWUmNtYThiWDIzQ2R5N0wyUTN1cndEU29GbkNMT0h6N09QZ3lQX3RkTVdnc0FRV2pZT3V6MEg2Q25idmFDdnR4al9ZMFFfakpCdmdraUdLSVEtWTVhYUV3VkVIMUliRXBmZ1JPeU9PaExXQ1lVSzNoXzg1VzZSa0xwU1ZR?oc=5\" target=\"_blank\">Alma High School ended classes for the day due to bomb threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Sun</font>",
+      "other_sources": []
+    },
+    {
       "title": "Was Jauan Jennings a QB? 49ers WR once ranked ahead of Joe Burrow, Lamar Jackson - USA Today",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVVfTVVFRGw0OGxQTVRlQTNwb2h2Y1NLS2pHbGVEeW5FaHh4bUFua2hCMFdfd3VqNWN2TWJ2R0FBc2pxT0pQU080Ym1sVzB1Z21SS2xPTVptNDZTbzNhcEMyOE91TFhtYjNyVGdQWnZrUXJJbVh4bklvcF9JMnlLTFdvZnZPOW1TMDByRGZvRkxjYklkclBadEZvcEtBOGtrWjlPV3B5NWxnWm9ST1g0?oc=5",
       "published": "2026-01-12T13:00:00Z",
@@ -5327,11 +5345,11 @@
       "other_sources": []
     },
     {
-      "title": "Alma High School ended classes for the day due to bomb threat - The Morning Sun",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTJMOGM3dEx4a1c3dUN3bndtYS10d1RMZDVld0txaEJDMkZWUmNtYThiWDIzQ2R5N0wyUTN1cndEU29GbkNMT0h6N09QZ3lQX3RkTVdnc0FRV2pZT3V6MEg2Q25idmFDdnR4al9ZMFFfakpCdmdraUdLSVEtWTVhYUV3VkVIMUliRXBmZ1JPeU9PaExXQ1lVSzNoXzg1VzZSa0xwU1ZR?oc=5",
+      "title": "Ellison says Minnesota suing feds to end ICE \u2018invasion,\u2019 students continue to protest - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2piZnZXQ2tURXlsMUtEZnZfLV9wNUJ6dU9IMnVWcExCSU5zRUVuaGx6N3pLR3pnQ1gtREM1TjRwc2haLWJncF9lRFdXUGlZMHE2bzY2N05DQUJIaWo5NnBXTXdwVnMzeUFmb3FGMGVLXzBzcUdQdFN1U3pEUmVzZHRqYW5xQkNWVmgzT1ZB?oc=5",
       "published": "2026-01-12T13:00:00Z",
       "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTJMOGM3dEx4a1c3dUN3bndtYS10d1RMZDVld0txaEJDMkZWUmNtYThiWDIzQ2R5N0wyUTN1cndEU29GbkNMT0h6N09QZ3lQX3RkTVdnc0FRV2pZT3V6MEg2Q25idmFDdnR4al9ZMFFfakpCdmdraUdLSVEtWTVhYUV3VkVIMUliRXBmZ1JPeU9PaExXQ1lVSzNoXzg1VzZSa0xwU1ZR?oc=5\" target=\"_blank\">Alma High School ended classes for the day due to bomb threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Sun</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2piZnZXQ2tURXlsMUtEZnZfLV9wNUJ6dU9IMnVWcExCSU5zRUVuaGx6N3pLR3pnQ1gtREM1TjRwc2haLWJncF9lRFdXUGlZMHE2bzY2N05DQUJIaWo5NnBXTXdwVnMzeUFmb3FGMGVLXzBzcUdQdFN1U3pEUmVzZHRqYW5xQkNWVmgzT1ZB?oc=5\" target=\"_blank\">Ellison says Minnesota suing feds to end ICE \u2018invasion,\u2019 students continue to protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
       "other_sources": []
     },
     {
@@ -5375,6 +5393,14 @@
       "other_sources": []
     },
     {
+      "title": "US woman killed by ICE agent called \u2018domestic terrorist\u2019: What it means - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnZNbzFlUkpyYko0cmE1TWM3N3dnSDR0OE9ReFVEazMwZnFTMXc5dmdKR2JpTmVUa051U2xMRkxPb2Fxb3R6cy1mb0VIOURnNEoyVEVqaXctRGtCeXVnZ0VENzZKUG9IWUNWRC03bl92SHhEdmNSR2h1R1JRRXI5Z0tRcUVHekxKcm51RzFBcXFpSXpzNDlKcHJxUGNkSkJFWEIxU2plZURJdWVMU1HSAbMBQVVfeXFMTl9ycXZXVV85S19nbzIyTzlUNFVyWWdMOHJoMzBIcThNdEpnYktzT3JVbUpyNEd6ZkdaMmJUTndrcVFfRjZnOEtuLUZITGREY1dxVmpJYnFTRnQ5MWJkcGdIZTdQdUZYSHZfMml0VGdiUGktM0RZaHdSa0JfWmVzR1pvUVYydDV2aWZNZVQtUFFFR1RFaV92TUVkV2NhTHl6R1ZldExPelJPY1duSlZfV251ck0?oc=5",
+      "published": "2026-01-11T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnZNbzFlUkpyYko0cmE1TWM3N3dnSDR0OE9ReFVEazMwZnFTMXc5dmdKR2JpTmVUa051U2xMRkxPb2Fxb3R6cy1mb0VIOURnNEoyVEVqaXctRGtCeXVnZ0VENzZKUG9IWUNWRC03bl92SHhEdmNSR2h1R1JRRXI5Z0tRcUVHekxKcm51RzFBcXFpSXpzNDlKcHJxUGNkSkJFWEIxU2plZURJdWVMU1HSAbMBQVVfeXFMTl9ycXZXVV85S19nbzIyTzlUNFVyWWdMOHJoMzBIcThNdEpnYktzT3JVbUpyNEd6ZkdaMmJUTndrcVFfRjZnOEtuLUZITGREY1dxVmpJYnFTRnQ5MWJkcGdIZTdQdUZYSHZfMml0VGdiUGktM0RZaHdSa0JfWmVzR1pvUVYydDV2aWZNZVQtUFFFR1RFaV92TUVkV2NhTH",
+      "other_sources": []
+    },
+    {
       "title": "Why J\u00fcrgen Habermas Disappeared",
       "url": "https://foreignpolicy.com/2021/02/07/why-jurgen-habermas-disappeared/?tpcc=recirc_trending062921",
       "published": "2026-01-11T10:15:00Z",
@@ -5388,30 +5414,6 @@
       "published": "2026-01-10T16:15:00Z",
       "source": "rcreader.com",
       "snippet": "",
-      "other_sources": []
-    },
-    {
-      "title": "Opinion | American Violence Is Pushing Families to Think About Leaving - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmxsV2QwNEJ4SFE5MGxWRFROajNpSHduVWplLVhjOEVWS0FLakw2cXFqbzdBZEFEazZoanVwRFN6QzZIZ2hpOVVmT2N2RC1SdlJKZzBNWi0wRHdveWJWSllvaS14NThBTEpaQ1NWLThnRDM0RDdwSVFIUzQwejVuWFZ3?oc=5",
-      "published": "2026-01-10T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmxsV2QwNEJ4SFE5MGxWRFROajNpSHduVWplLVhjOEVWS0FLakw2cXFqbzdBZEFEazZoanVwRFN6QzZIZ2hpOVVmT2N2RC1SdlJKZzBNWi0wRHdveWJWSllvaS14NThBTEpaQ1NWLThnRDM0RDdwSVFIUzQwejVuWFZ3?oc=5\" target=\"_blank\">Opinion | American Violence Is Pushing Families to Think About Leaving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "other_sources": []
-    },
-    {
-      "title": "Flexing U.S. Power in Venezuela - Stanford Law School",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNktmVnhaTm56cVNaRjlYOWN6aG92a3RKTlRGUTVWdW5od0xyTjd3LWx6enpJakNVamVJYmpWRjN2cElOazFKQ2ZBZHROYzZpTHdVTGk1NzBzYjJYME9ERUpaeF9VVGdQYnpxZ3ZTcGFqMkhuTEE?oc=5",
-      "published": "2026-01-10T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9hNktmVnhaTm56cVNaRjlYOWN6aG92a3RKTlRGUTVWdW5od0xyTjd3LWx6enpJakNVamVJYmpWRjN2cElOazFKQ2ZBZHROYzZpTHdVTGk1NzBzYjJYME9ERUpaeF9VVGdQYnpxZ3ZTcGFqMkhuTEE?oc=5\" target=\"_blank\">Flexing U.S. Power in Venezuela</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford Law School</font>",
-      "other_sources": []
-    },
-    {
-      "title": "Experts question Noem calling Good a 'domestic terrorist.' Here's what the term means - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlA4eG12ZzI3aDhGd0N1anZabF8ybmdpZzBESUZGNEpSU1M3ZXh3dC04ZXhPZnlVbnBYb3NxaGZuSjgwdVVDT2t5eDNzdWI3cnJER2FLa0E4Mkl3V2c4RmFFN1ZsOVl0N2tQcEVsYncyeFZXUHAwWUxROFVtOHViQjFVOERDRi11aGx5eG5GYnBNZjdwRm55ZmdwemdLd2RsU0ExQ2d4SXlzeTRRMXcweWhwYlBDa0ZwRDlF0gHAAUFVX3lxTE5HdVd6SmsyMGl2UXc2MDY0U1NIdmFQNHNTUGU0aUdSTmh5WGxPTjVCaHZ6YWZrRmNkejB2aVhJWU9MUFEyZWs3NlNWcllQalZETWJFaHNTWjcyZ3JCNkdpYnBLRFRLZ1RCS2xTWVpIZTdNOEVyVGhWcElOQzBhOWhnS3ZISlBCNDRRMlFFUlRWWkhyU2MwQnBnSEQzNXhGcFB3eWxPUkFsa1dfVkJkMGYtOXlKTzFoaEFGTU0wNmpXYQ?oc=5",
-      "published": "2026-01-10T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlA4eG12ZzI3aDhGd0N1anZabF8ybmdpZzBESUZGNEpSU1M3ZXh3dC04ZXhPZnlVbnBYb3NxaGZuSjgwdVVDT2t5eDNzdWI3cnJER2FLa0E4Mkl3V2c4RmFFN1ZsOVl0N2tQcEVsYncyeFZXUHAwWUxROFVtOHViQjFVOERDRi11aGx5eG5GYnBNZjdwRm55ZmdwemdLd2RsU0ExQ2d4SXlzeTRRMXcweWhwYlBDa0ZwRDlF0gHAAUFVX3lxTE5HdVd6SmsyMGl2UXc2MDY0U1NIdmFQNHNTUGU0aUdSTmh5WGxPTjVCaHZ6YWZrRmNkejB2aVhJWU9MUFEyZWs3NlNWcllQalZETWJFaHNTWjcyZ3JCNkdpYnBLRFRLZ1RCS2xTWVpIZTdNOEVyVGhWcElOQzBhOWhnS3ZISlBCNDRRMlFFUlRWWk",
       "other_sources": []
     },
     {
@@ -5637,27 +5639,11 @@
       "other_sources": []
     },
     {
-      "title": "Minneapolis schools cancel classes after Border Patrol clash disrupts dismissal at Roosevelt - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUN3YXhCQnFodmJOeXVYVDRwdEZQb0FEeWs1QU1GYUNua3RPWjlGalNmcTNsWkdPajl4NGE4Rm5NbWs1ZXlaLVJweDdNS3NNTFpHRUZ4QkVKeEtZOXhmU2dRYVlrbjdqaUp1akNjanVkOHo3aUNhcDlUTlppOXVCRkhXRkY5R1FqaWJ5N0dnRk1aRlpzWHpidmJhXzcwT0dxelNOLUNBb0JJM0h3dkZfdWkzdTY?oc=5",
+      "title": "The D Brief: Offshore banks to hold seized-oil profits; Pay caps for defense CEOs; Army\u2019s flight-school outsourcing, snagged; Right-to-repair urged; And a bit more. - Defense One",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXRsWVBIbFRySEQ1YTRBLTdwTFB4RnV0VEhaYnZFM3Fra0JrQnJYSHJEVzlNNEpJYVBLZVpyMnkxYUtEclpIRHotcnJSZko4czhNVmZxX1YxOFRJaWNLSzRFc1lfQ1FkQ2VaZENXSEoyZFNXRGdycGNKUU1EMDJOR0ZrSTM?oc=5",
       "published": "2026-01-08T13:00:00Z",
       "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUN3YXhCQnFodmJOeXVYVDRwdEZQb0FEeWs1QU1GYUNua3RPWjlGalNmcTNsWkdPajl4NGE4Rm5NbWs1ZXlaLVJweDdNS3NNTFpHRUZ4QkVKeEtZOXhmU2dRYVlrbjdqaUp1akNjanVkOHo3aUNhcDlUTlppOXVCRkhXRkY5R1FqaWJ5N0dnRk1aRlpzWHpidmJhXzcwT0dxelNOLUNBb0JJM0h3dkZfdWkzdTY?oc=5\" target=\"_blank\">Minneapolis schools cancel classes after Border Patrol clash disrupts dismissal at Roosevelt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
-      "other_sources": []
-    },
-    {
-      "title": "Minneapolis Public Schools close after fatal ICE shooting - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJveFNhWGRkdjNUdkNQZ2ZaOFp2elJRbng0Wm5wdFh5aXQwcUZobUZ1My11UzVsMF9LN2dNZ3R0QTUzVnhJN256aUQ2ME8wQWp3aDRJNWRFMjI3QjA3VC1qcnhvNFh6cHlqS2ZDQWwwM1VTX3E0VFBYelQ2M1U3NnVFTVFtQ3FZQ0NMd3hqeFZRRzlGc1pGZktQWnVfcEFYSWJJemF4b204MGdSeTZreW1Xbw?oc=5",
-      "published": "2026-01-08T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJveFNhWGRkdjNUdkNQZ2ZaOFp2elJRbng0Wm5wdFh5aXQwcUZobUZ1My11UzVsMF9LN2dNZ3R0QTUzVnhJN256aUQ2ME8wQWp3aDRJNWRFMjI3QjA3VC1qcnhvNFh6cHlqS2ZDQWwwM1VTX3E0VFBYelQ2M1U3NnVFTVFtQ3FZQ0NMd3hqeFZRRzlGc1pGZktQWnVfcEFYSWJJemF4b204MGdSeTZreW1Xbw?oc=5\" target=\"_blank\">Minneapolis Public Schools close after fatal ICE shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "other_sources": []
-    },
-    {
-      "title": "Amid Protests, ICE Told Agents to Take \u2018Decisive Action\u2019 if Threatened - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN182LUxrWEhyQzgweERxNDlUYm9iRFpHYldRaFdvRWE3dEdOcWZqNk9zZldHMkhVVUdBTzE0eEZ1MHVMSlNmOGtRX2lLa2lmbl9hRy1oVnJBS0lEbHFwRVpMV2FwV2F6WnMxWk13MnhXeklPVl83bGlpaWNwaFBmMlhxTGNxZkVMWHM0bFFPZW5yZHRK?oc=5",
-      "published": "2026-01-08T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNN182LUxrWEhyQzgweERxNDlUYm9iRFpHYldRaFdvRWE3dEdOcWZqNk9zZldHMkhVVUdBTzE0eEZ1MHVMSlNmOGtRX2lLa2lmbl9hRy1oVnJBS0lEbHFwRVpMV2FwV2F6WnMxWk13MnhXeklPVl83bGlpaWNwaFBmMlhxTGNxZkVMWHM0bFFPZW5yZHRK?oc=5\" target=\"_blank\">Amid Protests, ICE Told Agents to Take \u2018Decisive Action\u2019 if Threatened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXRsWVBIbFRySEQ1YTRBLTdwTFB4RnV0VEhaYnZFM3Fra0JrQnJYSHJEVzlNNEpJYVBLZVpyMnkxYUtEclpIRHotcnJSZko4czhNVmZxX1YxOFRJaWNLSzRFc1lfQ1FkQ2VaZENXSEoyZFNXRGdycGNKUU1EMDJOR0ZrSTM?oc=5\" target=\"_blank\">The D Brief: Offshore banks to hold seized-oil profits; Pay caps for defense CEOs; Army\u2019s flight-school outsourcing, snagged; Right-to-repair urged; And a bit more.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense One</font>",
       "other_sources": []
     },
     {
@@ -5674,6 +5660,22 @@
       "published": "2026-01-08T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEg3RHk2UDR0MnE5R1ktQlJjc0dUVXdyVmRtWjY1MzZ6andzWnNyLTA4NUhwenIzbzBXLTJnRUtMZ3h6VmJZWklsQVA1a2M4NGRfNGtPcWthTVR0STFpbkVwYXNEalJ5YkpLczNaamQ1eEo0WU5SeHZ1S3MzWFVsLXBYdXR6MXpWSEdicENVVU1hT1FKblVSMEtjcndpQnZNQTFyNG5Eaw?oc=5\" target=\"_blank\">No school for MPS rest of the week; Apparent ICE presence at Roosevelt High School causes chaotic scene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">5 EYEWITNESS NEWS</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Minneapolis schools cancel classes after Border Patrol clash disrupts dismissal at Roosevelt - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUN3YXhCQnFodmJOeXVYVDRwdEZQb0FEeWs1QU1GYUNua3RPWjlGalNmcTNsWkdPajl4NGE4Rm5NbWs1ZXlaLVJweDdNS3NNTFpHRUZ4QkVKeEtZOXhmU2dRYVlrbjdqaUp1akNjanVkOHo3aUNhcDlUTlppOXVCRkhXRkY5R1FqaWJ5N0dnRk1aRlpzWHpidmJhXzcwT0dxelNOLUNBb0JJM0h3dkZfdWkzdTY?oc=5",
+      "published": "2026-01-08T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUN3YXhCQnFodmJOeXVYVDRwdEZQb0FEeWs1QU1GYUNua3RPWjlGalNmcTNsWkdPajl4NGE4Rm5NbWs1ZXlaLVJweDdNS3NNTFpHRUZ4QkVKeEtZOXhmU2dRYVlrbjdqaUp1akNjanVkOHo3aUNhcDlUTlppOXVCRkhXRkY5R1FqaWJ5N0dnRk1aRlpzWHpidmJhXzcwT0dxelNOLUNBb0JJM0h3dkZfdWkzdTY?oc=5\" target=\"_blank\">Minneapolis schools cancel classes after Border Patrol clash disrupts dismissal at Roosevelt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Minneapolis Public Schools close after fatal ICE shooting - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJveFNhWGRkdjNUdkNQZ2ZaOFp2elJRbng0Wm5wdFh5aXQwcUZobUZ1My11UzVsMF9LN2dNZ3R0QTUzVnhJN256aUQ2ME8wQWp3aDRJNWRFMjI3QjA3VC1qcnhvNFh6cHlqS2ZDQWwwM1VTX3E0VFBYelQ2M1U3NnVFTVFtQ3FZQ0NMd3hqeFZRRzlGc1pGZktQWnVfcEFYSWJJemF4b204MGdSeTZreW1Xbw?oc=5",
+      "published": "2026-01-08T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTJveFNhWGRkdjNUdkNQZ2ZaOFp2elJRbng0Wm5wdFh5aXQwcUZobUZ1My11UzVsMF9LN2dNZ3R0QTUzVnhJN256aUQ2ME8wQWp3aDRJNWRFMjI3QjA3VC1qcnhvNFh6cHlqS2ZDQWwwM1VTX3E0VFBYelQ2M1U3NnVFTVFtQ3FZQ0NMd3hqeFZRRzlGc1pGZktQWnVfcEFYSWJJemF4b204MGdSeTZreW1Xbw?oc=5\" target=\"_blank\">Minneapolis Public Schools close after fatal ICE shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
       "other_sources": []
     },
     {
@@ -5918,11 +5920,11 @@
       "other_sources": []
     },
     {
-      "title": "Cops: Columbine-obsessed teenager plotted shooting at rural Indiana high school - Fox 59",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeDBldw?oc=5",
+      "title": "Austin ISD and FBI investigating social media threat to 3 elementary schools - KVUE",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRk0yUDJNVlpfZ0xNTXhkVGpITjdhaW56blBjWTNtcDdpck1ld1dFRmE5Y051R2pkclF5c0hWZXB1NktTOThJaFJrZFZLV2tQSENDamNKRGlvX0xKbkIzSXJOTXFxY19MWHR3NE1hbU5EbWpXYVppVFc0ZktuM2R3SVhhSmhlS2o5ZHpFU3Y4eTMtQ1hyOE53VUVZRkxla1p3TnpaR2Y0cC1tS2R1bVdDc1JrSFpYT3BuWS1XWFRJeE5vd3F4V1E?oc=5",
       "published": "2026-01-06T13:00:00Z",
       "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeD",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRk0yUDJNVlpfZ0xNTXhkVGpITjdhaW56blBjWTNtcDdpck1ld1dFRmE5Y051R2pkclF5c0hWZXB1NktTOThJaFJrZFZLV2tQSENDamNKRGlvX0xKbkIzSXJOTXFxY19MWHR3NE1hbU5EbWpXYVppVFc0ZktuM2R3SVhhSmhlS2o5ZHpFU3Y4eTMtQ1hyOE53VUVZRkxla1p3TnpaR2Y0cC1tS2R1bVdDc1JrSFpYT3BuWS1XWFRJeE5vd3F4V1E?oc=5\" target=\"_blank\">Austin ISD and FBI investigating social media threat to 3 elementary schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
       "other_sources": []
     },
     {
@@ -5958,14 +5960,6 @@
       "other_sources": []
     },
     {
-      "title": "Austin ISD and FBI investigating social media threat to 3 elementary schools - KVUE",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRk0yUDJNVlpfZ0xNTXhkVGpITjdhaW56blBjWTNtcDdpck1ld1dFRmE5Y051R2pkclF5c0hWZXB1NktTOThJaFJrZFZLV2tQSENDamNKRGlvX0xKbkIzSXJOTXFxY19MWHR3NE1hbU5EbWpXYVppVFc0ZktuM2R3SVhhSmhlS2o5ZHpFU3Y4eTMtQ1hyOE53VUVZRkxla1p3TnpaR2Y0cC1tS2R1bVdDc1JrSFpYT3BuWS1XWFRJeE5vd3F4V1E?oc=5",
-      "published": "2026-01-06T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRk0yUDJNVlpfZ0xNTXhkVGpITjdhaW56blBjWTNtcDdpck1ld1dFRmE5Y051R2pkclF5c0hWZXB1NktTOThJaFJrZFZLV2tQSENDamNKRGlvX0xKbkIzSXJOTXFxY19MWHR3NE1hbU5EbWpXYVppVFc0ZktuM2R3SVhhSmhlS2o5ZHpFU3Y4eTMtQ1hyOE53VUVZRkxla1p3TnpaR2Y0cC1tS2R1bVdDc1JrSFpYT3BuWS1XWFRJeE5vd3F4V1E?oc=5\" target=\"_blank\">Austin ISD and FBI investigating social media threat to 3 elementary schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
-      "other_sources": []
-    },
-    {
       "title": "\u2018No credible threat\u2019 at North Dallas High School after reported bomb, police say - Fort Worth Star-Telegram",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sSW5Zc1A2ell1RUZtYVNUU2VSRC1RZEh4RGQwSVdhZ1RXSWFReURJY1RPWUwza0pnVUYzb3gyVWZjR2FBejBZMXM0aDkwM0I0OWZGaTUtaTJFOGlQbGk5Mm1TX1NuUEVVa0pxTVdPYWluc25ReXl6Sw?oc=5",
       "published": "2026-01-06T13:00:00Z",
@@ -5979,6 +5973,14 @@
       "published": "2026-01-06T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2RhYWstQ1B3TEJTM3hRdWIyMl8wbGJxUGhTRW5FTHNWZVBrM0hGa01QcFJvYUIwdkFyUnUtYXE1dnA5TEpfTENlT0ZpV3F5azdkNElKUTZMREdDbzFFVFR2MkFKa1BUdUtkTVFfVXBaaTB2TGd5SF9YbURlc3NlaGhfT25lemFhdVV5eG8zQ1AxWVhNbmtZVnFjOVYtakxiTjZFMXhkQU5QSV9IM1JwUE9HU2ZwbXBiYXBoWXY1dF9MUQ?oc=5\" target=\"_blank\">Bomb threat at North Dallas High School leads to large police presence Tuesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Cops: Columbine-obsessed teenager plotted shooting at rural Indiana high school - Fox 59",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeDBldw?oc=5",
+      "published": "2026-01-06T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3I3SXE2eWc0MVo5X1FKdmFQZFotZnBFNWVSY0NhNzltQXdJVWVVSHVEeHVEbmlKX1lkUC0xZHJidnBPODE4b1ZRRjlLZ0VTZXNjWmU2MlU1SjIwa1FCQVMyb200bl9Rbldib1pvbnVRS21SbkRvWUg1T1c5WnFvd0NwcDAxMFRMNE5CSmRabTFuZTFraEw1RFNpQURPU1dhWG9MVNIBqgFBVV95cUxPUTJ1WGR5RG50NUNxTnNhcE5OQ1UzcVJ6OFZwUjFHT2JxLXRBOE1zM3hEV3VIbThHRXlKSDBCdTJqeUo1TUNHUk43UmRUYkhPUWpac0tSYy1XTmFyVXl3SkVoY0pUMzJkN1BXQWs1X0tabVJaUkg0UkdkWXJ6d2VWSm5vQV9mYjFVVVprUHpMX21tOFBWcnIyT18yVDBiWjBvZjBpSmJYeD",
       "other_sources": []
     },
     {
@@ -6110,14 +6112,6 @@
       "other_sources": []
     },
     {
-      "title": "School Shootings This Year: How Many and Where - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHYxc0tzMFJEZXV2WlFHcElDalJTUzFDazQxbk5RRmEzektVZ0RyUjQzbzMzOWlnRnlRRmlSN2RGdkVZMEIwSHNkb2RZTFJ1TllEQ0w3RnV1YS1NSmtZUC1VQlg2bGhFcjQxTTA1UUk3amFhQ3pIWjhTck5fY282c0owS1U3MlN3SUhESDNBM0Q?oc=5",
-      "published": "2026-01-01T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHYxc0tzMFJEZXV2WlFHcElDalJTUzFDazQxbk5RRmEzektVZ0RyUjQzbzMzOWlnRnlRRmlSN2RGdkVZMEIwSHNkb2RZTFJ1TllEQ0w3RnV1YS1NSmtZUC1VQlg2bGhFcjQxTTA1UUk3amFhQ3pIWjhTck5fY282c0owS1U3MlN3SUhESDNBM0Q?oc=5\" target=\"_blank\">School Shootings This Year: How Many and Where</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Week</font>",
-      "other_sources": []
-    },
-    {
       "title": "Stranger Things season 5 episode 8 recap and review :  The Rightside Up  is an epic , emotional farewell",
       "url": "https://winteriscoming.net/stranger-things-season-5-episode-8-recap-review-live-updates",
       "published": "2026-01-01T05:15:00Z",
@@ -6192,14 +6186,6 @@
       "published": "2025-12-09T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZklreUktR09XZkUtbEhtTTB3ZkUxTmxQcmluWkhqWlFTak5rUFpWaHZKTVFReTJuS2VjYUw5TzNIZUJKMDF2ZkExSEJPQ3hJaGtnM0VkM1pRWDlOZTBnaHhpVHBpYU9QZktEOHhCQTlWYjZ2RjlGWm8yZ211ZUZDNzBVRHAxaDJPR2JpUU11V3BucjdMQW1GQnltbG5yMzBSY3hwa3p2VW1fbk1qejJTSzNyUURYV1hERlktRkJyazhHTlBUYllj0gHMAUFVX3lxTE1YRlU1cnV0OUl2NEJHYWQwV0h6clFSVFZQVHpxOEJ1bUlKRUN0cWRnMGFQNWl3ZjBmUmRlVnVPY3pvLVBfdHVjd3RCMG5PYzd5RW9hWEQ0WFJIa2M1NFhTN2FmTy1ycERCWXZTeDBJNG9YakRLaEdBNkhBQi10b3F5Q045a1",
-      "other_sources": []
-    },
-    {
-      "title": "U.S. mass killings are down in 2025, though experts say it's likely a return to typical levels - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUwzRjZ3a3VyTFRDV1VuVk03ZTdSTXBzbzFCWFFoY0J5ZGo0bTlJVUJzbDV3WGRGcnBhOXVyX1FxOHpraV9faU9ONE8xUUdobVRUelNLZ0FWeWpNWkF5eGRPbXo1NllHeHNpbVJDaUEwb2tSdFI0TEZ0dXZ2UkJXV2RyMGs1Q2lPMG9TalBFQzNUeDFzT18zT2hRbDRES3JLUlRVXzN1MkRjUGw2Q2lJdTZrZHQ3aU5FZW9nRw?oc=5",
-      "published": "2025-12-02T13:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUwzRjZ3a3VyTFRDV1VuVk03ZTdSTXBzbzFCWFFoY0J5ZGo0bTlJVUJzbDV3WGRGcnBhOXVyX1FxOHpraV9faU9ONE8xUUdobVRUelNLZ0FWeWpNWkF5eGRPbXo1NllHeHNpbVJDaUEwb2tSdFI0TEZ0dXZ2UkJXV2RyMGs1Q2lPMG9TalBFQzNUeDFzT18zT2hRbDRES3JLUlRVXzN1MkRjUGw2Q2lJdTZrZHQ3aU5FZW9nRw?oc=5\" target=\"_blank\">U.S. mass killings are down in 2025, though experts say it's likely a return to typical levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
       "other_sources": []
     },
     {
@@ -6283,14 +6269,6 @@
       "other_sources": []
     },
     {
-      "title": "How Will a Federal Shutdown Affect Schools? 5 Big Questions, Answered - Education Week",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1FNZGVZZE9YTW0zR3Z2WjRnbG9ldnY0Mjk1eGhMc3AtNWpENUpSUnhaZmxhLXd6OG5pT3lUekFLUFI4SU1xY0FlanN6blE3SWlvWmktbFlzSEpDSU41a0g1bnpHMkxrd0F5QS1VYnFCc2xUT1prTW5TVkpjR01ERUxxUUplZzhiNE5mdFU5QUdmNzhMRUpXN2tZLUczZnB0R3FtQUhYQ0Q3MTk4NVVTZUZLSXI?oc=5",
-      "published": "2025-09-29T12:00:00Z",
-      "source": "Google News RSS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1FNZGVZZE9YTW0zR3Z2WjRnbG9ldnY0Mjk1eGhMc3AtNWpENUpSUnhaZmxhLXd6OG5pT3lUekFLUFI4SU1xY0FlanN6blE3SWlvWmktbFlzSEpDSU41a0g1bnpHMkxrd0F5QS1VYnFCc2xUT1prTW5TVkpjR01ERUxxUUplZzhiNE5mdFU5QUdmNzhMRUpXN2tZLUczZnB0R3FtQUhYQ0Q3MTk4NVVTZUZLSXI?oc=5\" target=\"_blank\">How Will a Federal Shutdown Affect Schools? 5 Big Questions, Answered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Week</font>",
-      "other_sources": []
-    },
-    {
       "title": "Queens school shooting threat prompts questions about metal detectors - CBS News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDltUW42dng1SVRWRFNpdHl1T3R0SDJTRHY4R2FIb2tjZ1FwX2J2OG12YTI4MU50b3NsQkR1SFFzWjlaMDhWZ0hQbzdjcFIzYnBRb0F5WXBjTzBKb3pwSXN2S3NmYXVidVJSM2NkSG5MU3hZcUtodXFPNlgxeG41N0JMZkdMc0R2RFdqak14MV9vcVVLR3FhaFFyYVVvdlp1RHcwQ0hkYXFBUER6?oc=5",
       "published": "2025-09-19T12:00:00Z",
@@ -6371,6 +6349,30 @@
       "other_sources": []
     },
     {
+      "title": "\u2018Big Beautiful Bill\u2019: Threats to SNAP, school meals, and more - Center for Science in the Public Interest",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHpQd2ZkTjZBYU9LSWRMRllqQmtVWkJ2WWo3T29yWkpZVktpSFBfekhoX0EyUjJMOVhybFNlZU5tZ1NPeDl1dnJXM1pzVFhRM2k5ZmZrTTkwQXdQdmw2aGFDTWpFRF94MU51UmQ1aV9MVGE3bjkyTDRIenNYQWxFV1M0aFZrQ1Q0S3VDRQ?oc=5",
+      "published": "2025-09-08T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHpQd2ZkTjZBYU9LSWRMRllqQmtVWkJ2WWo3T29yWkpZVktpSFBfekhoX0EyUjJMOVhybFNlZU5tZ1NPeDl1dnJXM1pzVFhRM2k5ZmZrTTkwQXdQdmw2aGFDTWpFRF94MU51UmQ1aV9MVGE3bjkyTDRIenNYQWxFV1M0aFZrQ1Q0S3VDRQ?oc=5\" target=\"_blank\">\u2018Big Beautiful Bill\u2019: Threats to SNAP, school meals, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Center for Science in the Public Interest</font>",
+      "other_sources": []
+    },
+    {
+      "title": "The threat to education funding is far from over - UnidosUS",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzVSQk1NWUplUEZWOFpCUGd5c204bzBUQmIyRTJHR2VkM2g4Mmo5dkEyMUxtVkVIV3FJZ2xEOGd2U2w3Qm9ORFdjd2hzbXl6allHU2V0cjh3MTJEWGhuTTc3RVhTR0E5V1hqVi0ycGdCYjBPSjRGQ2djOEhpNklZN05sTjQxWGVWbm01YXgxZw?oc=5",
+      "published": "2025-09-05T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzVSQk1NWUplUEZWOFpCUGd5c204bzBUQmIyRTJHR2VkM2g4Mmo5dkEyMUxtVkVIV3FJZ2xEOGd2U2w3Qm9ORFdjd2hzbXl6allHU2V0cjh3MTJEWGhuTTc3RVhTR0E5V1hqVi0ycGdCYjBPSjRGQ2djOEhpNklZN05sTjQxWGVWbm01YXgxZw?oc=5\" target=\"_blank\">The threat to education funding is far from over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UnidosUS</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Amid layoffs and defunding threats, here's how US arts funding is adapting to life under Trump - The Art Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHdIZmkyV3dqcHA5UVNsOE1CdTlyQlRoVlFtdkVoeWUzYTFjRFdoOVdiTGltLUZzRllHRnF5R25xZ0NCeVpQYnhLYVBkcktpTHVyTU4tazFManFvU0lSU0p5ekp6RW1oS3B2d25WUEh2aG1YVHVaRDRXcEJMc3hhMlBUNmpOUVRsMU51aExFWGh0TG9zYk5oSnN0UWpDRUphZUxFUkN1Zi13OVoxSmxsOUphakdjT0JlbGJOM3FWdk80Z0U?oc=5",
+      "published": "2025-09-03T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHdIZmkyV3dqcHA5UVNsOE1CdTlyQlRoVlFtdkVoeWUzYTFjRFdoOVdiTGltLUZzRllHRnF5R25xZ0NCeVpQYnhLYVBkcktpTHVyTU4tazFManFvU0lSU0p5ekp6RW1oS3B2d25WUEh2aG1YVHVaRDRXcEJMc3hhMlBUNmpOUVRsMU51aExFWGh0TG9zYk5oSnN0UWpDRUphZUxFUkN1Zi13OVoxSmxsOUphakdjT0JlbGJOM3FWdk80Z0U?oc=5\" target=\"_blank\">Amid layoffs and defunding threats, here's how US arts funding is adapting to life under Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Art Newspaper</font>",
+      "other_sources": []
+    },
+    {
       "title": "How many school shootings have there been in the US in 2025? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2FPS1ZyLUFfRXdmd3ZCZHFiWWlhLWFZN2ZQTFh5Wi16akJrQVBKaW54cEgxSUlsWmluV1htWVBHTElBVllLdDllOWNpc3daaU5xZEMzSm9KX1RLUDkwaGEtZGktZF8waEFmV251c1NseVlnV29nb1dKZ2JWNHhhbWJsZFVDcEpZMHh1NTR0UlE2RC1hb1dzVFpKMEs5WjB1c2fSAacBQVVfeXFMUEptdUxOOHUtMXh6V3RVNTdKTHlJTnJVTk1Dd3Z1ODBhb0h6a3NwN3BfcW5tdjNPWjlvblVWbWVRS0s3Mmg3X1M5U19sbDNaelZ4YXpqTVhqMXFoVFVlT2pIMHlmQzRodFhYMm13Y1FZOWNLTmU3TlRyWDhjdFpsZlRRVHlzZ3BIRXBON2s5UlFDYWc5RFpyenVmb0NHOHFxemNMSWo4Sm8?oc=5",
       "published": "2025-08-28T12:00:00Z",
@@ -6395,7 +6397,7 @@
       "other_sources": []
     },
     {
-      "title": "Wake schools will phase out \u2018Code Red\u2019 for lockdowns. These alerts will replace it - Raleigh News & Observer",
+      "title": "Wake schools will phase out \u2018Code Red\u2019 for lockdowns. These alerts will replace it - News & Observer",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nWGo3Y3JUalVVV0NQeEZUeG45MzFHWGlVdVdwTHk2b3N2ekFxdFRvbUZGMEdCb1c2SWxUM0pCNmVnZENJdkc1Ujd1d2NNT01XS3A5ZXg0NU1XWDdHa2V2Uk1KRHFDX25HYjJVbW45em9ydWpwa2hreEk0NNIBe0FVX3lxTFBQZlZBaGxaUm9iNlhqdmg3QkpfZ3BqOVkyZ2szcWsxZVJma3l1U1ZTYWhESzZQUlZoTXRSUEZxcWFTcUt2VkRkdkJhdS0tX0xQNlNGNU1nNFdocFRveS1ySlFwU1RZeVFRNmd1dGVLMlVROURMVkhTckU1VQ?oc=5",
       "published": "2025-08-19T12:00:00Z",
       "source": "Google News RSS",
@@ -6424,6 +6426,22 @@
       "published": "2025-06-07T12:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWNHdVdLN3RpdlROZ19CS3lTS0NMRkFubU45cUhoQlZ5RmZNWjhxek94OGhMakkxU0JLeF9xa2xiRjVoTE1IOHhRbV8za045Tlhud3pMUV9XVTZXWk5EZzdwRkhUODkxMGt2SDZYVEpqX2hoU1dlZzBaWEdXMnJCUFpraUhRVmw4dE9HRHJpMWR0Qmh6MzJ6TFhfeWZCZzZURjZUb0pqM2NaWEVjNk1JVmhlaEhvNjZRM2c?oc=5\" target=\"_blank\">The pandemic generation: How Covid-19 lockdowns is having a long-lasting effect on children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Trump's Harvard visa threat could wipe out several of the school's sports teams - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzlRNlVjOGFOTGxBendFeVhlckluWTMtVXRfb0FPdGZGb1h4ekt4SzVzTm5iYU9zMmRkbzZGUGN5QVRGS05BenJ0UzZtSTZIWWJVNXpLZm1sMGJ5bHN4cjlOTmZXdFlqRzA4dkYwSnNZdmpBNHRvMXAyTy1Mc2EyanU1RUhLLWt1SkJj?oc=5",
+      "published": "2025-05-23T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzlRNlVjOGFOTGxBendFeVhlckluWTMtVXRfb0FPdGZGb1h4ekt4SzVzTm5iYU9zMmRkbzZGUGN5QVRGS05BenJ0UzZtSTZIWWJVNXpLZm1sMGJ5bHN4cjlOTmZXdFlqRzA4dkYwSnNZdmpBNHRvMXAyTy1Mc2EyanU1RUhLLWt1SkJj?oc=5\" target=\"_blank\">Trump's Harvard visa threat could wipe out several of the school's sports teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Trump\u2019s Push to Slash Federal K-12 School Funds, Explained - Education Week",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk1fTGI1YXA5MGhUVWltWEVoV1gzNUp0RGlnSUcwQ0o5TS1acWV3UXEwdXE2dTUtSXpFVnVYWENJal9TdnpkUEdQY2lUWm9sNk9WZjBtVzl1dTF2SFhYaHdVTS1VdG80bmhBNDdaQ21kTDJOOWpfTUVNT1pqUDdiUkJhZW9aRU41MkZDUTdsYS12bWtWNWhYR21nVUVlaUJ0djZjRWFR?oc=5",
+      "published": "2025-04-24T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk1fTGI1YXA5MGhUVWltWEVoV1gzNUp0RGlnSUcwQ0o5TS1acWV3UXEwdXE2dTUtSXpFVnVYWENJal9TdnpkUEdQY2lUWm9sNk9WZjBtVzl1dTF2SFhYaHdVTS1VdG80bmhBNDdaQ21kTDJOOWpfTUVNT1pqUDdiUkJhZW9aRU41MkZDUTdsYS12bWtWNWhYR21nVUVlaUJ0djZjRWFR?oc=5\" target=\"_blank\">Trump\u2019s Push to Slash Federal K-12 School Funds, Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Week</font>",
       "other_sources": []
     },
     {
@@ -6512,6 +6530,14 @@
       "published": "2024-11-15T13:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXZFOTNLQmgwTHh2amJYcWpNLWZhRkFxNGlWempMVVNrSFJ4RzVheDFXclN1b05GVGFyVlNNTFUxTUtaNkM5S09rS2s2dnFfci1UVmh0TktEalc5VU85dkZsVzROUEtwYzVWa0k4M2VOSnc1VVkzeFpQcGlSTlBnaVc4aHdnbm1XVXYtQ2dOSlZacnJpRWNpMTc1SEl2S0Z3NEFkZEJ3TnJ2Y29FaF83VlN0em4zNGRnd0xvRGxlYw?oc=5\" target=\"_blank\">Authorities say they may have foiled school shooting threat near Mundelein, Illinois</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "other_sources": []
+    },
+    {
+      "title": "FAIR Exposes Increasing Threat of Tuberculosis Due to Mass Migration - Federation for American Immigration Reform",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHM1WTUyWmZoSjdZbFpsOGhfY1JjdGJnSlBaY0ROWmxFenAwaEFlMGxvT0FtTjBhbEUyUmdOblpwbGNKQjFqOElUbmVqUUYxb3gxUjNSYlNVeHpLcVdHVzJDczJ4WFJRWHpsRVpmdUZYZlZGWDJPMnVuWTg1ZkxhQTBOVmdBLXNDdDRZZ18tNjljYzVqTDVzOXM1X3Y2VVZza2c?oc=5",
+      "published": "2024-10-28T12:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHM1WTUyWmZoSjdZbFpsOGhfY1JjdGJnSlBaY0ROWmxFenAwaEFlMGxvT0FtTjBhbEUyUmdOblpwbGNKQjFqOElUbmVqUUYxb3gxUjNSYlNVeHpLcVdHVzJDczJ4WFJRWHpsRVpmdUZYZlZGWDJPMnVuWTg1ZkxhQTBOVmdBLXNDdDRZZ18tNjljYzVqTDVzOXM1X3Y2VVZza2c?oc=5\" target=\"_blank\">FAIR Exposes Increasing Threat of Tuberculosis Due to Mass Migration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federation for American Immigration Reform</font>",
       "other_sources": []
     },
     {
@@ -6794,6 +6820,14 @@
       "published": "2022-06-02T12:00:00Z",
       "source": "Google News RSS",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWVNWlRQYVBjb00xUFZwV1RMUDd5aGtGTHBtR0k0NFV3TmVlSlNyeUZPSDVjb0x1UDRMUF9ITENaRHZ2SWpHUnB3N3RwX2JSVjBlWVE4d0NCYklBdkFPOTFzNmlaVlFGa0lkZ0ZvcFpRUU82QjczUkZyZmRJcE5IV1BYcXBUMGhfLW1kV3RtbjcyS3o4ZEFSN3FxWU0?oc=5\" target=\"_blank\">Texas school lockdown under review; first public lockdown notice was 12 minutes after shots fired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "other_sources": []
+    },
+    {
+      "title": "Emmaus High School dismisses early with escorts, bars fans from game after threats - lehighvalleylive",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUFUQXdXMnJnLVR2UEUzMFNsa082enJmSUpMcEc4YlhqVjJORmZ4eTdubnNDQ1Y5NmVWWWU1RHItdEZma3pGOHVVSFVrSnBkWlI5Vlc3U2hvaUJxNG15UU9mYmw1S0ptYUR4THJYdlZsaDYzYWlrV3ZBRjJSalByRk1ZSExFQXJMejZ6NVRfRjcyOFBwcmEwTmJiRnBrTDl2Q3ZKQ3dTdXgxS20zelRYLU5NcWRVaV9MeDVLd3E0Ri1CdjEtTnpPU01MSXF0a3VkTkpSMzk5WGTSAewBQVVfeXFMTlNyU0ZPRTVrbGlNQjgwbnQ4Tm5EMU80VkFWMS1VVnA0THRyLUxRRW9QTHNOcnBiVnBRbkU2TkNkOHFVdGh3N1hoNFNVZThHQ1p6Y3IzS01UM2ZYbC13MmlrNlh0Z2VId0U0aFNaTnhrN2gzeWxTY0UtSkF5UXZEcHAwV05PaGJxQXFoSTJBZFNtWTk5X2J2Zlp4LW80RFp4cnBfZzBEY05ZYUlTTGJWQm9IRUNHMXBKUEdVV2N0T1lhQ19ZMnB3LWJ1OXJ5azJ5VVZTbHY2WW9uYzMyY1RLYzBTdG9JMkZIb3dqT0I?oc=5",
+      "published": "2021-12-17T13:00:00Z",
+      "source": "Google News RSS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUFUQXdXMnJnLVR2UEUzMFNsa082enJmSUpMcEc4YlhqVjJORmZ4eTdubnNDQ1Y5NmVWWWU1RHItdEZma3pGOHVVSFVrSnBkWlI5Vlc3U2hvaUJxNG15UU9mYmw1S0ptYUR4THJYdlZsaDYzYWlrV3ZBRjJSalByRk1ZSExFQXJMejZ6NVRfRjcyOFBwcmEwTmJiRnBrTDl2Q3ZKQ3dTdXgxS20zelRYLU5NcWRVaV9MeDVLd3E0Ri1CdjEtTnpPU01MSXF0a3VkTkpSMzk5WGTSAewBQVVfeXFMTlNyU0ZPRTVrbGlNQjgwbnQ4Tm5EMU80VkFWMS1VVnA0THRyLUxRRW9QTHNOcnBiVnBRbkU2TkNkOHFVdGh3N1hoNFNVZThHQ1p6Y3IzS01UM2ZYbC13MmlrNlh0Z2VId0U0aFNaTnhrN2gzeW",
       "other_sources": []
     },
     {
