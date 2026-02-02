@@ -10,7 +10,7 @@
         "Failures trigger a notification (GitHub Issue or email)",
         "No duplicate entries accumulate across multiple runs"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "database-backend",
@@ -23,7 +23,7 @@
         "Date range query returns correct results",
         "Frontend loads data from the API instead of static JSON"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "advanced-filtering",
@@ -36,7 +36,7 @@
         "URL parameters encode filter state; pasting URL restores filters",
         "Clear all button resets all filters"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "data-export",
@@ -48,7 +48,7 @@
         "Exported data matches the currently filtered view",
         "Files open correctly in Excel and Google Sheets"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "public-deployment",
@@ -60,7 +60,7 @@
         "Page load under 3 seconds on broadband",
         "Mobile layout usable on 375px viewport"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "dedup-improvements",
@@ -73,7 +73,7 @@
         "Low-confidence matches held for manual review",
         "False positive rate under 5%"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": "additional-news-apis",

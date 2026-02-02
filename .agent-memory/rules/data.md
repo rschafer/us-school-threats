@@ -7,4 +7,6 @@
 - Stub output: data/stub_incidents_from_news.json
 - fetch_news.py: Google News RSS (no key), optional NewsAPI, optional custom RSS
 - news_to_stubs.py: --dry-run and --merge modes
-- Dedup currently headline-based only
+- Dedup: entity-based (school+state+date+type) with fuzzy matching via scripts/dedup.py
+- Dedup confidence thresholds: >=0.85 auto-dupe, 0.50-0.85 review queue, <0.50 new
+- Review queue stored in data/dedup_review_queue.json, log in data/dedup_log.json
