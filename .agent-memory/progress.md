@@ -18,7 +18,13 @@
   - Integrated into `news_to_stubs.py` — routes matches to review queue automatically
   - False positive rate: 0% on test set (target <5%)
 
+- Completed: additional-news-apis
+  - Added GNews API integration (free tier, 100 req/day)
+  - Plugin architecture: `NewsSource` base class, `RateLimiter` for rate limiting
+  - Per-source fetch statistics logged to `data/fetch_stats.json`
+  - Rate limiting: 1 req/sec for GNews, respects 429 responses
+
 ## Current State
 - Last working commit: (pending)
-- Features completed: 6
-- Features remaining: 1
+- Features completed: 7
+- Features remaining: 0

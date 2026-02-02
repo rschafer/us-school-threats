@@ -85,7 +85,7 @@
         "Rate limits respected (no 429 errors)",
         "Fetch statistics logged per source per run"
       ],
-      "passes": false
+      "passes": true
     }
   ]
 }
