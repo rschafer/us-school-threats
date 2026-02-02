@@ -171,6 +171,14 @@
     accent-color: var(--accent-blue); width: 14px; height: 14px; cursor: pointer;
   }
 
+  /* Export buttons */
+  .export-btn {
+    background: var(--bg-hover); color: var(--accent-blue); border: 1px solid var(--border);
+    padding: 5px 14px; border-radius: 6px; font-size: 12px; cursor: pointer; font-weight: 500;
+    transition: background 0.2s;
+  }
+  .export-btn:hover { background: var(--accent-blue); color: #fff; }
+
   /* Table */
   .table-section { margin-top: 20px; margin-bottom: 40px; }
   .table-info { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
@@ -294,9 +302,12 @@
 
   <!-- Table -->
   <div class="table-section card">
-    <div class="table-info">
-      <span id="table-count">Showing 0 incidents</span>
-      <span id="table-page-info"></span>
+    <div class="table-info" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+      <span><span id="table-count">Showing 0 incidents</span> <span id="table-page-info"></span></span>
+      <span style="display:flex; gap:8px;">
+        <button class="export-btn" onclick="exportCSV()" title="Download CSV">Export CSV</button>
+        <button class="export-btn" onclick="exportExcel()" title="Download Excel">Export XLSX</button>
+      </span>
     </div>
     <div class="table-wrap">
       <table>
@@ -889,6 +900,49 @@ function bindEvents() {
       renderTable();
     });
   });
+}
+
+// --- Export functions ---
+const EXPORT_COLUMNS = [
+  'id','school','school_type','state','region','offense_date','time',
+  'law_enforcement','threat_type','conveyance','who_threatened',
+  'incident_details','lockdown_type','classes_cancelled','precautions',
+  'weapons','gender','charged','custody','charges','bond','source','additional_sources'
+];
+
+function buildFilterSummary() {
+  const parts = [];
+  const s = document.getElementById('filter-state'); if (s && s.value) parts.push(s.value);
+  const d1 = document.getElementById('filter-date-start'); if (d1 && d1.value) parts.push(d1.value);
+  return parts.length ? '_' + parts.join('_') : '';
+}
+
+function exportCSV() {
+  const escCSV = v => { const s = String(v ?? ''); return s.includes(',') || s.includes('"') || s.includes('\n') ? '"' + s.replace(/"/g, '""') + '"' : s; };
+  const lines = [EXPORT_COLUMNS.join(',')];
+  filteredData.forEach(r => lines.push(EXPORT_COLUMNS.map(c => escCSV(r[c])).join(',')));
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8;' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `school_threats${buildFilterSummary()}.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function exportExcel() {
+  // Build a simple XLSX using a data URI with an HTML table (opens in Excel/Sheets)
+  let html = '<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"><head><meta charset="UTF-8"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Incidents</x:Name></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>';
+  html += '<tr>' + EXPORT_COLUMNS.map(c => `<th>${c}</th>`).join('') + '</tr>';
+  filteredData.forEach(r => {
+    html += '<tr>' + EXPORT_COLUMNS.map(c => `<td>${String(r[c] ?? '').replace(/</g, '&lt;')}</td>`).join('') + '</tr>';
+  });
+  html += '</table></body></html>';
+  const blob = new Blob([html], { type: 'application/vnd.ms-excel' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `school_threats${buildFilterSummary()}.xlsx`;
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 init();
