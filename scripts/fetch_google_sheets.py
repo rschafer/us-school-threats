@@ -65,6 +65,67 @@ COLUMN_MAP = {
     "Additional Sources": "additional_sources",
 }
 
+# State abbreviation to full name mapping
+STATE_ABBREV = {
+    "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",
+    "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware",
+    "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
+    "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas",
+    "KY": "Kentucky", "LA": "Louisiana", "ME": "Maine", "MD": "Maryland",
+    "MA": "Massachusetts", "MI": "Michigan", "MN": "Minnesota", "MS": "Mississippi",
+    "MO": "Missouri", "MT": "Montana", "NE": "Nebraska", "NV": "Nevada",
+    "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NY": "New York",
+    "NC": "North Carolina", "ND": "North Dakota", "OH": "Ohio", "OK": "Oklahoma",
+    "OR": "Oregon", "PA": "Pennsylvania", "RI": "Rhode Island", "SC": "South Carolina",
+    "SD": "South Dakota", "TN": "Tennessee", "TX": "Texas", "UT": "Utah",
+    "VT": "Vermont", "VA": "Virginia", "WA": "Washington", "WV": "West Virginia",
+    "WI": "Wisconsin", "WY": "Wyoming", "DC": "Washington D.C.",
+}
+
+# Valid full state names (for validation)
+VALID_STATES = set(STATE_ABBREV.values())
+
+
+def normalize_state(raw_state: str) -> str:
+    """Normalize state names: handle abbreviations, multi-state, and variations."""
+    if not raw_state:
+        return ""
+
+    state = raw_state.strip()
+
+    # Handle D.C. variations
+    if state.lower() in ("washington d.c", "washington d.c.", "washington dc", "dc", "d.c.", "d.c"):
+        return "Washington D.C."
+
+    # If it's already a valid full state name, return it
+    if state in VALID_STATES:
+        return state
+
+    # Check if it's an abbreviation
+    upper = state.upper()
+    if upper in STATE_ABBREV:
+        return STATE_ABBREV[upper]
+
+    # Handle multi-state entries like "OR and WA", "Vermont and NH"
+    # Split on common separators and take the first state
+    for sep in [" and ", " & ", "/", ","]:
+        if sep in state:
+            parts = state.split(sep)
+            first_part = parts[0].strip()
+            # Recursively normalize the first part
+            normalized = normalize_state(first_part)
+            if normalized:
+                return normalized
+
+    # Try case-insensitive match against valid states
+    state_lower = state.lower()
+    for valid in VALID_STATES:
+        if valid.lower() == state_lower:
+            return valid
+
+    # Return original if no match found (will be flagged in data quality)
+    return state
+
 
 def fetch_csv(url: str) -> Optional[str]:
     """Fetch CSV content from Google Sheets URL, following redirects."""
@@ -110,7 +171,11 @@ def parse_csv_to_incidents(csv_text: str) -> list[dict]:
 
         for csv_col, json_key in header_map.items():
             value = row.get(csv_col, "")
-            incident[json_key] = value.strip() if value else ""
+            value = value.strip() if value else ""
+            # Normalize state names
+            if json_key == "state":
+                value = normalize_state(value)
+            incident[json_key] = value
 
         # Ensure all expected fields exist (even if empty)
         for json_key in set(COLUMN_MAP.values()):
