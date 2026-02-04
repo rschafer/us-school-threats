@@ -127,6 +127,66 @@ def normalize_state(raw_state: str) -> str:
     return state
 
 
+def normalize_threat_type(raw_type: str) -> str:
+    """Normalize threat types to consistent categories."""
+    if not raw_type:
+        return ""
+
+    t = raw_type.strip().lower()
+
+    # Combined threats (check first - order matters)
+    if ("bomb" in t and "shooting" in t) or ("shooting" in t and "bomb" in t):
+        return "Bomb and Shooting"
+    if "bomb" in t and "weapon" in t:
+        return "Bomb and Shooting"
+
+    # Bomb threats
+    if "bomb" in t or "grenade" in t:
+        return "Bomb"
+
+    # Shooting threats
+    if "shooting" in t or "gun" in t or "firearm" in t:
+        return "Shooting"
+
+    # Hit lists
+    if "list" in t or "hitlist" in t or "hit list" in t:
+        return "Hit List"
+
+    # Swatting
+    if "swat" in t:
+        return "Swatting"
+
+    # General threat variations - consolidate into "Threat"
+    threat_keywords = [
+        "threat of violence", "threats of violence", "threat of mass",
+        "threats of mass", "violent threat", "violent threats",
+        "threatening", "threat to", "threats to", "terroristic",
+        "threat", "threats", "theat"  # typo in data
+    ]
+    for keyword in threat_keywords:
+        if keyword in t:
+            return "Threat"
+
+    # Concerning comments/posts
+    if "concerning" in t:
+        return "Threat"
+
+    # Planning/organized violence
+    if "planning" in t or "organized" in t:
+        return "Threat"
+
+    # Mass violence without specific type
+    if "mass violence" in t or "violence" in t:
+        return "Threat"
+
+    # Killing threats
+    if "kill" in t or "harm" in t:
+        return "Threat"
+
+    # Return original with title case if no match
+    return raw_type.strip().title()
+
+
 def fetch_csv(url: str) -> Optional[str]:
     """Fetch CSV content from Google Sheets URL, following redirects."""
     try:
@@ -175,6 +235,9 @@ def parse_csv_to_incidents(csv_text: str) -> list[dict]:
             # Normalize state names
             if json_key == "state":
                 value = normalize_state(value)
+            # Normalize threat types
+            if json_key == "threat_type":
+                value = normalize_threat_type(value)
             incident[json_key] = value
 
         # Ensure all expected fields exist (even if empty)
