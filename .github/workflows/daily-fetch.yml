@@ -7,10 +7,13 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.commit.outputs.has_changes }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +35,7 @@ jobs:
           echo "count_2026=$COUNT_2026" >> "$GITHUB_OUTPUT"
 
       - name: Check for changes and commit
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -41,6 +45,7 @@ jobs:
             echo "✅ No updates today - data is already current"
             echo "   2025: ${{ steps.fetch.outputs.count_2025 }} incidents"
             echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
             mkdir -p logs
             echo '{"timestamp": "${{ steps.fetch.outputs.timestamp }}", "incidents_2025": ${{ steps.fetch.outputs.count_2025 }}, "incidents_2026": ${{ steps.fetch.outputs.count_2026 }}, "status": "success"}' >> logs/fetch_log.jsonl
@@ -50,4 +55,36 @@ jobs:
             echo "✅ Data updated and pushed"
             echo "   2025: ${{ steps.fetch.outputs.count_2025 }} incidents"
             echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
           fi
+
+  deploy:
+    needs: fetch
+    if: needs.fetch.outputs.has_changes == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main  # Get the latest commit with new data
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Deployment complete
+        run: echo "✅ Site deployed with updated data"
