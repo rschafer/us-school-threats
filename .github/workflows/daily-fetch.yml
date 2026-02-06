@@ -47,6 +47,7 @@ jobs:
             echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
             mkdir -p logs
             echo '{"timestamp": "${{ steps.fetch.outputs.timestamp }}", "incidents_2025": ${{ steps.fetch.outputs.count_2025 }}, "incidents_2026": ${{ steps.fetch.outputs.count_2026 }}, "status": "success"}' >> logs/fetch_log.jsonl
             git add logs/
@@ -55,7 +56,6 @@ jobs:
             echo "✅ Data updated and pushed"
             echo "   2025: ${{ steps.fetch.outputs.count_2025 }} incidents"
             echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
-            echo "has_changes=true" >> "$GITHUB_OUTPUT"
           fi
 
   deploy:
