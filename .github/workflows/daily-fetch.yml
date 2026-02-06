@@ -65,7 +65,7 @@ jobs:
 
   deploy:
     needs: fetch
-    if: needs.fetch.outputs.has_changes == 'true' || inputs.force_deploy == true
+    # Always deploy after successful fetch to ensure site stays in sync
     runs-on: ubuntu-latest
     permissions:
       contents: read
