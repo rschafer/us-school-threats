@@ -2,8 +2,7 @@ name: Daily Data Fetch
 
 on:
   schedule:
-    - cron: '36 18 * * *'  # TEST: 1:36 PM EST
-    - cron: '0 19 * * *'   # TEST: 2:00 PM EST - change back to '0 13 * * *' after test
+    - cron: '0 13 * * *'  # 8 AM EST / 1 PM UTC daily
   workflow_dispatch:
     inputs:
       force_deploy:
