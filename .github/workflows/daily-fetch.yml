@@ -12,13 +12,15 @@ on:
 
 permissions:
   contents: write
-  actions: write
+  pages: write
+  id-token: write
 
 jobs:
-  fetch:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
-    outputs:
-      has_changes: ${{ steps.commit.outputs.has_changes }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -38,6 +40,7 @@ jobs:
           COUNT_2026=$(python -c "import json; print(len(json.load(open('data/school_threats_2026.json'))))")
           echo "count_2025=$COUNT_2025" >> "$GITHUB_OUTPUT"
           echo "count_2026=$COUNT_2026" >> "$GITHUB_OUTPUT"
+          echo "📊 Fetched: 2025=$COUNT_2025, 2026=$COUNT_2026 incidents"
 
       - name: Check for changes and commit
         id: commit
@@ -47,9 +50,7 @@ jobs:
           git add data/ logs/ 2>/dev/null || true
 
           if git diff --staged --quiet; then
-            echo "✅ No updates today - data is already current"
-            echo "   2025: ${{ steps.fetch.outputs.count_2025 }} incidents"
-            echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
+            echo "✅ No new data - already current"
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
@@ -58,26 +59,8 @@ jobs:
             git add logs/
             git commit -m "Daily fetch: 2025=${{ steps.fetch.outputs.count_2025 }}, 2026=${{ steps.fetch.outputs.count_2026 }} incidents"
             git push
-            echo "✅ Data updated and pushed"
-            echo "   2025: ${{ steps.fetch.outputs.count_2025 }} incidents"
-            echo "   2026: ${{ steps.fetch.outputs.count_2026 }} incidents"
+            echo "✅ Data committed and pushed"
           fi
-
-  deploy:
-    needs: fetch
-    # Always deploy after successful fetch to ensure site stays in sync
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main  # Get the latest commit with new data
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -91,5 +74,9 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Deployment complete
-        run: echo "✅ Site deployed with updated data"
+      - name: Summary
+        run: |
+          echo "## Deployment Complete 🚀" >> $GITHUB_STEP_SUMMARY
+          echo "- **2025 incidents:** ${{ steps.fetch.outputs.count_2025 }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **2026 incidents:** ${{ steps.fetch.outputs.count_2026 }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Site URL:** ${{ steps.deployment.outputs.page_url }}" >> $GITHUB_STEP_SUMMARY
