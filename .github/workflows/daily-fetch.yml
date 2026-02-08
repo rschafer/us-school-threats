@@ -31,6 +31,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Show current state before fetch
+        run: |
+          echo "📌 Commit checked out: $(git rev-parse HEAD)"
+          echo "📌 Current 2025 count: $(python -c "import json; print(len(json.load(open('data/school_threats_2025.json'))))")"
+          echo "📌 Current 2026 count: $(python -c "import json; print(len(json.load(open('data/school_threats_2026.json'))))")"
+          echo "📌 2026 file hash before: $(md5sum data/school_threats_2026.json)"
+
       - name: Fetch data from Google Sheets
         id: fetch
         run: |
@@ -40,17 +47,29 @@ jobs:
           COUNT_2026=$(python -c "import json; print(len(json.load(open('data/school_threats_2026.json'))))")
           echo "count_2025=$COUNT_2025" >> "$GITHUB_OUTPUT"
           echo "count_2026=$COUNT_2026" >> "$GITHUB_OUTPUT"
-          echo "📊 Fetched: 2025=$COUNT_2025, 2026=$COUNT_2026 incidents"
+          echo "📊 After fetch: 2025=$COUNT_2025, 2026=$COUNT_2026 incidents"
+          echo "📌 2026 file hash after: $(md5sum data/school_threats_2026.json)"
 
       - name: Check for changes and commit
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Show what git sees
+          echo "📌 Git status before add:"
+          git status --short data/
+
           git add data/ logs/ 2>/dev/null || true
 
+          echo "📌 Git status after add:"
+          git status --short
+
+          echo "📌 Staged diff summary:"
+          git diff --staged --stat || echo "(no staged changes)"
+
           if git diff --staged --quiet; then
-            echo "✅ No new data - already current"
+            echo "✅ No new data - repo already has latest"
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
