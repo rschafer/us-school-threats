@@ -190,7 +190,14 @@ def normalize_threat_type(raw_type: str) -> str:
 def fetch_csv(url: str) -> Optional[str]:
     """Fetch CSV content from Google Sheets URL, following redirects."""
     try:
-        r = requests.get(url, timeout=30, allow_redirects=True)
+        # Add cache-busting parameter to ensure fresh data
+        cache_buster = f"&_cb={int(datetime.utcnow().timestamp())}"
+        fetch_url = url + cache_buster
+        headers = {
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+        }
+        r = requests.get(fetch_url, timeout=30, allow_redirects=True, headers=headers)
         r.raise_for_status()
         return r.text
     except Exception as e:
