@@ -58,9 +58,13 @@ jobs:
 
           # Show what git sees
           echo "📌 Git status before add:"
-          git status --short data/
+          git status --short
 
-          git add data/ logs/ 2>/dev/null || true
+          # Stage data files explicitly (don't suppress errors)
+          echo "📌 Running git add..."
+          git add data/school_threats_2025.json data/school_threats_2026.json
+          mkdir -p logs
+          git add logs/ 2>/dev/null || true
 
           echo "📌 Git status after add:"
           git status --short
@@ -73,9 +77,8 @@ jobs:
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
           else
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
-            mkdir -p logs
             echo '{"timestamp": "${{ steps.fetch.outputs.timestamp }}", "incidents_2025": ${{ steps.fetch.outputs.count_2025 }}, "incidents_2026": ${{ steps.fetch.outputs.count_2026 }}, "status": "success"}' >> logs/fetch_log.jsonl
-            git add logs/
+            git add logs/fetch_log.jsonl
             git commit -m "Daily fetch: 2025=${{ steps.fetch.outputs.count_2025 }}, 2026=${{ steps.fetch.outputs.count_2026 }} incidents"
             git push
             echo "✅ Data committed and pushed"
