@@ -738,6 +738,7 @@ function pctLegendLabels(chart) {
     return {
       text: `${label}: ${val} (${pct}%)`,
       fillStyle: ds.backgroundColor[i % ds.backgroundColor.length],
+      fontColor: '#ffffff',
       hidden: !chart.getDataVisibility(i),
       index: i
     };
