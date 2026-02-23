@@ -713,7 +713,7 @@ function createCharts() {
   const pieTooltipOpts = { callbacks: { label: pctTooltip } };
   chartRegion = new Chart(document.getElementById('chart-region'), {
     type: 'pie', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
-    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { padding: 14, font: { size: 12 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
+    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { color: '#ffffff', padding: 14, font: { size: 12 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
   });
   chartStates = new Chart(document.getElementById('chart-states'), {
     type: 'bar', data: { labels: [], datasets: [{ data: [], backgroundColor: '#4f8ff7', borderRadius: 4, barThickness: 18 }] },
@@ -725,7 +725,7 @@ function createCharts() {
   });
   chartTypes = new Chart(document.getElementById('chart-types'), {
     type: 'doughnut', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
-    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { padding: 14, font: { size: 11 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
+    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { color: '#ffffff', padding: 14, font: { size: 11 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
   });
 }
 
