@@ -7,13 +7,13 @@
     "state": "Montana",
     "region": "West",
     "source": "https://www.montanarightnow.com/kalispell/teen-boy-arrested-after-making-threats-against-flathead-high-school/article_18646092-99ff-4650-92ca-376986324833.html",
-    "offense_date": "Between 1/3 and 1/4",
+    "offense_date": "1/3/2026",
     "time": "Not Specified",
     "law_enforcement": "Kalispell Police Department",
     "threat_type": "Threat",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
-    "incident_details": "Teenager arrested for making threats towards the school, which uncovered additional criminal activity",
+    "incident_details": "Teenager arrested for making threats towards the school over the weekend, which uncovered additional criminal activity",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "N/A",
@@ -23,8 +23,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 2,
@@ -50,8 +50,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 3,
@@ -77,8 +77,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 4,
@@ -88,13 +88,13 @@
     "state": "Texas",
     "region": "South",
     "source": "https://www.ktre.com/2026/01/06/livingston-junior-high-student-arrested-over-alleged-school-threat/#",
-    "offense_date": "Between 1/3 and 1/4",
+    "offense_date": "1/3/2026",
     "time": "Not Specified",
     "law_enforcement": "Livingston Police Department",
     "threat_type": "Threat",
     "conveyance": "Social Media",
     "who_threatened": "School",
-    "incident_details": "Student made a threat on social media and it was shared with other students",
+    "incident_details": "Student made a threat on social media over the weekend and it was shared with other students",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "N/A",
@@ -104,8 +104,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 5,
@@ -131,8 +131,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 6,
@@ -158,8 +158,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 7,
@@ -185,8 +185,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 8,
@@ -212,8 +212,8 @@
     "charges": "Criminal Threat and Aggravated Criminal Threat",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 9,
@@ -239,8 +239,8 @@
     "charges": "Attempted Murder, Conspiracy to Commit Murder, and Intimidation. Second suspect from Mississippi charged with attempted murder and and conspiracy to commit murder charges against another juvenile.",
     "bond": "$1,000,000 Cash Bond",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 10,
@@ -266,8 +266,8 @@
     "charges": "Written threats to commit a mass shooting",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 11,
@@ -293,8 +293,8 @@
     "charges": "Terroristic Threat and Terrorism",
     "bond": "$1.9 Million",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 12,
@@ -320,8 +320,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 13,
@@ -347,8 +347,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 14,
@@ -374,8 +374,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 15,
@@ -401,8 +401,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 16,
@@ -428,8 +428,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 17,
@@ -455,8 +455,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 18,
@@ -482,8 +482,8 @@
     "charges": "Second-degree assault, making death threats, trespassing, disruption of school activities, and weapons on school property",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 19,
@@ -509,8 +509,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 20,
@@ -536,8 +536,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 21,
@@ -563,8 +563,8 @@
     "charges": "Criminal Threat, Harassment by Telecommunication Device, and Battery of a Law Enforcement Officer",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 22,
@@ -590,8 +590,8 @@
     "charges": "Making a terroristic threat, disorderly conduct- threat of violence on or at school property, disorderly conduct- reporting a false alarm or complaint via 911",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 23,
@@ -617,8 +617,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 24,
@@ -644,8 +644,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 25,
@@ -671,8 +671,8 @@
     "charges": "Issuing a false alarm or police report",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 26,
@@ -698,8 +698,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 27,
@@ -725,8 +725,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 28,
@@ -752,8 +752,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 29,
@@ -779,8 +779,8 @@
     "charges": "False report concerning planting a bomb, an explosive, or a weapon of mass destruction, or concerning the use of firearms in a violent manner and unlawful use of a two-way communication device",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 30,
@@ -806,8 +806,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 31,
@@ -833,8 +833,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 32,
@@ -860,8 +860,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 33,
@@ -887,8 +887,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 34,
@@ -914,8 +914,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 35,
@@ -941,8 +941,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 36,
@@ -968,8 +968,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 37,
@@ -995,8 +995,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 38,
@@ -1022,8 +1022,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 39,
@@ -1049,8 +1049,8 @@
     "charges": "Threats and Interference with or disruption of an educational institution",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 40,
@@ -1076,8 +1076,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 41,
@@ -1103,8 +1103,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 42,
@@ -1130,8 +1130,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 43,
@@ -1157,8 +1157,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 44,
@@ -1184,8 +1184,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 45,
@@ -1211,8 +1211,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 46,
@@ -1238,8 +1238,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 47,
@@ -1265,8 +1265,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 48,
@@ -1292,8 +1292,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 49,
@@ -1319,8 +1319,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 50,
@@ -1346,8 +1346,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 51,
@@ -1373,8 +1373,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 52,
@@ -1400,8 +1400,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 53,
@@ -1427,8 +1427,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 54,
@@ -1454,8 +1454,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 55,
@@ -1481,8 +1481,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 56,
@@ -1508,8 +1508,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 57,
@@ -1535,8 +1535,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 58,
@@ -1562,8 +1562,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 59,
@@ -1589,8 +1589,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 60,
@@ -1616,8 +1616,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 61,
@@ -1643,8 +1643,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 62,
@@ -1670,8 +1670,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 63,
@@ -1697,8 +1697,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 64,
@@ -1724,8 +1724,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 65,
@@ -1751,8 +1751,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 66,
@@ -1778,8 +1778,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 67,
@@ -1805,8 +1805,8 @@
     "charges": "Exhibition, use, or threat of exhibition or use of a firearm",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 68,
@@ -1832,8 +1832,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 69,
@@ -1859,8 +1859,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 70,
@@ -1886,8 +1886,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 71,
@@ -1913,8 +1913,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 72,
@@ -1940,8 +1940,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "$20,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 73,
@@ -1967,8 +1967,8 @@
     "charges": "Interference with an Educational Institution",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 74,
@@ -1994,8 +1994,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 75,
@@ -2021,8 +2021,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 76,
@@ -2048,8 +2048,8 @@
     "charges": "Suspicion of Intimidation and Invasion of Privacy",
     "bond": "$5,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 77,
@@ -2075,8 +2075,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 78,
@@ -2102,8 +2102,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 79,
@@ -2129,8 +2129,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 80,
@@ -2156,8 +2156,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 81,
@@ -2183,8 +2183,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 82,
@@ -2210,8 +2210,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 83,
@@ -2237,8 +2237,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 84,
@@ -2264,8 +2264,8 @@
     "charges": "Making a threat to kill or do bodily injury to a school teacher on academy property",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 85,
@@ -2291,8 +2291,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 86,
@@ -2318,8 +2318,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 87,
@@ -2345,8 +2345,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 88,
@@ -2372,8 +2372,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 89,
@@ -2399,8 +2399,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 90,
@@ -2426,8 +2426,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 91,
@@ -2453,8 +2453,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 92,
@@ -2480,8 +2480,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 93,
@@ -2507,8 +2507,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 94,
@@ -2534,8 +2534,8 @@
     "charges": "False Report or Threat of Bomb",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 95,
@@ -2561,8 +2561,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 96,
@@ -2588,8 +2588,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 97,
@@ -2615,8 +2615,8 @@
     "charges": "Making Criminal Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 98,
@@ -2642,8 +2642,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 99,
@@ -2669,8 +2669,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 100,
@@ -2696,8 +2696,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 101,
@@ -2723,8 +2723,8 @@
     "charges": "Possession of a firearm by a minor, misconduct involving weapons, and threats/ disruption of an educational institution",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 102,
@@ -2750,8 +2750,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 103,
@@ -2777,8 +2777,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 104,
@@ -2804,8 +2804,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 105,
@@ -2831,8 +2831,8 @@
     "charges": "",
     "bond": "$250,000",
     "additional_sources": "https://www.mlive.com/news/ann-arbor/2026/01/school-canceled-friday-at-ann-arbor-elementary-after-threat-suspect-released-on-bond.html",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 106,
@@ -2858,8 +2858,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 107,
@@ -2885,8 +2885,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 108,
@@ -2912,8 +2912,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 109,
@@ -2939,8 +2939,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 110,
@@ -2966,8 +2966,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 111,
@@ -2993,8 +2993,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 112,
@@ -3020,8 +3020,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 113,
@@ -3047,8 +3047,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 114,
@@ -3074,8 +3074,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 115,
@@ -3101,8 +3101,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 116,
@@ -3128,8 +3128,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 117,
@@ -3155,8 +3155,8 @@
     "charges": "One 19 year old is charged with conspiracy to make terroristic threats and bomb threats. The other 19 year old is charged with terroristic threats.",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 118,
@@ -3182,8 +3182,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "https://www.wagmtv.com/2026/01/21/rsu29-receives-phone-threat-causes-lockdown/#",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 119,
@@ -3209,8 +3209,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 120,
@@ -3236,8 +3236,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 121,
@@ -3263,8 +3263,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 122,
@@ -3290,8 +3290,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 123,
@@ -3317,8 +3317,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 124,
@@ -3344,8 +3344,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 125,
@@ -3371,8 +3371,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 126,
@@ -3398,8 +3398,8 @@
     "charges": "Making a Threat of Mass Violence",
     "bond": "$5,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 127,
@@ -3425,8 +3425,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 128,
@@ -3452,8 +3452,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 129,
@@ -3479,8 +3479,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 130,
@@ -3506,8 +3506,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 131,
@@ -3533,8 +3533,8 @@
     "charges": "Threat of Mass Violence",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 132,
@@ -3560,8 +3560,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 133,
@@ -3587,8 +3587,8 @@
     "charges": "Disruption of an Educational Facility",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 134,
@@ -3614,8 +3614,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 135,
@@ -3641,8 +3641,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 136,
@@ -3668,8 +3668,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 137,
@@ -3695,8 +3695,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 138,
@@ -3722,8 +3722,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 139,
@@ -3749,8 +3749,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 140,
@@ -3776,8 +3776,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 141,
@@ -3803,8 +3803,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 142,
@@ -3830,8 +3830,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 143,
@@ -3857,8 +3857,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 144,
@@ -3884,8 +3884,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 145,
@@ -3911,8 +3911,8 @@
     "charges": "Threats of Mass Violence",
     "bond": "$100,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 146,
@@ -3938,8 +3938,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 147,
@@ -3965,8 +3965,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 148,
@@ -3992,8 +3992,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 149,
@@ -4019,8 +4019,8 @@
     "charges": "Making Criminal Threats to a School",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 150,
@@ -4046,8 +4046,8 @@
     "charges": "Making a terroristic threat and interference with or disruption of an educational institution",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 151,
@@ -4073,8 +4073,8 @@
     "charges": "Terroristic Threatening",
     "bond": "Released",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 152,
@@ -4100,8 +4100,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 153,
@@ -4127,8 +4127,8 @@
     "charges": "Written or electronic threat to conduct a mass shooting or act of terrorism and unlawful use of two-way communication device",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 154,
@@ -4154,8 +4154,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 155,
@@ -4181,8 +4181,8 @@
     "charges": "Premeditated Attempted Murder",
     "bond": "N/A",
     "additional_sources": "https://www.wesh.com/article/teen-florida-high-school-murder-plot-charged-adult/70246914",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 156,
@@ -4208,8 +4208,8 @@
     "charges": "Intimidation",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 157,
@@ -4235,8 +4235,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 158,
@@ -4262,8 +4262,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 159,
@@ -4289,8 +4289,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 160,
@@ -4316,8 +4316,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 161,
@@ -4343,8 +4343,8 @@
     "charges": "Terroristic Threat",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 162,
@@ -4370,8 +4370,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 163,
@@ -4397,8 +4397,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 164,
@@ -4424,8 +4424,8 @@
     "charges": "Making Written Threats to Kill",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 165,
@@ -4451,8 +4451,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 166,
@@ -4478,8 +4478,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 167,
@@ -4505,8 +4505,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 168,
@@ -4532,8 +4532,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 169,
@@ -4559,8 +4559,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 170,
@@ -4586,8 +4586,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 171,
@@ -4613,8 +4613,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 172,
@@ -4640,8 +4640,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 173,
@@ -4667,8 +4667,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 174,
@@ -4694,8 +4694,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 175,
@@ -4721,8 +4721,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 176,
@@ -4748,8 +4748,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 177,
@@ -4775,8 +4775,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 178,
@@ -4802,8 +4802,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 179,
@@ -4829,8 +4829,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 180,
@@ -4856,8 +4856,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 181,
@@ -4883,8 +4883,8 @@
     "charges": "Both charged with Communicating a Threat of Mass Violence on Educational Property",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 182,
@@ -4910,8 +4910,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 183,
@@ -4937,8 +4937,8 @@
     "charges": "Communicating a Threat of Mass Violence on Educational Property",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 184,
@@ -4964,8 +4964,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 185,
@@ -4991,8 +4991,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 186,
@@ -5018,8 +5018,8 @@
     "charges": "Threatening to Discharge a Destructive Device and Making a False Report Concerning a Bomb",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 187,
@@ -5045,8 +5045,8 @@
     "charges": "Making Criminal Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 188,
@@ -5072,8 +5072,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 189,
@@ -5099,8 +5099,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 190,
@@ -5126,8 +5126,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 191,
@@ -5153,8 +5153,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 192,
@@ -5180,8 +5180,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 193,
@@ -5207,8 +5207,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 194,
@@ -5234,8 +5234,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 195,
@@ -5261,8 +5261,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 196,
@@ -5288,8 +5288,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 197,
@@ -5315,8 +5315,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 198,
@@ -5342,8 +5342,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 199,
@@ -5369,8 +5369,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 200,
@@ -5396,8 +5396,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 201,
@@ -5423,8 +5423,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 202,
@@ -5450,8 +5450,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 203,
@@ -5477,8 +5477,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 204,
@@ -5504,8 +5504,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 205,
@@ -5531,8 +5531,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 206,
@@ -5558,8 +5558,8 @@
     "charges": "Terroristic Hoax",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 207,
@@ -5585,8 +5585,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 208,
@@ -5612,8 +5612,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 209,
@@ -5639,8 +5639,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 210,
@@ -5666,8 +5666,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 211,
@@ -5693,8 +5693,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 212,
@@ -5720,8 +5720,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 213,
@@ -5747,8 +5747,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 214,
@@ -5774,8 +5774,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 215,
@@ -5801,8 +5801,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 216,
@@ -5828,8 +5828,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 217,
@@ -5855,8 +5855,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 218,
@@ -5882,8 +5882,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 219,
@@ -5909,8 +5909,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 220,
@@ -5936,8 +5936,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 221,
@@ -5963,8 +5963,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 222,
@@ -5990,8 +5990,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 223,
@@ -6017,8 +6017,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 224,
@@ -6044,8 +6044,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 225,
@@ -6071,8 +6071,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 226,
@@ -6098,8 +6098,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 227,
@@ -6125,8 +6125,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 228,
@@ -6152,8 +6152,8 @@
     "charges": "Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 229,
@@ -6179,8 +6179,8 @@
     "charges": "Two Counts of Threatening to Harm Via Electronic Device",
     "bond": "No Bond",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 230,
@@ -6206,8 +6206,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 231,
@@ -6233,8 +6233,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 232,
@@ -6260,8 +6260,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 233,
@@ -6287,8 +6287,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 234,
@@ -6314,8 +6314,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 235,
@@ -6341,8 +6341,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 236,
@@ -6352,13 +6352,13 @@
     "state": "West Virginia",
     "region": "South",
     "source": "https://www.wtrf.com/top-stories/bomb-threats-reported-at-nitro-high-school-dupont-middle-school/",
-    "offense_date": "Between 1/31 and 2/1",
+    "offense_date": "1/31/2026",
     "time": "Not Specified",
     "law_enforcement": "Kanawha County Sheriff's Office",
     "threat_type": "Bomb",
     "conveyance": "Phone Call",
     "who_threatened": "School",
-    "incident_details": "Three schools in the same county received threats. Also reported that Lincoln County High School received a message.",
+    "incident_details": "Three schools in the same county received threats over the weekend. Also reported that Lincoln County High School received a message.",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "N/A",
@@ -6368,8 +6368,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 237,
@@ -6395,8 +6395,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 238,
@@ -6422,8 +6422,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 239,
@@ -6449,8 +6449,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 240,
@@ -6476,8 +6476,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 241,
@@ -6503,8 +6503,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 242,
@@ -6530,8 +6530,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 243,
@@ -6557,8 +6557,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 244,
@@ -6584,8 +6584,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 245,
@@ -6611,8 +6611,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 246,
@@ -6638,8 +6638,8 @@
     "charges": "Making a Terroristic Threat and Aggravated Harassment as a Hate Crime",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 247,
@@ -6665,8 +6665,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 248,
@@ -6692,8 +6692,8 @@
     "charges": "Written threat to commit a mass shooting or terrorism act",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 249,
@@ -6719,8 +6719,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 250,
@@ -6746,8 +6746,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 251,
@@ -6773,8 +6773,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 252,
@@ -6800,8 +6800,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 253,
@@ -6827,8 +6827,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 254,
@@ -6844,7 +6844,7 @@
     "threat_type": "Shooting",
     "conveyance": "Written",
     "who_threatened": "School",
-    "incident_details": "Two different written school shooting threats were found on the bathroom walls. The writings were different but both referenced a social media post that was circulating that threatened the school. The most recent threat led to many parents keeping their kids home from school.",
+    "incident_details": "Two different written school shooting threats were found on the bathroom walls. The writings were different but both referenced a social media post that was circulating that threatened the school. The most recent threat (February 3) led to many parents keeping their kids home from school.",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "Increased Law Enforcement Presence and Increased Security Measures on Campus. Counselors available for student support.",
@@ -6854,8 +6854,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 255,
@@ -6881,8 +6881,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 256,
@@ -6908,8 +6908,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 257,
@@ -6935,8 +6935,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 258,
@@ -6962,8 +6962,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 259,
@@ -6989,8 +6989,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 260,
@@ -7016,8 +7016,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "https://www.newsfromthestates.com/article/some-classes-disrupted-after-several-delaware-schools-received-bomb-threats",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 261,
@@ -7043,8 +7043,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 262,
@@ -7070,8 +7070,8 @@
     "charges": "Terroristic Threats and Acts",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 263,
@@ -7097,8 +7097,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 264,
@@ -7124,8 +7124,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 265,
@@ -7151,8 +7151,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 266,
@@ -7178,8 +7178,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 267,
@@ -7205,8 +7205,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 268,
@@ -7232,8 +7232,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "$75,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 269,
@@ -7259,8 +7259,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 270,
@@ -7286,8 +7286,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 271,
@@ -7313,8 +7313,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 272,
@@ -7340,8 +7340,8 @@
     "charges": "Written threats to kill or do bodily harm to another person",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 273,
@@ -7367,8 +7367,8 @@
     "charges": "Three counts of written or electronic threats to kill, do bodily injury, conduct a mass shooting, or act of terrorism",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 274,
@@ -7394,8 +7394,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 275,
@@ -7421,8 +7421,8 @@
     "charges": "Communications of Intimidation",
     "bond": "$15,000",
     "additional_sources": "https://www.indystar.com/story/news/crime/2026/02/06/center-grove-school-threatened-over-america-first-protest-that-didnt-happen-teen-arrested-instagram/88545574007/#",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 276,
@@ -7448,8 +7448,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 277,
@@ -7475,8 +7475,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 278,
@@ -7502,8 +7502,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 279,
@@ -7529,8 +7529,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 280,
@@ -7556,8 +7556,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 281,
@@ -7583,8 +7583,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 282,
@@ -7610,8 +7610,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 283,
@@ -7637,8 +7637,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 284,
@@ -7664,8 +7664,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 285,
@@ -7691,8 +7691,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 286,
@@ -7718,8 +7718,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 287,
@@ -7745,8 +7745,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 288,
@@ -7772,8 +7772,8 @@
     "charges": "Making Terroristic Threats and Causing False Public Alarm",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 289,
@@ -7799,8 +7799,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 290,
@@ -7826,8 +7826,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 291,
@@ -7853,8 +7853,8 @@
     "charges": "Threats of Violence, Possessing a Dangerous Weapon on School Property, First Degree Damage to Property, and Driving While Intoxicated",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 292,
@@ -7880,8 +7880,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 293,
@@ -7891,13 +7891,13 @@
     "state": "Nevada",
     "region": "West",
     "source": "https://www.carsonnow.org/02/07/2026/lyon-county-sheriff-threats-investigated-no-incidents-in-fernley-student-protest",
-    "offense_date": "2/4-2/6",
+    "offense_date": "2/4/2026",
     "time": "Morning and Night",
     "law_enforcement": "Lyon County Sheriff's Office",
     "threat_type": "Shooting",
     "conveyance": "Phone Call",
     "who_threatened": "School",
-    "incident_details": "In wake of a student led protest, law enforcement received multiple phone calls, messages, and other communications relaying possible threats of fights, shootings, and other violent behavior.",
+    "incident_details": "In wake of a student led protest, law enforcement received multiple phone calls, messages, and other communications relaying possible threats of fights, shootings, and other violent behavior over the weekend.",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "N/A",
@@ -7907,8 +7907,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 294,
@@ -7934,8 +7934,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 295,
@@ -7961,8 +7961,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 296,
@@ -7988,8 +7988,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 297,
@@ -8015,8 +8015,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 298,
@@ -8042,8 +8042,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 299,
@@ -8069,8 +8069,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 300,
@@ -8096,8 +8096,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 301,
@@ -8123,8 +8123,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 302,
@@ -8150,8 +8150,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 303,
@@ -8177,8 +8177,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 304,
@@ -8204,8 +8204,8 @@
     "charges": "Disorderly Conduct for Communicating Acts of Violence/ Bodily Harm Toward a School Employee",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 305,
@@ -8231,8 +8231,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 306,
@@ -8258,8 +8258,8 @@
     "charges": "Terrorizing",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 307,
@@ -8285,8 +8285,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 308,
@@ -8312,8 +8312,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 309,
@@ -8339,8 +8339,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 310,
@@ -8366,8 +8366,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 311,
@@ -8393,8 +8393,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 312,
@@ -8420,8 +8420,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 313,
@@ -8447,8 +8447,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 314,
@@ -8474,8 +8474,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 315,
@@ -8501,8 +8501,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 316,
@@ -8528,8 +8528,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 317,
@@ -8555,8 +8555,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 318,
@@ -8582,8 +8582,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 319,
@@ -8609,8 +8609,8 @@
     "charges": "Making Terrorist Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 320,
@@ -8636,8 +8636,8 @@
     "charges": "Charges Pending",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 321,
@@ -8663,8 +8663,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 322,
@@ -8690,8 +8690,8 @@
     "charges": "Criminal Threat and Criminal Use of Weapons",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 323,
@@ -8717,8 +8717,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 324,
@@ -8744,8 +8744,8 @@
     "charges": "Making Criminal Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 325,
@@ -8771,8 +8771,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 326,
@@ -8798,8 +8798,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 327,
@@ -8825,8 +8825,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 328,
@@ -8852,8 +8852,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 329,
@@ -8879,8 +8879,8 @@
     "charges": "Threats of Mass Violence",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 330,
@@ -8906,8 +8906,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 331,
@@ -8933,8 +8933,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 332,
@@ -8960,8 +8960,8 @@
     "charges": "Issuing a Written/Electronic Threat to Commit a Mass Shooting and Using a Two-Way Communication Device to Commit a Felony",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 333,
@@ -8987,8 +8987,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 334,
@@ -9014,8 +9014,8 @@
     "charges": "Second Degree Making a Terrorist Threat",
     "bond": "$1,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 335,
@@ -9041,8 +9041,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 336,
@@ -9068,8 +9068,8 @@
     "charges": "Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 337,
@@ -9095,8 +9095,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 338,
@@ -9122,8 +9122,8 @@
     "charges": "Making a criminal threat, interfering with law enforcement officers, three counts of battery against a law enforcement officer, criminal damage to property, and possession of drug paraphernalia",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 339,
@@ -9149,8 +9149,8 @@
     "charges": "Making Terroristic Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 340,
@@ -9176,8 +9176,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 341,
@@ -9203,8 +9203,8 @@
     "charges": "Issuing a Written Threat of a Mass Shooting",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 342,
@@ -9230,8 +9230,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 343,
@@ -9257,8 +9257,8 @@
     "charges": "Making threats toward the school",
     "bond": "Held without Bond",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 344,
@@ -9284,8 +9284,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 345,
@@ -9311,8 +9311,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 346,
@@ -9338,8 +9338,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 347,
@@ -9365,8 +9365,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 348,
@@ -9392,8 +9392,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 349,
@@ -9419,8 +9419,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 350,
@@ -9446,8 +9446,8 @@
     "charges": "Making Terrorist Threats, Stalking with the Intent to Gain Access to Records, and Using a Computer Message to Threaten Injury or Harm",
     "bond": "$500,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 351,
@@ -9473,8 +9473,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 352,
@@ -9500,8 +9500,8 @@
     "charges": "Terrorizing",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 353,
@@ -9527,8 +9527,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 354,
@@ -9554,8 +9554,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 355,
@@ -9581,8 +9581,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 356,
@@ -9608,8 +9608,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 357,
@@ -9635,8 +9635,8 @@
     "charges": "Making Terrorist Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 358,
@@ -9662,8 +9662,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 359,
@@ -9689,8 +9689,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 360,
@@ -9700,13 +9700,13 @@
     "state": "California",
     "region": "West",
     "source": "https://bakersfieldnow.com/news/local/investigation-underway-after-social-media-threats-target-del-oro-golden-valley-high-kern-high-school-district-california",
-    "offense_date": "Between 2/20/26 and 2/22/26",
+    "offense_date": "2/20/2026",
     "time": "Not Specified",
     "law_enforcement": "Bakersfield Police Department",
     "threat_type": "Threat",
     "conveyance": "Social Media",
     "who_threatened": "Schools",
-    "incident_details": "School District was made aware of threats on social media against two schools",
+    "incident_details": "School District was made aware of threats on social media against two schools that happened over the weekend",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "Increased Law Enforcement Presence",
@@ -9716,8 +9716,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 361,
@@ -9743,8 +9743,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 362,
@@ -9770,8 +9770,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 363,
@@ -9797,8 +9797,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 364,
@@ -9824,8 +9824,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 365,
@@ -9851,8 +9851,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 366,
@@ -9878,8 +9878,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 367,
@@ -9905,8 +9905,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 368,
@@ -9932,8 +9932,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 369,
@@ -9959,8 +9959,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 370,
@@ -9986,8 +9986,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 371,
@@ -10013,8 +10013,8 @@
     "charges": "Making Terrorist Threats",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 372,
@@ -10040,8 +10040,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 373,
@@ -10067,8 +10067,8 @@
     "charges": "Terrorist Threats, Two counts of battery to a school district employee as a party to a crime, and disorderly conduct",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 374,
@@ -10094,8 +10094,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 375,
@@ -10121,8 +10121,8 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 376,
@@ -10148,11 +10148,38 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
     "id": 377,
+    "article_date": "2/18/2026",
+    "school": "Triumph Academy",
+    "school_type": "TBD",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.monroenews.com/story/news/crime/2026/02/18/monroe-county-sheriffs-office-called-to-triumph-academy-for-threatening-message/88737766007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113728v113728d--37--b--37--&gca-ft=181&gca-ds=sophi&gnt-djm=1",
+    "offense_date": "2/17/2026",
+    "time": "1:45 p.m.",
+    "law_enforcement": "Monroe County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Written",
+    "who_threatened": "School",
+    "incident_details": "Law Enforcement reported to the school due to a written threat on a bathroom wall",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 378,
     "article_date": "2/19/2026",
     "school": "Uvalde Consolidated Independent School District",
     "school_type": "TBD",
@@ -10175,11 +10202,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 378,
+    "id": 379,
     "article_date": "2/19/2026",
     "school": "Muscle Shoals Middle School",
     "school_type": "Middle School",
@@ -10202,11 +10229,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 379,
+    "id": 380,
     "article_date": "2/19/2026",
     "school": "Lakeview High School",
     "school_type": "High School",
@@ -10229,11 +10256,11 @@
     "charges": "Intentional Threat to Commit Active Violence Against Schools",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 380,
+    "id": 381,
     "article_date": "2/19/2026",
     "school": "Harold C. Kaffie Middle School",
     "school_type": "Middle School",
@@ -10256,11 +10283,11 @@
     "charges": "Terroristic Threat",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 381,
+    "id": 382,
     "article_date": "2/19/2026",
     "school": "Grant High School",
     "school_type": "High School",
@@ -10283,11 +10310,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 382,
+    "id": 383,
     "article_date": "2/19/2026",
     "school": "Wellsville High School",
     "school_type": "High School",
@@ -10310,11 +10337,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 383,
+    "id": 384,
     "article_date": "2/19/2026",
     "school": "Hornedo Middle School",
     "school_type": "Middle School",
@@ -10337,11 +10364,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 384,
+    "id": 385,
     "article_date": "2/19/2026",
     "school": "Decatur Central High School",
     "school_type": "High School",
@@ -10364,11 +10391,11 @@
     "charges": "Intimidation (Threat to Commit Terrorism), Intimidation (Threat is to Commit a Forcible Felony), and Intimidation (Threats not exposing to hatred ot contempt)",
     "bond": "$50,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 385,
+    "id": 386,
     "article_date": "2/19/2026",
     "school": "Maquoketa Schools",
     "school_type": "TBD",
@@ -10391,11 +10418,11 @@
     "charges": "Threats of Terrorism",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 386,
+    "id": 387,
     "article_date": "2/19/2026",
     "school": "Montcalm High School",
     "school_type": "High School",
@@ -10418,11 +10445,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 387,
+    "id": 388,
     "article_date": "2/19/2026",
     "school": "Montgomery Blair High School",
     "school_type": "High School",
@@ -10445,11 +10472,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 388,
+    "id": 389,
     "article_date": "2/19/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -10472,11 +10499,11 @@
     "charges": "Aggravated Menacing and Inducing Panic",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 389,
+    "id": 390,
     "article_date": "2/19/2026",
     "school": "Lake Central High School",
     "school_type": "High School",
@@ -10499,11 +10526,11 @@
     "charges": "Intimidation to Commit a Terrorist Act in a School",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 390,
+    "id": 391,
     "article_date": "2/19/2026",
     "school": "Junior Elementary",
     "school_type": "Elementary",
@@ -10526,11 +10553,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 391,
+    "id": 392,
     "article_date": "2/19/2026",
     "school": "University of Dallas",
     "school_type": "University/ College",
@@ -10553,11 +10580,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 392,
+    "id": 393,
     "article_date": "2/19/2026",
     "school": "Farwell Area Schools",
     "school_type": "TBD",
@@ -10580,11 +10607,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 393,
+    "id": 394,
     "article_date": "2/19/2026",
     "school": "River Ridge Middle and High School",
     "school_type": "TBD",
@@ -10607,11 +10634,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 394,
+    "id": 395,
     "article_date": "2/20/2026",
     "school": "Lubbock High School",
     "school_type": "High School",
@@ -10634,11 +10661,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 395,
+    "id": 396,
     "article_date": "2/20/2026",
     "school": "Rockvale Middle School",
     "school_type": "Middle School",
@@ -10661,11 +10688,11 @@
     "charges": "Communicating a Threat Concerning a School Employee or Student",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 396,
+    "id": 397,
     "article_date": "2/20/2026",
     "school": "Whitworth-Buchanan Middle School",
     "school_type": "Middle School",
@@ -10688,11 +10715,11 @@
     "charges": "Making Threats of Mass Violence on School Property",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 397,
+    "id": 398,
     "article_date": "2/20/2026",
     "school": "J.P. Taravella High School",
     "school_type": "High School",
@@ -10715,11 +10742,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 398,
+    "id": 399,
     "article_date": "2/20/2026",
     "school": "Wheaton North High School",
     "school_type": "High School",
@@ -10742,11 +10769,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 399,
+    "id": 400,
     "article_date": "2/20/2026",
     "school": "South Brunswick High School",
     "school_type": "High School",
@@ -10769,11 +10796,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 400,
+    "id": 401,
     "article_date": "2/20/2026",
     "school": "New River Community College",
     "school_type": "University/ College",
@@ -10796,11 +10823,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 401,
+    "id": 402,
     "article_date": "2/20/2026",
     "school": "James Blair Middle School and Norview Middle School",
     "school_type": "Multiple Schools",
@@ -10823,11 +10850,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 402,
+    "id": 403,
     "article_date": "2/20/2026",
     "school": "Smith Station High School",
     "school_type": "High School",
@@ -10850,11 +10877,11 @@
     "charges": "Making a Terrorist Threat in the First Degree",
     "bond": "$15,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 403,
+    "id": 404,
     "article_date": "2/20/2026",
     "school": "Soledad High School",
     "school_type": "High School",
@@ -10877,11 +10904,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 404,
+    "id": 405,
     "article_date": "2/20/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -10904,11 +10931,11 @@
     "charges": "Menacing",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 405,
+    "id": 406,
     "article_date": "2/20/2026",
     "school": "Bellaire High School",
     "school_type": "High School",
@@ -10931,11 +10958,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 406,
+    "id": 407,
     "article_date": "2/20/2026",
     "school": "Caldwell-Guthrie Elementary School",
     "school_type": "Elementary",
@@ -10958,11 +10985,11 @@
     "charges": "Threat of Mass Violence on School Property and Assault",
     "bond": "$75,000",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 407,
+    "id": 408,
     "article_date": "2/20/2026",
     "school": "Northgate Middle School",
     "school_type": "Middle School",
@@ -10985,11 +11012,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 408,
+    "id": 409,
     "article_date": "2/21/2026",
     "school": "University of Wisconsin-Parkside",
     "school_type": "University/ College",
@@ -11012,11 +11039,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 409,
+    "id": 410,
     "article_date": "2/22/2026",
     "school": "Creekband Elementary and Middle School",
     "school_type": "Multiple Schools",
@@ -11039,11 +11066,11 @@
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
   },
   {
-    "id": 410,
+    "id": 411,
     "article_date": "2/22/2026",
     "school": "Stephen and Harriet Myers Middle School",
     "school_type": "Middle School",
@@ -11064,9 +11091,306 @@
     "gender": "Female",
     "charged": "12 year old",
     "charges": "Making a Threat of Mass Harm",
-    "bond": "",
+    "bond": "N/A",
     "additional_sources": "",
-    "classes_cancelled": "",
-    "custody": ""
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 412,
+    "article_date": "2/22/2026",
+    "school": "Monroe High School",
+    "school_type": "High School",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.13abc.com/2026/02/23/school-bomb-threat-deemed-non-credible/",
+    "offense_date": "2/22/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Monroe County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "Student at the school received a phone call from an unknown number. The student's family reported the call to authorities and they were able to trace the calls to a different state and that the caller was masking their number.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 413,
+    "article_date": "2/23/2026",
+    "school": "Mayfield City School District",
+    "school_type": "TBD",
+    "state": "Ohio",
+    "region": "Midwest",
+    "source": "https://www.cleveland19.com/2026/02/23/mayfield-heights-police-investigate-threats-made-against-school-social-media/#",
+    "offense_date": "2/21/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Mayfield Heights Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Snapchat",
+    "who_threatened": "School District",
+    "incident_details": "Over the weekend, a juvenile outside the school district made threats on Snapchat",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "13 year old",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 414,
+    "article_date": "2/23/2026",
+    "school": "College Station High School",
+    "school_type": "High School",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/college-station-isd-campuses-placed-on-secure-status-has-since-been-lifted-and-reported-threat-was-a-hoax",
+    "offense_date": "2/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "College Station Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "Schools in the School District went into secure mode after a reported threat. Threat was determined to be a hoax.",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 415,
+    "article_date": "2/23/2026",
+    "school": "Fort Myers High School",
+    "school_type": "High School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.gulfcoastnewsnow.com/article/bomb-threat-south-fort-myers-high-school-evacuation/70467768",
+    "offense_date": "2/23/2026",
+    "time": "Morning",
+    "law_enforcement": "Lee County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School received a bomb threat, prompting an evacuation",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 416,
+    "article_date": "2/23/2026",
+    "school": "Southwestern Middle School",
+    "school_type": "Middle School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.fox35orlando.com/news/volusia-county-school-shooting-threat-plan-teacher-students#",
+    "offense_date": "2/22/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Volusia County Sheriff's Office",
+    "threat_type": "Shooting",
+    "conveyance": "Website",
+    "who_threatened": "Students and Teacher",
+    "incident_details": "Student posted on a website a school shooting plan. The plan was taken down but the comments and username stayed up. The plan detailed when to arrive at school, where to meet up with her friend, and where and what time of day to start the shooting. The plan identified a teacher because the teacher gave her  an F- on a test and also named students.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "12 year old",
+    "charges": "Written Threats to Kill and Misuse of a Two-Way Communication Device",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 417,
+    "article_date": "2/23/2026",
+    "school": "Worth County Middle School",
+    "school_type": "Middle School",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.walb.com/2026/02/23/worth-county-schools-responds-bomb-threat-middle-school/#",
+    "offense_date": "2/23/2026",
+    "time": "Morning",
+    "law_enforcement": "Not Named",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School received a bomb threat, prompting an evacuation",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 418,
+    "article_date": "2/23/2026",
+    "school": "Halls Middle School",
+    "school_type": "Middle School",
+    "state": "Tennessee",
+    "region": "South",
+    "source": "https://www.knoxnews.com/story/news/crime/2026/02/23/bomb-threat-prompts-halls-middle-school-evacuation/88831793007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z116256p118450c118450u004156v116256&gca-ft=249&gca-ds=sophi&gnt-djm=1",
+    "offense_date": "2/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Knox County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School received a bomb threat, prompting an evacuation",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 419,
+    "article_date": "2/23/2026",
+    "school": "Monte Vista High School",
+    "school_type": "High School",
+    "state": "California",
+    "region": "West",
+    "source": "https://www.sdsheriff.gov/Home/Components/News/News/4029/514",
+    "offense_date": "2/23/2026",
+    "time": "12:00 p.m.",
+    "law_enforcement": "San Diego County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into Secure mode after receiving a phoned in school threat. Phone Number used in this incident has been used in California and Idaho the past two weeks and the caller has used the same wording.",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence for the day",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 420,
+    "article_date": "2/23/2026",
+    "school": "O'Farrell Charter School",
+    "school_type": "Charter School",
+    "state": "California",
+    "region": "West",
+    "source": "https://hoodline.com/2026/02/o-farrell-school-lockdown-scare-ends-with-all-clear-as-mayor-backs-sdpd/",
+    "offense_date": "2/23/2026",
+    "time": "11:00 a.m.",
+    "law_enforcement": "San Diego Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School received a threat, prompting the school to go in secure mode",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 421,
+    "article_date": "2/23/2026",
+    "school": "Fort Lauderdale High School",
+    "school_type": "High School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.local10.com/news/local/2026/02/23/fort-lauderdale-police-arrest-man-after-alleged-threats-to-blow-up-police-station-shoot-up-high-school/",
+    "offense_date": "2/22/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Fort Lauderdale Police Department",
+    "threat_type": "Shooting",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "Suspect called 911 and threatened to blow up the Fort Lauderdale Police Station and shoot up Fort Lauderdale High School",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "30 year old",
+    "charges": "Misusing 911 and Sending or Transmitting a Written Threat to Conduct a Mass Shooting or an Act of Terrorism",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 422,
+    "article_date": "2/23/2026",
+    "school": "Pittsburgh John Morrow School",
+    "school_type": "K-8 School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://www.wtae.com/article/police-woman-charged-threat-pittsburgh-public-school-employees/70470392",
+    "offense_date": "2/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Pittsburgh Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "School Staff",
+    "incident_details": "Suspect and another woman threatened to physically harm two secretaries. The women threatened to leave and return to the school during dismissal to hurt them. According to the secretaties, the suspect has been hung up on by staff before due to her using explicit language towards staff and before this incident, the suspect threw a bottle of hand santizer at one of the secretaries.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "Unknown",
+    "charges": "Terroristic Threats, Harassment, and Simple Assault",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
   }
 ]
