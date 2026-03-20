@@ -9019,6 +9019,33 @@
   },
   {
     "id": 335,
+    "article_date": "2/12/2026",
+    "school": "Westerville North High School",
+    "school_type": "High School",
+    "state": "Ohio",
+    "region": "Midwest",
+    "source": "https://www.10tv.com/article/news/local/black-history-month-program-postponed-westerville-north-high-school-reported-threats/530-28b8a343-2ed5-499b-8b90-c935860b63d1#",
+    "offense_date": "2/12/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Westerville Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Multiple Formats",
+    "who_threatened": "School",
+    "incident_details": "School postponed its Black History Month program after receiving threats",
+    "lockdown_type": "",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 336,
     "article_date": "2/13/2026",
     "school": "General Sherman Junior High School",
     "school_type": "Middle School",
@@ -9045,7 +9072,7 @@
     "custody": ""
   },
   {
-    "id": 336,
+    "id": 337,
     "article_date": "2/13/2026",
     "school": "Buckhannon-Upshur Middle School",
     "school_type": "Middle School",
@@ -9072,7 +9099,7 @@
     "custody": ""
   },
   {
-    "id": 337,
+    "id": 338,
     "article_date": "2/13/2026",
     "school": "Atlantic High School",
     "school_type": "High School",
@@ -9099,7 +9126,7 @@
     "custody": ""
   },
   {
-    "id": 338,
+    "id": 339,
     "article_date": "2/13/2026",
     "school": "Lawrence High School",
     "school_type": "High School",
@@ -9126,7 +9153,7 @@
     "custody": ""
   },
   {
-    "id": 339,
+    "id": 340,
     "article_date": "2/13/2026",
     "school": "Marysville Schools",
     "school_type": "TBD",
@@ -9153,7 +9180,7 @@
     "custody": ""
   },
   {
-    "id": 340,
+    "id": 341,
     "article_date": "2/13/2026",
     "school": "Hayward High School",
     "school_type": "High School",
@@ -9180,7 +9207,7 @@
     "custody": ""
   },
   {
-    "id": 341,
+    "id": 342,
     "article_date": "2/13/2026",
     "school": "Crestview High School",
     "school_type": "High School",
@@ -9207,7 +9234,7 @@
     "custody": ""
   },
   {
-    "id": 342,
+    "id": 343,
     "article_date": "2/13/2026",
     "school": "Edmond Santa Fe High School",
     "school_type": "High School",
@@ -9234,7 +9261,7 @@
     "custody": ""
   },
   {
-    "id": 343,
+    "id": 344,
     "article_date": "2/13/2026",
     "school": "Grayson County High School",
     "school_type": "High School",
@@ -9261,7 +9288,7 @@
     "custody": ""
   },
   {
-    "id": 344,
+    "id": 345,
     "article_date": "2/13/2026",
     "school": "Capon Bridge Middle School",
     "school_type": "Middle School",
@@ -9288,7 +9315,7 @@
     "custody": ""
   },
   {
-    "id": 345,
+    "id": 346,
     "article_date": "2/13/2026",
     "school": "Liberty Central School District",
     "school_type": "Middle School",
@@ -9315,7 +9342,7 @@
     "custody": ""
   },
   {
-    "id": 346,
+    "id": 347,
     "article_date": "2/13/2026",
     "school": "Northhampton County Schools",
     "school_type": "Multiple Schools",
@@ -9342,7 +9369,7 @@
     "custody": ""
   },
   {
-    "id": 347,
+    "id": 348,
     "article_date": "2/14/2026",
     "school": "Pennsbury High School",
     "school_type": "High School",
@@ -9369,7 +9396,7 @@
     "custody": ""
   },
   {
-    "id": 348,
+    "id": 349,
     "article_date": "2/16/2026",
     "school": "Statesville High School and Crossroads Early College",
     "school_type": "Multiple Schools",
@@ -9396,7 +9423,7 @@
     "custody": ""
   },
   {
-    "id": 349,
+    "id": 350,
     "article_date": "2/16/2026",
     "school": "Appleton East High School",
     "school_type": "High School",
@@ -9423,7 +9450,7 @@
     "custody": ""
   },
   {
-    "id": 350,
+    "id": 351,
     "article_date": "2/16/2026",
     "school": "Tomorrow River School District",
     "school_type": "TBD",
@@ -9450,7 +9477,7 @@
     "custody": ""
   },
   {
-    "id": 351,
+    "id": 352,
     "article_date": "2/16/2026",
     "school": "McCamey ISD",
     "school_type": "TBD",
@@ -9477,7 +9504,7 @@
     "custody": ""
   },
   {
-    "id": 352,
+    "id": 353,
     "article_date": "2/17/2026",
     "school": "Northwood High School",
     "school_type": "High School",
@@ -9504,7 +9531,7 @@
     "custody": ""
   },
   {
-    "id": 353,
+    "id": 354,
     "article_date": "2/17/2026",
     "school": "Franklin High School",
     "school_type": "High School",
@@ -9531,7 +9558,7 @@
     "custody": ""
   },
   {
-    "id": 354,
+    "id": 355,
     "article_date": "2/17/2026",
     "school": "Holcomb Elementary School",
     "school_type": "Elementary",
@@ -9558,7 +9585,7 @@
     "custody": ""
   },
   {
-    "id": 355,
+    "id": 356,
     "article_date": "2/17/2026",
     "school": "Dobie High School",
     "school_type": "High School",
@@ -9585,7 +9612,7 @@
     "custody": ""
   },
   {
-    "id": 356,
+    "id": 357,
     "article_date": "2/17/2026",
     "school": "Neelyville R-4 School District",
     "school_type": "TBD",
@@ -9612,7 +9639,7 @@
     "custody": ""
   },
   {
-    "id": 357,
+    "id": 358,
     "article_date": "2/17/2026",
     "school": "Lance Middle School",
     "school_type": "Middle School",
@@ -9639,7 +9666,7 @@
     "custody": ""
   },
   {
-    "id": 358,
+    "id": 359,
     "article_date": "2/17/2026",
     "school": "Wilson Elementary School",
     "school_type": "Elementary",
@@ -9666,7 +9693,7 @@
     "custody": ""
   },
   {
-    "id": 359,
+    "id": 360,
     "article_date": "2/17/2026",
     "school": "Groveton ISD",
     "school_type": "TBD",
@@ -9693,7 +9720,7 @@
     "custody": ""
   },
   {
-    "id": 360,
+    "id": 361,
     "article_date": "2/17/2026",
     "school": "Del Oro High School and Golden Valley High School",
     "school_type": "Multiple Schools",
@@ -9720,7 +9747,7 @@
     "custody": ""
   },
   {
-    "id": 361,
+    "id": 362,
     "article_date": "2/17/2026",
     "school": "Weslaco High School",
     "school_type": "High School",
@@ -9747,7 +9774,7 @@
     "custody": ""
   },
   {
-    "id": 362,
+    "id": 363,
     "article_date": "2/17/2026",
     "school": "Embry-Riddle Aeronautical University",
     "school_type": "University/ College",
@@ -9774,7 +9801,7 @@
     "custody": ""
   },
   {
-    "id": 363,
+    "id": 364,
     "article_date": "2/18/2026",
     "school": "Boerne High School and Steele High School",
     "school_type": "Multiple Schools",
@@ -9801,7 +9828,7 @@
     "custody": ""
   },
   {
-    "id": 364,
+    "id": 365,
     "article_date": "2/18/2026",
     "school": "Anna High School, Coppell High School, and Duncanville High School",
     "school_type": "Multiple Schools",
@@ -9828,7 +9855,7 @@
     "custody": ""
   },
   {
-    "id": 365,
+    "id": 366,
     "article_date": "2/18/2026",
     "school": "Georgetown High School",
     "school_type": "High School",
@@ -9855,7 +9882,7 @@
     "custody": ""
   },
   {
-    "id": 366,
+    "id": 367,
     "article_date": "2/18/2026",
     "school": "Central High School",
     "school_type": "High School",
@@ -9882,7 +9909,7 @@
     "custody": ""
   },
   {
-    "id": 367,
+    "id": 368,
     "article_date": "2/18/2026",
     "school": "Glenwood Springs Middle School",
     "school_type": "Middle School",
@@ -9909,7 +9936,7 @@
     "custody": ""
   },
   {
-    "id": 368,
+    "id": 369,
     "article_date": "2/18/2026",
     "school": "Evans Middle School",
     "school_type": "Middle School",
@@ -9936,7 +9963,7 @@
     "custody": ""
   },
   {
-    "id": 369,
+    "id": 370,
     "article_date": "2/18/2026",
     "school": "Evergreen High School",
     "school_type": "High School",
@@ -9963,7 +9990,7 @@
     "custody": ""
   },
   {
-    "id": 370,
+    "id": 371,
     "article_date": "2/18/2026",
     "school": "Sugar Grove Elementary School",
     "school_type": "Elementary",
@@ -9990,7 +10017,7 @@
     "custody": ""
   },
   {
-    "id": 371,
+    "id": 372,
     "article_date": "2/18/2026",
     "school": "Bullen Middle School",
     "school_type": "Middle School",
@@ -10017,7 +10044,7 @@
     "custody": ""
   },
   {
-    "id": 372,
+    "id": 373,
     "article_date": "2/18/2026",
     "school": "Pocahontas School District",
     "school_type": "High School",
@@ -10044,7 +10071,7 @@
     "custody": ""
   },
   {
-    "id": 373,
+    "id": 374,
     "article_date": "2/18/2026",
     "school": "GreenTree Prep Academy",
     "school_type": "TBD",
@@ -10071,7 +10098,7 @@
     "custody": ""
   },
   {
-    "id": 374,
+    "id": 375,
     "article_date": "2/18/2026",
     "school": "Moffett School",
     "school_type": "TBD",
@@ -10098,7 +10125,7 @@
     "custody": ""
   },
   {
-    "id": 375,
+    "id": 376,
     "article_date": "2/18/2026",
     "school": "LaBelle Middle School",
     "school_type": "Middle School",
@@ -10125,7 +10152,7 @@
     "custody": ""
   },
   {
-    "id": 376,
+    "id": 377,
     "article_date": "2/18/2026",
     "school": "Weslaco High School",
     "school_type": "High School",
@@ -10152,7 +10179,7 @@
     "custody": ""
   },
   {
-    "id": 377,
+    "id": 378,
     "article_date": "2/18/2026",
     "school": "Triumph Academy",
     "school_type": "TBD",
@@ -10179,7 +10206,7 @@
     "custody": ""
   },
   {
-    "id": 378,
+    "id": 379,
     "article_date": "2/19/2026",
     "school": "Uvalde Consolidated Independent School District",
     "school_type": "TBD",
@@ -10206,7 +10233,7 @@
     "custody": ""
   },
   {
-    "id": 379,
+    "id": 380,
     "article_date": "2/19/2026",
     "school": "Muscle Shoals Middle School",
     "school_type": "Middle School",
@@ -10233,7 +10260,7 @@
     "custody": ""
   },
   {
-    "id": 380,
+    "id": 381,
     "article_date": "2/19/2026",
     "school": "Lakeview High School",
     "school_type": "High School",
@@ -10260,7 +10287,7 @@
     "custody": ""
   },
   {
-    "id": 381,
+    "id": 382,
     "article_date": "2/19/2026",
     "school": "Harold C. Kaffie Middle School",
     "school_type": "Middle School",
@@ -10287,7 +10314,7 @@
     "custody": ""
   },
   {
-    "id": 382,
+    "id": 383,
     "article_date": "2/19/2026",
     "school": "Grant High School",
     "school_type": "High School",
@@ -10314,7 +10341,7 @@
     "custody": ""
   },
   {
-    "id": 383,
+    "id": 384,
     "article_date": "2/19/2026",
     "school": "Wellsville High School",
     "school_type": "High School",
@@ -10341,7 +10368,7 @@
     "custody": ""
   },
   {
-    "id": 384,
+    "id": 385,
     "article_date": "2/19/2026",
     "school": "Hornedo Middle School",
     "school_type": "Middle School",
@@ -10368,7 +10395,7 @@
     "custody": ""
   },
   {
-    "id": 385,
+    "id": 386,
     "article_date": "2/19/2026",
     "school": "Decatur Central High School",
     "school_type": "High School",
@@ -10395,7 +10422,7 @@
     "custody": ""
   },
   {
-    "id": 386,
+    "id": 387,
     "article_date": "2/19/2026",
     "school": "Maquoketa Schools",
     "school_type": "TBD",
@@ -10422,7 +10449,7 @@
     "custody": ""
   },
   {
-    "id": 387,
+    "id": 388,
     "article_date": "2/19/2026",
     "school": "Montcalm High School",
     "school_type": "High School",
@@ -10449,7 +10476,7 @@
     "custody": ""
   },
   {
-    "id": 388,
+    "id": 389,
     "article_date": "2/19/2026",
     "school": "Montgomery Blair High School",
     "school_type": "High School",
@@ -10476,7 +10503,7 @@
     "custody": ""
   },
   {
-    "id": 389,
+    "id": 390,
     "article_date": "2/19/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -10503,7 +10530,7 @@
     "custody": ""
   },
   {
-    "id": 390,
+    "id": 391,
     "article_date": "2/19/2026",
     "school": "Lake Central High School",
     "school_type": "High School",
@@ -10530,7 +10557,7 @@
     "custody": ""
   },
   {
-    "id": 391,
+    "id": 392,
     "article_date": "2/19/2026",
     "school": "Junior Elementary",
     "school_type": "Elementary",
@@ -10557,7 +10584,7 @@
     "custody": ""
   },
   {
-    "id": 392,
+    "id": 393,
     "article_date": "2/19/2026",
     "school": "University of Dallas",
     "school_type": "University/ College",
@@ -10584,7 +10611,7 @@
     "custody": ""
   },
   {
-    "id": 393,
+    "id": 394,
     "article_date": "2/19/2026",
     "school": "Farwell Area Schools",
     "school_type": "TBD",
@@ -10611,7 +10638,7 @@
     "custody": ""
   },
   {
-    "id": 394,
+    "id": 395,
     "article_date": "2/19/2026",
     "school": "River Ridge Middle and High School",
     "school_type": "TBD",
@@ -10638,7 +10665,7 @@
     "custody": ""
   },
   {
-    "id": 395,
+    "id": 396,
     "article_date": "2/20/2026",
     "school": "Lubbock High School",
     "school_type": "High School",
@@ -10665,7 +10692,7 @@
     "custody": ""
   },
   {
-    "id": 396,
+    "id": 397,
     "article_date": "2/20/2026",
     "school": "Rockvale Middle School",
     "school_type": "Middle School",
@@ -10692,7 +10719,7 @@
     "custody": ""
   },
   {
-    "id": 397,
+    "id": 398,
     "article_date": "2/20/2026",
     "school": "Whitworth-Buchanan Middle School",
     "school_type": "Middle School",
@@ -10719,7 +10746,7 @@
     "custody": ""
   },
   {
-    "id": 398,
+    "id": 399,
     "article_date": "2/20/2026",
     "school": "J.P. Taravella High School",
     "school_type": "High School",
@@ -10746,7 +10773,7 @@
     "custody": ""
   },
   {
-    "id": 399,
+    "id": 400,
     "article_date": "2/20/2026",
     "school": "Wheaton North High School",
     "school_type": "High School",
@@ -10773,7 +10800,7 @@
     "custody": ""
   },
   {
-    "id": 400,
+    "id": 401,
     "article_date": "2/20/2026",
     "school": "South Brunswick High School",
     "school_type": "High School",
@@ -10800,7 +10827,7 @@
     "custody": ""
   },
   {
-    "id": 401,
+    "id": 402,
     "article_date": "2/20/2026",
     "school": "New River Community College",
     "school_type": "University/ College",
@@ -10827,7 +10854,7 @@
     "custody": ""
   },
   {
-    "id": 402,
+    "id": 403,
     "article_date": "2/20/2026",
     "school": "James Blair Middle School and Norview Middle School",
     "school_type": "Multiple Schools",
@@ -10854,7 +10881,7 @@
     "custody": ""
   },
   {
-    "id": 403,
+    "id": 404,
     "article_date": "2/20/2026",
     "school": "Smith Station High School",
     "school_type": "High School",
@@ -10881,7 +10908,7 @@
     "custody": ""
   },
   {
-    "id": 404,
+    "id": 405,
     "article_date": "2/20/2026",
     "school": "Soledad High School",
     "school_type": "High School",
@@ -10908,7 +10935,7 @@
     "custody": ""
   },
   {
-    "id": 405,
+    "id": 406,
     "article_date": "2/20/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -10935,7 +10962,7 @@
     "custody": ""
   },
   {
-    "id": 406,
+    "id": 407,
     "article_date": "2/20/2026",
     "school": "Bellaire High School",
     "school_type": "High School",
@@ -10962,7 +10989,7 @@
     "custody": ""
   },
   {
-    "id": 407,
+    "id": 408,
     "article_date": "2/20/2026",
     "school": "Caldwell-Guthrie Elementary School",
     "school_type": "Elementary",
@@ -10989,7 +11016,7 @@
     "custody": ""
   },
   {
-    "id": 408,
+    "id": 409,
     "article_date": "2/20/2026",
     "school": "Northgate Middle School",
     "school_type": "Middle School",
@@ -11016,7 +11043,7 @@
     "custody": ""
   },
   {
-    "id": 409,
+    "id": 410,
     "article_date": "2/21/2026",
     "school": "University of Wisconsin-Parkside",
     "school_type": "University/ College",
@@ -11043,7 +11070,7 @@
     "custody": ""
   },
   {
-    "id": 410,
+    "id": 411,
     "article_date": "2/22/2026",
     "school": "Creekband Elementary and Middle School",
     "school_type": "Multiple Schools",
@@ -11070,7 +11097,7 @@
     "custody": ""
   },
   {
-    "id": 411,
+    "id": 412,
     "article_date": "2/22/2026",
     "school": "Stephen and Harriet Myers Middle School",
     "school_type": "Middle School",
@@ -11097,7 +11124,7 @@
     "custody": ""
   },
   {
-    "id": 412,
+    "id": 413,
     "article_date": "2/22/2026",
     "school": "Monroe High School",
     "school_type": "High School",
@@ -11124,7 +11151,7 @@
     "custody": ""
   },
   {
-    "id": 413,
+    "id": 414,
     "article_date": "2/23/2026",
     "school": "Mayfield City School District",
     "school_type": "TBD",
@@ -11151,7 +11178,7 @@
     "custody": ""
   },
   {
-    "id": 414,
+    "id": 415,
     "article_date": "2/23/2026",
     "school": "College Station High School",
     "school_type": "High School",
@@ -11178,7 +11205,7 @@
     "custody": ""
   },
   {
-    "id": 415,
+    "id": 416,
     "article_date": "2/23/2026",
     "school": "Fort Myers High School",
     "school_type": "High School",
@@ -11205,7 +11232,7 @@
     "custody": ""
   },
   {
-    "id": 416,
+    "id": 417,
     "article_date": "2/23/2026",
     "school": "Southwestern Middle School",
     "school_type": "Middle School",
@@ -11232,7 +11259,7 @@
     "custody": ""
   },
   {
-    "id": 417,
+    "id": 418,
     "article_date": "2/23/2026",
     "school": "Worth County Middle School",
     "school_type": "Middle School",
@@ -11259,7 +11286,7 @@
     "custody": ""
   },
   {
-    "id": 418,
+    "id": 419,
     "article_date": "2/23/2026",
     "school": "Halls Middle School",
     "school_type": "Middle School",
@@ -11286,7 +11313,7 @@
     "custody": ""
   },
   {
-    "id": 419,
+    "id": 420,
     "article_date": "2/23/2026",
     "school": "Monte Vista High School",
     "school_type": "High School",
@@ -11313,7 +11340,7 @@
     "custody": ""
   },
   {
-    "id": 420,
+    "id": 421,
     "article_date": "2/23/2026",
     "school": "O'Farrell Charter School",
     "school_type": "Charter School",
@@ -11340,7 +11367,7 @@
     "custody": ""
   },
   {
-    "id": 421,
+    "id": 422,
     "article_date": "2/23/2026",
     "school": "Fort Lauderdale High School",
     "school_type": "High School",
@@ -11367,7 +11394,7 @@
     "custody": ""
   },
   {
-    "id": 422,
+    "id": 423,
     "article_date": "2/23/2026",
     "school": "Pittsburgh Morrow School",
     "school_type": "K-8 School",
@@ -11394,7 +11421,7 @@
     "custody": ""
   },
   {
-    "id": 423,
+    "id": 424,
     "article_date": "2/23/2026",
     "school": "University of Florida",
     "school_type": "University/ College",
@@ -11421,7 +11448,7 @@
     "custody": ""
   },
   {
-    "id": 424,
+    "id": 425,
     "article_date": "2/23/2026",
     "school": "Columbia Middle School",
     "school_type": "Middle School",
@@ -11448,7 +11475,7 @@
     "custody": ""
   },
   {
-    "id": 425,
+    "id": 426,
     "article_date": "2/24/2026",
     "school": "Lake Local Schools",
     "school_type": "TBD",
@@ -11475,7 +11502,7 @@
     "custody": ""
   },
   {
-    "id": 426,
+    "id": 427,
     "article_date": "2/24/2026",
     "school": "Zeeland Public Schools",
     "school_type": "TBD",
@@ -11502,7 +11529,7 @@
     "custody": ""
   },
   {
-    "id": 427,
+    "id": 428,
     "article_date": "2/24/2026",
     "school": "Fort Kent Community High School",
     "school_type": "High School",
@@ -11529,7 +11556,7 @@
     "custody": ""
   },
   {
-    "id": 428,
+    "id": 429,
     "article_date": "2/24/2026",
     "school": "Jackson Elementary",
     "school_type": "Elementary",
@@ -11556,7 +11583,7 @@
     "custody": ""
   },
   {
-    "id": 429,
+    "id": 430,
     "article_date": "2/24/2026",
     "school": "Worth County Middle School",
     "school_type": "Middle School",
@@ -11583,7 +11610,7 @@
     "custody": ""
   },
   {
-    "id": 430,
+    "id": 431,
     "article_date": "2/24/2026",
     "school": "Lewis County Schools",
     "school_type": "Elementary",
@@ -11610,7 +11637,7 @@
     "custody": ""
   },
   {
-    "id": 431,
+    "id": 432,
     "article_date": "2/24/2026",
     "school": "Westside High School",
     "school_type": "High School",
@@ -11637,7 +11664,7 @@
     "custody": ""
   },
   {
-    "id": 432,
+    "id": 433,
     "article_date": "2/24/2026",
     "school": "Matanzas High School",
     "school_type": "High School",
@@ -11664,7 +11691,7 @@
     "custody": ""
   },
   {
-    "id": 433,
+    "id": 434,
     "article_date": "2/24/2026",
     "school": "Waterloo Central School District",
     "school_type": "TBD",
@@ -11675,10 +11702,10 @@
     "time": "Not Specified",
     "law_enforcement": "Seneca County Sheriff's Office",
     "threat_type": "Threat",
-    "conveyance": "Online",
+    "conveyance": "Social Media",
     "who_threatened": "School",
-    "incident_details": "Student posted a threat of mass harm towards a school, leading to a brief lockdown",
-    "lockdown_type": "Lockdown",
+    "incident_details": "Student posted a threat of mass harm towards a school, leading to a lockout",
+    "lockdown_type": "Lockout",
     "evacuation": "N/A",
     "precautions": "N/A",
     "weapons": "Unknown",
@@ -11691,7 +11718,7 @@
     "custody": ""
   },
   {
-    "id": 434,
+    "id": 435,
     "article_date": "2/24/2026",
     "school": "Premier High School",
     "school_type": "High School",
@@ -11718,7 +11745,7 @@
     "custody": ""
   },
   {
-    "id": 435,
+    "id": 436,
     "article_date": "2/25/2026",
     "school": "Alisal High School",
     "school_type": "High School",
@@ -11745,7 +11772,7 @@
     "custody": ""
   },
   {
-    "id": 436,
+    "id": 437,
     "article_date": "2/25/2026",
     "school": "Salt Lake Community College",
     "school_type": "University/ College",
@@ -11772,7 +11799,7 @@
     "custody": ""
   },
   {
-    "id": 437,
+    "id": 438,
     "article_date": "2/25/2026",
     "school": "Permain High School",
     "school_type": "High School",
@@ -11799,7 +11826,7 @@
     "custody": ""
   },
   {
-    "id": 438,
+    "id": 439,
     "article_date": "2/25/2026",
     "school": "Hollywood High School",
     "school_type": "High School",
@@ -11826,7 +11853,7 @@
     "custody": ""
   },
   {
-    "id": 439,
+    "id": 440,
     "article_date": "2/25/2026",
     "school": "McEwen High School",
     "school_type": "High School",
@@ -11853,7 +11880,7 @@
     "custody": ""
   },
   {
-    "id": 440,
+    "id": 441,
     "article_date": "2/25/2026",
     "school": "East High School",
     "school_type": "High School",
@@ -11880,7 +11907,7 @@
     "custody": ""
   },
   {
-    "id": 441,
+    "id": 442,
     "article_date": "2/25/2026",
     "school": "Lamesa High School",
     "school_type": "High School",
@@ -11907,7 +11934,7 @@
     "custody": ""
   },
   {
-    "id": 442,
+    "id": 443,
     "article_date": "2/25/2026",
     "school": "East Garner Elementary School",
     "school_type": "Elementary",
@@ -11934,7 +11961,7 @@
     "custody": ""
   },
   {
-    "id": 443,
+    "id": 444,
     "article_date": "2/25/2026",
     "school": "Mesquite High School",
     "school_type": "High School",
@@ -11961,7 +11988,7 @@
     "custody": ""
   },
   {
-    "id": 444,
+    "id": 445,
     "article_date": "2/25/2026",
     "school": "Junction City High School",
     "school_type": "High School",
@@ -11988,7 +12015,7 @@
     "custody": ""
   },
   {
-    "id": 445,
+    "id": 446,
     "article_date": "2/25/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -12015,7 +12042,61 @@
     "custody": ""
   },
   {
-    "id": 446,
+    "id": 447,
+    "article_date": "2/25/2026",
+    "school": "Huntington Local Schools",
+    "school_type": "TBD",
+    "state": "Ohio",
+    "region": "Midwest",
+    "source": "https://abc6onyourside.com/news/local/huntington-local-schools-ross-county-columbus-ohio-threat-classes-continue-police-on-site-not-credible-wednesday-feb-february-25-2026",
+    "offense_date": "2/25/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Ross County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "Someone called 911 stating that there were bombs in the school and that they would give law enforcement one hour",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Visibility",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 448,
+    "article_date": "2/25/2026",
+    "school": "Ada Junior High School",
+    "school_type": "Middle School",
+    "state": "Oklahoma",
+    "region": "South",
+    "source": "https://www.theadanews.com/news/ada-schools-employee-placed-on-leave-over-alleged-threats/article_4ed07aae-1dbc-444b-a061-5c2147daabcd.html",
+    "offense_date": "2/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Chickasaw Lighthorse Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "Student",
+    "incident_details": "A staff member was placed on leave after making threats towards a student",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Staff Member",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 449,
     "article_date": "2/26/2026",
     "school": "Roseville High School",
     "school_type": "High School",
@@ -12042,7 +12123,7 @@
     "custody": ""
   },
   {
-    "id": 447,
+    "id": 450,
     "article_date": "2/26/2026",
     "school": "Pleasant Valley High School",
     "school_type": "High School",
@@ -12069,7 +12150,7 @@
     "custody": ""
   },
   {
-    "id": 448,
+    "id": 451,
     "article_date": "2/26/2026",
     "school": "Saucon Valley School District",
     "school_type": "Multiple Schools",
@@ -12096,7 +12177,7 @@
     "custody": ""
   },
   {
-    "id": 449,
+    "id": 452,
     "article_date": "2/26/2026",
     "school": "Mater Dei Catholic High School",
     "school_type": "Private School",
@@ -12123,7 +12204,7 @@
     "custody": ""
   },
   {
-    "id": 450,
+    "id": 453,
     "article_date": "2/26/2026",
     "school": "Kiona-Benton City School District",
     "school_type": "Middle School",
@@ -12150,7 +12231,7 @@
     "custody": ""
   },
   {
-    "id": 451,
+    "id": 454,
     "article_date": "2/26/2026",
     "school": "River City High School",
     "school_type": "High School",
@@ -12177,7 +12258,7 @@
     "custody": ""
   },
   {
-    "id": 452,
+    "id": 455,
     "article_date": "2/26/2026",
     "school": "Orangefield High School",
     "school_type": "High School",
@@ -12204,7 +12285,7 @@
     "custody": ""
   },
   {
-    "id": 453,
+    "id": 456,
     "article_date": "2/26/2026",
     "school": "Thomas S. Wootton High School",
     "school_type": "High School",
@@ -12231,7 +12312,7 @@
     "custody": ""
   },
   {
-    "id": 454,
+    "id": 457,
     "article_date": "2/26/2026",
     "school": "Jasper County School District",
     "school_type": "TBD",
@@ -12258,7 +12339,7 @@
     "custody": ""
   },
   {
-    "id": 455,
+    "id": 458,
     "article_date": "2/26/2026",
     "school": "Mazama High School",
     "school_type": "High School",
@@ -12285,7 +12366,7 @@
     "custody": ""
   },
   {
-    "id": 456,
+    "id": 459,
     "article_date": "2/26/2026",
     "school": "William Blount High School",
     "school_type": "High School",
@@ -12312,7 +12393,7 @@
     "custody": ""
   },
   {
-    "id": 457,
+    "id": 460,
     "article_date": "2/26/2026",
     "school": "Camden Middle School",
     "school_type": "Middle School",
@@ -12339,7 +12420,34 @@
     "custody": ""
   },
   {
-    "id": 458,
+    "id": 461,
+    "article_date": "2/26/2026",
+    "school": "Millbrook Magnet High School",
+    "school_type": "High School",
+    "state": "North Carolina",
+    "region": "South",
+    "source": "https://abc11.com/post/extra-security-millbrook-magnet-high-school-online-threats-code-red-lockdown/18653602/#",
+    "offense_date": "2/26/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Social Media and Text Messages",
+    "who_threatened": "School",
+    "incident_details": "School implemented extra security measures after the school was threatened through text message and social media.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Extra Security Personnel on Campus for the day",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 462,
     "article_date": "2/27/2026",
     "school": "Spencer-Van Etten School District",
     "school_type": "Middle School",
@@ -12366,7 +12474,7 @@
     "custody": ""
   },
   {
-    "id": 459,
+    "id": 463,
     "article_date": "2/27/2026",
     "school": "Schools in the Kansas City Area",
     "school_type": "TBD",
@@ -12393,7 +12501,7 @@
     "custody": ""
   },
   {
-    "id": 460,
+    "id": 464,
     "article_date": "2/27/2026",
     "school": "Oceanside High School",
     "school_type": "High School",
@@ -12420,7 +12528,7 @@
     "custody": ""
   },
   {
-    "id": 461,
+    "id": 465,
     "article_date": "2/27/2026",
     "school": "Dobson High School",
     "school_type": "High School",
@@ -12447,7 +12555,7 @@
     "custody": ""
   },
   {
-    "id": 462,
+    "id": 466,
     "article_date": "2/27/2026",
     "school": "Willis Education Center",
     "school_type": "TBD",
@@ -12474,7 +12582,7 @@
     "custody": ""
   },
   {
-    "id": 463,
+    "id": 467,
     "article_date": "2/27/2026",
     "school": "Bells ISD",
     "school_type": "TBD",
@@ -12501,7 +12609,7 @@
     "custody": ""
   },
   {
-    "id": 464,
+    "id": 468,
     "article_date": "2/27/2026",
     "school": "Albertville City Schools",
     "school_type": "TBD",
@@ -12528,7 +12636,7 @@
     "custody": ""
   },
   {
-    "id": 465,
+    "id": 469,
     "article_date": "2/27/2026",
     "school": "Lakeside Lutheran High School",
     "school_type": "High School",
@@ -12555,7 +12663,7 @@
     "custody": ""
   },
   {
-    "id": 466,
+    "id": 470,
     "article_date": "2/27/2026",
     "school": "Baconton Community Charter School",
     "school_type": "Charter School",
@@ -12582,7 +12690,7 @@
     "custody": ""
   },
   {
-    "id": 467,
+    "id": 471,
     "article_date": "2/28/2026",
     "school": "Huntington Middle School",
     "school_type": "Middle School",
@@ -12609,7 +12717,7 @@
     "custody": ""
   },
   {
-    "id": 468,
+    "id": 472,
     "article_date": "3/1/2026",
     "school": "MacDonald Middle School",
     "school_type": "Middle School",
@@ -12636,7 +12744,7 @@
     "custody": ""
   },
   {
-    "id": 469,
+    "id": 473,
     "article_date": "3/2/2026",
     "school": "AC/GC High School",
     "school_type": "High School",
@@ -12663,7 +12771,7 @@
     "custody": ""
   },
   {
-    "id": 470,
+    "id": 474,
     "article_date": "3/2/2026",
     "school": "University High School",
     "school_type": "High School",
@@ -12690,7 +12798,7 @@
     "custody": ""
   },
   {
-    "id": 471,
+    "id": 475,
     "article_date": "3/2/2026",
     "school": "Maumelle High School",
     "school_type": "High School",
@@ -12717,7 +12825,7 @@
     "custody": ""
   },
   {
-    "id": 472,
+    "id": 476,
     "article_date": "3/2/2026",
     "school": "School in St. Landry Parish",
     "school_type": "TBD",
@@ -12744,7 +12852,7 @@
     "custody": ""
   },
   {
-    "id": 473,
+    "id": 477,
     "article_date": "3/2/2026",
     "school": "Wadsworth High School",
     "school_type": "High School",
@@ -12771,7 +12879,7 @@
     "custody": ""
   },
   {
-    "id": 474,
+    "id": 478,
     "article_date": "3/2/2026",
     "school": "Germantown Middle School",
     "school_type": "Middle School",
@@ -12798,7 +12906,7 @@
     "custody": ""
   },
   {
-    "id": 475,
+    "id": 479,
     "article_date": "3/2/2026",
     "school": "Hennessey Public Schools",
     "school_type": "TBD",
@@ -12825,7 +12933,7 @@
     "custody": ""
   },
   {
-    "id": 476,
+    "id": 480,
     "article_date": "3/2/2026",
     "school": "Ligon Magnet Middle School",
     "school_type": "Middle School",
@@ -12852,7 +12960,7 @@
     "custody": ""
   },
   {
-    "id": 477,
+    "id": 481,
     "article_date": "3/2/2026",
     "school": "Huntington Local School District",
     "school_type": "TBD",
@@ -12879,7 +12987,7 @@
     "custody": ""
   },
   {
-    "id": 478,
+    "id": 482,
     "article_date": "3/3/2026",
     "school": "Marshall Middle School",
     "school_type": "Middle School",
@@ -12906,7 +13014,7 @@
     "custody": ""
   },
   {
-    "id": 479,
+    "id": 483,
     "article_date": "3/3/2026",
     "school": "Liverpool High School",
     "school_type": "High School",
@@ -12933,7 +13041,7 @@
     "custody": ""
   },
   {
-    "id": 480,
+    "id": 484,
     "article_date": "3/3/2026",
     "school": "West Columbus School",
     "school_type": "TBD",
@@ -12960,7 +13068,7 @@
     "custody": ""
   },
   {
-    "id": 481,
+    "id": 485,
     "article_date": "3/3/2026",
     "school": "Poland Seminary High School",
     "school_type": "High School",
@@ -12987,7 +13095,7 @@
     "custody": ""
   },
   {
-    "id": 482,
+    "id": 486,
     "article_date": "3/3/2026",
     "school": "Trojan Elementary School",
     "school_type": "Elementary",
@@ -13014,7 +13122,7 @@
     "custody": ""
   },
   {
-    "id": 483,
+    "id": 487,
     "article_date": "3/4/2026",
     "school": "Heritage High School",
     "school_type": "High School",
@@ -13041,7 +13149,7 @@
     "custody": ""
   },
   {
-    "id": 484,
+    "id": 488,
     "article_date": "3/4/2026",
     "school": "Dayton Regional STEM School",
     "school_type": "TBD",
@@ -13068,7 +13176,7 @@
     "custody": ""
   },
   {
-    "id": 485,
+    "id": 489,
     "article_date": "3/4/2026",
     "school": "Ottawa Hills Local Schools, Bowling Green Local Schools, and St. Ursula Academy",
     "school_type": "Multiple Schools",
@@ -13095,7 +13203,7 @@
     "custody": ""
   },
   {
-    "id": 486,
+    "id": 490,
     "article_date": "3/4/2026",
     "school": "Lancaster High School",
     "school_type": "High School",
@@ -13122,7 +13230,7 @@
     "custody": ""
   },
   {
-    "id": 487,
+    "id": 491,
     "article_date": "3/4/2026",
     "school": "Metro Early College High School, Columbus Alternative High School, Worthington Kilbourne, Bexley High School, and Lincoln High School",
     "school_type": "Multiple Schools",
@@ -13149,7 +13257,7 @@
     "custody": ""
   },
   {
-    "id": 488,
+    "id": 492,
     "article_date": "3/4/2026",
     "school": "Auburn Career Center",
     "school_type": "Vocational School",
@@ -13176,7 +13284,7 @@
     "custody": ""
   },
   {
-    "id": 489,
+    "id": 493,
     "article_date": "3/4/2026",
     "school": "Rocky River High School",
     "school_type": "High School",
@@ -13203,7 +13311,7 @@
     "custody": ""
   },
   {
-    "id": 490,
+    "id": 494,
     "article_date": "3/4/2026",
     "school": "Walnut Hills High School, Indian Hill High School, Mason High School, Shaker Heights High School, and Eastern Brown High School",
     "school_type": "Multiple Schools",
@@ -13230,7 +13338,7 @@
     "custody": ""
   },
   {
-    "id": 491,
+    "id": 495,
     "article_date": "3/4/2026",
     "school": "Cayuga Community College",
     "school_type": "University/ College",
@@ -13257,7 +13365,7 @@
     "custody": ""
   },
   {
-    "id": 492,
+    "id": 496,
     "article_date": "3/4/2026",
     "school": "Pikeville Elementary School",
     "school_type": "Elementary",
@@ -13284,7 +13392,7 @@
     "custody": ""
   },
   {
-    "id": 493,
+    "id": 497,
     "article_date": "3/4/2026",
     "school": "Schmucker Middle School",
     "school_type": "Middle School",
@@ -13311,7 +13419,7 @@
     "custody": ""
   },
   {
-    "id": 494,
+    "id": 498,
     "article_date": "3/4/2026",
     "school": "Neenah Middle School",
     "school_type": "Middle School",
@@ -13338,7 +13446,7 @@
     "custody": ""
   },
   {
-    "id": 495,
+    "id": 499,
     "article_date": "3/4/2026",
     "school": "Ridge Road Middle School",
     "school_type": "Middle School",
@@ -13365,7 +13473,7 @@
     "custody": ""
   },
   {
-    "id": 496,
+    "id": 500,
     "article_date": "3/4/2026",
     "school": "Franklin Middle School",
     "school_type": "Middle School",
@@ -13392,7 +13500,7 @@
     "custody": ""
   },
   {
-    "id": 497,
+    "id": 501,
     "article_date": "3/4/2026",
     "school": "Fort Vancouver High School",
     "school_type": "High School",
@@ -13419,7 +13527,7 @@
     "custody": ""
   },
   {
-    "id": 498,
+    "id": 502,
     "article_date": "3/5/2026",
     "school": "Cass Jr./Sr. High School",
     "school_type": "TBD",
@@ -13446,7 +13554,7 @@
     "custody": ""
   },
   {
-    "id": 499,
+    "id": 503,
     "article_date": "3/5/2026",
     "school": "Deltona Elementary",
     "school_type": "Elementary",
@@ -13473,7 +13581,7 @@
     "custody": ""
   },
   {
-    "id": 500,
+    "id": 504,
     "article_date": "3/5/2026",
     "school": "Huntington Middle School and Southside Elementary",
     "school_type": "Multiple Schools",
@@ -13500,7 +13608,7 @@
     "custody": ""
   },
   {
-    "id": 501,
+    "id": 505,
     "article_date": "3/5/2026",
     "school": "Frisco Memorial High School",
     "school_type": "High School",
@@ -13527,7 +13635,7 @@
     "custody": ""
   },
   {
-    "id": 502,
+    "id": 506,
     "article_date": "3/5/2026",
     "school": "DeLand Middle School",
     "school_type": "Middle School",
@@ -13554,7 +13662,7 @@
     "custody": ""
   },
   {
-    "id": 503,
+    "id": 507,
     "article_date": "3/5/2026",
     "school": "Kimberly School District",
     "school_type": "TBD",
@@ -13581,7 +13689,7 @@
     "custody": ""
   },
   {
-    "id": 504,
+    "id": 508,
     "article_date": "3/5/2026",
     "school": "Owsley Co. Elementary School",
     "school_type": "Elementary",
@@ -13608,7 +13716,7 @@
     "custody": ""
   },
   {
-    "id": 505,
+    "id": 509,
     "article_date": "3/6/2026",
     "school": "St. Martin North Elementary School",
     "school_type": "Elementary",
@@ -13635,7 +13743,7 @@
     "custody": ""
   },
   {
-    "id": 506,
+    "id": 510,
     "article_date": "3/6/2026",
     "school": "Windsor High School",
     "school_type": "High School",
@@ -13662,7 +13770,7 @@
     "custody": ""
   },
   {
-    "id": 507,
+    "id": 511,
     "article_date": "3/6/2026",
     "school": "Tiverton High School",
     "school_type": "High School",
@@ -13689,7 +13797,7 @@
     "custody": ""
   },
   {
-    "id": 508,
+    "id": 512,
     "article_date": "3/6/2026",
     "school": "Forest Lake Christian High School",
     "school_type": "High School",
@@ -13716,7 +13824,7 @@
     "custody": ""
   },
   {
-    "id": 509,
+    "id": 513,
     "article_date": "3/6/2026",
     "school": "Center High School",
     "school_type": "High School",
@@ -13743,7 +13851,7 @@
     "custody": ""
   },
   {
-    "id": 510,
+    "id": 514,
     "article_date": "3/6/2026",
     "school": "Greenbrier Middle School",
     "school_type": "Middle School",
@@ -13770,7 +13878,7 @@
     "custody": ""
   },
   {
-    "id": 511,
+    "id": 515,
     "article_date": "3/6/2026",
     "school": "Fowler High School",
     "school_type": "High School",
@@ -13797,7 +13905,7 @@
     "custody": ""
   },
   {
-    "id": 512,
+    "id": 516,
     "article_date": "3/6/2026",
     "school": "Chico High School",
     "school_type": "High School",
@@ -13824,7 +13932,7 @@
     "custody": ""
   },
   {
-    "id": 513,
+    "id": 517,
     "article_date": "3/6/2026",
     "school": "Americus-Sumter High School",
     "school_type": "High School",
@@ -13851,7 +13959,7 @@
     "custody": ""
   },
   {
-    "id": 514,
+    "id": 518,
     "article_date": "3/6/2026",
     "school": "Danville High School",
     "school_type": "High School",
@@ -13878,7 +13986,7 @@
     "custody": ""
   },
   {
-    "id": 515,
+    "id": 519,
     "article_date": "3/6/2026",
     "school": "Dominician High School",
     "school_type": "All Girls High School",
@@ -13905,7 +14013,7 @@
     "custody": ""
   },
   {
-    "id": 516,
+    "id": 520,
     "article_date": "3/6/2026",
     "school": "Golden Isles Elementary",
     "school_type": "Elementary",
@@ -13932,7 +14040,7 @@
     "custody": ""
   },
   {
-    "id": 517,
+    "id": 521,
     "article_date": "3/6/2026",
     "school": "DeSoto High School",
     "school_type": "High School",
@@ -13959,7 +14067,7 @@
     "custody": ""
   },
   {
-    "id": 518,
+    "id": 522,
     "article_date": "3/7/2026",
     "school": "Silver Sands Middle School",
     "school_type": "Middle School",
@@ -13986,7 +14094,7 @@
     "custody": ""
   },
   {
-    "id": 519,
+    "id": 523,
     "article_date": "3/7/2026",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -14013,7 +14121,7 @@
     "custody": ""
   },
   {
-    "id": 520,
+    "id": 524,
     "article_date": "3/7/2026",
     "school": "Morgan County High School",
     "school_type": "High School",
@@ -14040,7 +14148,7 @@
     "custody": ""
   },
   {
-    "id": 521,
+    "id": 525,
     "article_date": "3/8/2026",
     "school": "Deweyville High School",
     "school_type": "High School",
@@ -14067,7 +14175,7 @@
     "custody": ""
   },
   {
-    "id": 522,
+    "id": 526,
     "article_date": "3/9/2026",
     "school": "School in McFarland, California",
     "school_type": "TBD",
@@ -14094,7 +14202,7 @@
     "custody": ""
   },
   {
-    "id": 523,
+    "id": 527,
     "article_date": "3/9/2026",
     "school": "Eagle Ridge Middle School",
     "school_type": "Middle School",
@@ -14121,7 +14229,7 @@
     "custody": ""
   },
   {
-    "id": 524,
+    "id": 528,
     "article_date": "3/9/2026",
     "school": "Sand Ridge Elementary School",
     "school_type": "Elementary",
@@ -14148,7 +14256,7 @@
     "custody": ""
   },
   {
-    "id": 525,
+    "id": 529,
     "article_date": "3/9/2026",
     "school": "West Columbus High School",
     "school_type": "High School",
@@ -14175,7 +14283,7 @@
     "custody": ""
   },
   {
-    "id": 526,
+    "id": 530,
     "article_date": "3/9/2026",
     "school": "Matawan-Aberdeen School District",
     "school_type": "TBD",
@@ -14202,7 +14310,7 @@
     "custody": ""
   },
   {
-    "id": 527,
+    "id": 531,
     "article_date": "3/9/2026",
     "school": "Swansboro Middle School",
     "school_type": "Middle School",
@@ -14229,7 +14337,7 @@
     "custody": ""
   },
   {
-    "id": 528,
+    "id": 532,
     "article_date": "3/9/2026",
     "school": "Massapequa High School",
     "school_type": "High School",
@@ -14256,7 +14364,7 @@
     "custody": ""
   },
   {
-    "id": 529,
+    "id": 533,
     "article_date": "3/9/2026",
     "school": "East Clovis High School and Reyburn Middle School",
     "school_type": "Multiple Schools",
@@ -14283,7 +14391,7 @@
     "custody": ""
   },
   {
-    "id": 530,
+    "id": 534,
     "article_date": "3/9/2026",
     "school": "Montclair High School",
     "school_type": "High School",
@@ -14310,7 +14418,7 @@
     "custody": ""
   },
   {
-    "id": 531,
+    "id": 535,
     "article_date": "3/9/2026",
     "school": "Saul Martinez Elementary School",
     "school_type": "Elementary",
@@ -14337,7 +14445,7 @@
     "custody": ""
   },
   {
-    "id": 532,
+    "id": 536,
     "article_date": "3/10/2026",
     "school": "Tohopekaliga High School",
     "school_type": "High School",
@@ -14364,7 +14472,7 @@
     "custody": ""
   },
   {
-    "id": 533,
+    "id": 537,
     "article_date": "3/10/2026",
     "school": "Hicksville High School",
     "school_type": "High School",
@@ -14391,7 +14499,7 @@
     "custody": ""
   },
   {
-    "id": 534,
+    "id": 538,
     "article_date": "3/10/2026",
     "school": "Boaz Middle School",
     "school_type": "Middle School",
@@ -14418,7 +14526,7 @@
     "custody": ""
   },
   {
-    "id": 535,
+    "id": 539,
     "article_date": "3/10/2026",
     "school": "Salt Fork High School",
     "school_type": "High School",
@@ -14445,7 +14553,7 @@
     "custody": ""
   },
   {
-    "id": 536,
+    "id": 540,
     "article_date": "3/10/2026",
     "school": "Snider High School and Northside High School",
     "school_type": "Multiple Schools",
@@ -14472,7 +14580,7 @@
     "custody": ""
   },
   {
-    "id": 537,
+    "id": 541,
     "article_date": "3/10/2026",
     "school": "Pleasant Hope High School",
     "school_type": "High School",
@@ -14499,7 +14607,7 @@
     "custody": ""
   },
   {
-    "id": 538,
+    "id": 542,
     "article_date": "3/10/2026",
     "school": "Dixon High School",
     "school_type": "High School",
@@ -14526,7 +14634,7 @@
     "custody": ""
   },
   {
-    "id": 539,
+    "id": 543,
     "article_date": "3/10/2026",
     "school": "Whitney High School",
     "school_type": "High School",
@@ -14553,7 +14661,7 @@
     "custody": ""
   },
   {
-    "id": 540,
+    "id": 544,
     "article_date": "3/10/2026",
     "school": "Lowell High School",
     "school_type": "High School",
@@ -14580,7 +14688,7 @@
     "custody": ""
   },
   {
-    "id": 541,
+    "id": 545,
     "article_date": "3/10/2026",
     "school": "Millington Central High School",
     "school_type": "High School",
@@ -14607,7 +14715,7 @@
     "custody": ""
   },
   {
-    "id": 542,
+    "id": 546,
     "article_date": "3/10/2026",
     "school": "Gunnison High School",
     "school_type": "High School",
@@ -14634,7 +14742,7 @@
     "custody": ""
   },
   {
-    "id": 543,
+    "id": 547,
     "article_date": "3/10/2026",
     "school": "Harlem Middle School",
     "school_type": "Middle School",
@@ -14661,7 +14769,7 @@
     "custody": ""
   },
   {
-    "id": 544,
+    "id": 548,
     "article_date": "3/11/2026",
     "school": "Trousdale County High School",
     "school_type": "High School",
@@ -14688,7 +14796,7 @@
     "custody": ""
   },
   {
-    "id": 545,
+    "id": 549,
     "article_date": "3/11/2026",
     "school": "Parkersburg South High School",
     "school_type": "High School",
@@ -14715,7 +14823,7 @@
     "custody": ""
   },
   {
-    "id": 546,
+    "id": 550,
     "article_date": "3/11/2026",
     "school": "Liberty Middle School",
     "school_type": "Middle School",
@@ -14742,7 +14850,7 @@
     "custody": ""
   },
   {
-    "id": 547,
+    "id": 551,
     "article_date": "3/11/2026",
     "school": "Addison Trail High School",
     "school_type": "High School",
@@ -14769,7 +14877,7 @@
     "custody": ""
   },
   {
-    "id": 548,
+    "id": 552,
     "article_date": "3/11/2026",
     "school": "Decherd Elementary School",
     "school_type": "Elementary",
@@ -14796,7 +14904,7 @@
     "custody": ""
   },
   {
-    "id": 549,
+    "id": 553,
     "article_date": "3/11/2026",
     "school": "Raa Middle School",
     "school_type": "Middle School",
@@ -14823,7 +14931,7 @@
     "custody": ""
   },
   {
-    "id": 550,
+    "id": 554,
     "article_date": "3/11/2026",
     "school": "Adams City High School",
     "school_type": "High School",
@@ -14850,7 +14958,7 @@
     "custody": ""
   },
   {
-    "id": 551,
+    "id": 555,
     "article_date": "3/11/2026",
     "school": "North Ridge Middle School",
     "school_type": "Middle School",
@@ -14877,7 +14985,7 @@
     "custody": ""
   },
   {
-    "id": 552,
+    "id": 556,
     "article_date": "3/11/2026",
     "school": "Abbeville High School",
     "school_type": "High School",
@@ -14904,7 +15012,7 @@
     "custody": ""
   },
   {
-    "id": 553,
+    "id": 557,
     "article_date": "3/12/2026",
     "school": "Red Boiling Spring Schools",
     "school_type": "TBD",
@@ -14931,7 +15039,7 @@
     "custody": ""
   },
   {
-    "id": 554,
+    "id": 558,
     "article_date": "3/12/2026",
     "school": "Dover Area Middle School",
     "school_type": "Middle School",
@@ -14958,7 +15066,7 @@
     "custody": ""
   },
   {
-    "id": 555,
+    "id": 559,
     "article_date": "3/12/2026",
     "school": "E.E. Smith High School",
     "school_type": "High School",
@@ -14985,7 +15093,7 @@
     "custody": ""
   },
   {
-    "id": 556,
+    "id": 560,
     "article_date": "3/12/2026",
     "school": "Harlem Middle School",
     "school_type": "Middle School",
@@ -15012,7 +15120,7 @@
     "custody": ""
   },
   {
-    "id": 557,
+    "id": 561,
     "article_date": "3/12/2026",
     "school": "New Heights Middle School",
     "school_type": "Middle School",
@@ -15039,7 +15147,7 @@
     "custody": ""
   },
   {
-    "id": 558,
+    "id": 562,
     "article_date": "3/12/2026",
     "school": "McFarland Junior High School",
     "school_type": "Middle School",
@@ -15066,7 +15174,7 @@
     "custody": ""
   },
   {
-    "id": 559,
+    "id": 563,
     "article_date": "3/12/2026",
     "school": "Bishop Luers High School and Smith Academy for Excellence",
     "school_type": "Multiple Schools",
@@ -15093,7 +15201,7 @@
     "custody": ""
   },
   {
-    "id": 560,
+    "id": 564,
     "article_date": "3/12/2026",
     "school": "Millington Central Middle High School",
     "school_type": "TBD",
@@ -15120,7 +15228,7 @@
     "custody": ""
   },
   {
-    "id": 561,
+    "id": 565,
     "article_date": "3/12/2026",
     "school": "McCann Technical School",
     "school_type": "Vocational School",
@@ -15147,7 +15255,7 @@
     "custody": ""
   },
   {
-    "id": 562,
+    "id": 566,
     "article_date": "3/12/2026",
     "school": "Callahan Middle School",
     "school_type": "Middle School",
@@ -15174,7 +15282,7 @@
     "custody": ""
   },
   {
-    "id": 563,
+    "id": 567,
     "article_date": "3/12/2026",
     "school": "Red Wing High School",
     "school_type": "High School",
@@ -15201,7 +15309,7 @@
     "custody": ""
   },
   {
-    "id": 564,
+    "id": 568,
     "article_date": "3/12/2026",
     "school": "River City High School",
     "school_type": "High School",
@@ -15228,7 +15336,7 @@
     "custody": ""
   },
   {
-    "id": 565,
+    "id": 569,
     "article_date": "3/12/2026",
     "school": "Wendell Krinn Technical High School, Marchman Technical College, and Cypress Elementary School",
     "school_type": "Multiple Schools",
@@ -15255,7 +15363,7 @@
     "custody": ""
   },
   {
-    "id": 566,
+    "id": 570,
     "article_date": "3/12/2026",
     "school": "Lake Butler Middle School",
     "school_type": "Middle School",
@@ -15282,7 +15390,7 @@
     "custody": ""
   },
   {
-    "id": 567,
+    "id": 571,
     "article_date": "3/13/2026",
     "school": "Red Springs Middle School",
     "school_type": "Middle School",
@@ -15309,7 +15417,7 @@
     "custody": ""
   },
   {
-    "id": 568,
+    "id": 572,
     "article_date": "3/13/2026",
     "school": "University of Virginia, George Mason University, and Bridgewater College",
     "school_type": "Multiple Schools",
@@ -15336,7 +15444,7 @@
     "custody": ""
   },
   {
-    "id": 569,
+    "id": 573,
     "article_date": "3/13/2026",
     "school": "DeLand High School",
     "school_type": "High School",
@@ -15363,7 +15471,7 @@
     "custody": ""
   },
   {
-    "id": 570,
+    "id": 574,
     "article_date": "3/13/2026",
     "school": "Huntington East Middle School",
     "school_type": "Middle School",
@@ -15390,7 +15498,7 @@
     "custody": ""
   },
   {
-    "id": 571,
+    "id": 575,
     "article_date": "3/13/2026",
     "school": "Tri-Valley Middle School",
     "school_type": "Middle School",
@@ -15417,7 +15525,7 @@
     "custody": ""
   },
   {
-    "id": 572,
+    "id": 576,
     "article_date": "3/13/2026",
     "school": "Fredericksburg Middle School",
     "school_type": "Middle School",
@@ -15444,7 +15552,7 @@
     "custody": ""
   },
   {
-    "id": 573,
+    "id": 577,
     "article_date": "3/13/2026",
     "school": "Chesterbrook Academy Preschool",
     "school_type": "Private School",
@@ -15471,7 +15579,7 @@
     "custody": ""
   },
   {
-    "id": 574,
+    "id": 578,
     "article_date": "3/13/2026",
     "school": "Ridgeview Charter Middle School",
     "school_type": "Middle School",
@@ -15498,7 +15606,7 @@
     "custody": ""
   },
   {
-    "id": 575,
+    "id": 579,
     "article_date": "3/13/2026",
     "school": "Yorkshire-Pioneer Central School District",
     "school_type": "TBD",
@@ -15525,7 +15633,7 @@
     "custody": ""
   },
   {
-    "id": 576,
+    "id": 580,
     "article_date": "3/13/2026",
     "school": "North Middle School",
     "school_type": "Middle School",
@@ -15552,7 +15660,7 @@
     "custody": ""
   },
   {
-    "id": 577,
+    "id": 581,
     "article_date": "3/13/2026",
     "school": "Los Angeles High School",
     "school_type": "High School",
@@ -15579,7 +15687,7 @@
     "custody": ""
   },
   {
-    "id": 578,
+    "id": 582,
     "article_date": "3/13/2026",
     "school": "Lane Tech College Prep",
     "school_type": "High School",
@@ -15606,7 +15714,7 @@
     "custody": ""
   },
   {
-    "id": 579,
+    "id": 583,
     "article_date": "3/13/2026",
     "school": "Firelands Middle School",
     "school_type": "Middle School",
@@ -15633,7 +15741,7 @@
     "custody": ""
   },
   {
-    "id": 580,
+    "id": 584,
     "article_date": "3/13/2026",
     "school": "Glen Rock High School",
     "school_type": "High School",
@@ -15660,7 +15768,7 @@
     "custody": ""
   },
   {
-    "id": 581,
+    "id": 585,
     "article_date": "3/13/2026",
     "school": "West Deptford High School",
     "school_type": "High School",
@@ -15687,7 +15795,7 @@
     "custody": ""
   },
   {
-    "id": 582,
+    "id": 586,
     "article_date": "3/13/2026",
     "school": "San Jose State University",
     "school_type": "University/ College",
@@ -15714,7 +15822,7 @@
     "custody": ""
   },
   {
-    "id": 583,
+    "id": 587,
     "article_date": "3/14/2026",
     "school": "Lake Highlands High School",
     "school_type": "High School",
@@ -15741,7 +15849,7 @@
     "custody": ""
   },
   {
-    "id": 584,
+    "id": 588,
     "article_date": "3/15/2026",
     "school": "North Elementary",
     "school_type": "Elementary",
@@ -15768,7 +15876,7 @@
     "custody": ""
   },
   {
-    "id": 585,
+    "id": 589,
     "article_date": "3/16/2026",
     "school": "Southside Elementary",
     "school_type": "Elementary",
@@ -15795,7 +15903,7 @@
     "custody": ""
   },
   {
-    "id": 586,
+    "id": 590,
     "article_date": "3/16/2026",
     "school": "Northwest High School",
     "school_type": "High School",
@@ -15822,7 +15930,7 @@
     "custody": ""
   },
   {
-    "id": 587,
+    "id": 591,
     "article_date": "3/16/2026",
     "school": "Firelands Middle School",
     "school_type": "TBD",
@@ -15849,7 +15957,7 @@
     "custody": ""
   },
   {
-    "id": 588,
+    "id": 592,
     "article_date": "3/16/2026",
     "school": "Coleman Elementary School",
     "school_type": "Elementary",
@@ -15876,7 +15984,7 @@
     "custody": ""
   },
   {
-    "id": 589,
+    "id": 593,
     "article_date": "3/16/2026",
     "school": "Gateway Christian School",
     "school_type": "Private School",
@@ -15903,7 +16011,7 @@
     "custody": ""
   },
   {
-    "id": 590,
+    "id": 594,
     "article_date": "3/16/2026",
     "school": "Del Norte High School, Zoe Barnum High School, Eureka High School, and College of the Redwoods",
     "school_type": "Multiple Schools",
@@ -15930,7 +16038,7 @@
     "custody": ""
   },
   {
-    "id": 591,
+    "id": 595,
     "article_date": "3/16/2026",
     "school": "Crest High School",
     "school_type": "High School",
@@ -15957,7 +16065,7 @@
     "custody": ""
   },
   {
-    "id": 592,
+    "id": 596,
     "article_date": "3/16/2026",
     "school": "Colonie Central High School",
     "school_type": "High School",
@@ -15984,7 +16092,7 @@
     "custody": ""
   },
   {
-    "id": 593,
+    "id": 597,
     "article_date": "3/16/2026",
     "school": "Rio Rico High School",
     "school_type": "High School",
@@ -16011,7 +16119,7 @@
     "custody": ""
   },
   {
-    "id": 594,
+    "id": 598,
     "article_date": "3/17/2026",
     "school": "Westlake High School",
     "school_type": "High School",
@@ -16038,7 +16146,7 @@
     "custody": ""
   },
   {
-    "id": 595,
+    "id": 599,
     "article_date": "3/17/2026",
     "school": "Summits Lake Middle School",
     "school_type": "Middle School",
@@ -16065,7 +16173,7 @@
     "custody": ""
   },
   {
-    "id": 596,
+    "id": 600,
     "article_date": "3/17/2026",
     "school": "Academy for Discovery",
     "school_type": "TBD",
@@ -16092,7 +16200,7 @@
     "custody": ""
   },
   {
-    "id": 597,
+    "id": 601,
     "article_date": "3/17/2026",
     "school": "Wolf Point School System",
     "school_type": "TBD",
@@ -16119,7 +16227,7 @@
     "custody": ""
   },
   {
-    "id": 598,
+    "id": 602,
     "article_date": "3/17/2026",
     "school": "Rosemount-Apple Valley-Eagan School District 196",
     "school_type": "Multiple Schools",
@@ -16146,7 +16254,7 @@
     "custody": ""
   },
   {
-    "id": 599,
+    "id": 603,
     "article_date": "3/17/2026",
     "school": "Santa Monica High School",
     "school_type": "High School",
@@ -16173,7 +16281,7 @@
     "custody": ""
   },
   {
-    "id": 600,
+    "id": 604,
     "article_date": "3/17/2026",
     "school": "Oxbow High School",
     "school_type": "High School",
@@ -16200,7 +16308,7 @@
     "custody": ""
   },
   {
-    "id": 601,
+    "id": 605,
     "article_date": "3/17/2026",
     "school": "North Carolina School of Science and Mathematics",
     "school_type": "TBD",
@@ -16227,7 +16335,7 @@
     "custody": ""
   },
   {
-    "id": 602,
+    "id": 606,
     "article_date": "3/17/2026",
     "school": "McClure Middle School and Greenwood Elementary",
     "school_type": "Multiple Schools",
@@ -16254,7 +16362,34 @@
     "custody": ""
   },
   {
-    "id": 603,
+    "id": 607,
+    "article_date": "3/17/2026",
+    "school": "Sacajeawea Elementary",
+    "school_type": "Elementary",
+    "state": "Montana",
+    "region": "West",
+    "source": "https://billingsmix.com/ixp/1152/p/montana-school-threat-parent-arrested/",
+    "offense_date": "3/17/2026",
+    "time": "Morning",
+    "law_enforcement": "Great Falls Police Department",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "Staff and Students",
+    "incident_details": "School went into shelter in place after a parent threatened staff and students. Suspect made a video where he said, \"...in the meantime, let's see if I don't completely snap and f***ing shoot the principal, the teachers, and the students. I don't give a f**k.\"",
+    "lockdown_type": "Shelter in Place",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "Parent",
+    "charges": "Intimidation",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 608,
     "article_date": "3/18/2026",
     "school": "Herkimer Central School District",
     "school_type": "TBD",
@@ -16281,7 +16416,7 @@
     "custody": ""
   },
   {
-    "id": 604,
+    "id": 609,
     "article_date": "3/18/2026",
     "school": "Morgan Middle School",
     "school_type": "Middle School",
@@ -16294,23 +16429,23 @@
     "threat_type": "Threat",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
-    "incident_details": "Law Enforcement investigated a threat directed at the middle school, resulting in students being kept inside.",
+    "incident_details": "Law Enforcement investigated a threat directed at the middle school, resulting in students being kept inside. Two female students had been planning a school shooting but had not carried it out partly because the students did not have access to firearms.",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "Increased Law Enforcement Presence",
     "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Unknown",
-    "charges": "Unknown",
+    "gender": "Two Females",
+    "charged": "Two Eighth Grade Students",
+    "charges": "Conspiracy to Commit Murder",
     "bond": "N/A",
     "additional_sources": "",
     "classes_cancelled": "",
     "custody": ""
   },
   {
-    "id": 605,
+    "id": 610,
     "article_date": "3/18/2026",
-    "school": "Shelby High School and Crest High School",
+    "school": "Shelby High School, Shelby Middle School and Crest High School",
     "school_type": "Multiple Schools",
     "state": "North Carolina",
     "region": "South",
@@ -16335,7 +16470,7 @@
     "custody": ""
   },
   {
-    "id": 606,
+    "id": 611,
     "article_date": "3/18/2026",
     "school": "Pickens Junior High School",
     "school_type": "Middle School",
@@ -16362,7 +16497,7 @@
     "custody": ""
   },
   {
-    "id": 607,
+    "id": 612,
     "article_date": "3/18/2026",
     "school": "North Middle School",
     "school_type": "Middle School",
@@ -16389,7 +16524,7 @@
     "custody": ""
   },
   {
-    "id": 608,
+    "id": 613,
     "article_date": "3/18/2026",
     "school": "Scottsboro Junior High School",
     "school_type": "Middle School",
@@ -16416,7 +16551,7 @@
     "custody": ""
   },
   {
-    "id": 609,
+    "id": 614,
     "article_date": "3/18/2026",
     "school": "Donovan Middle School",
     "school_type": "Middle School",
@@ -16435,7 +16570,7 @@
     "precautions": "Heightened Security for the Rest of the Week",
     "weapons": "Unknown",
     "gender": "Unknown",
-    "charged": "People",
+    "charged": "Individuals",
     "charges": "Unknown",
     "bond": "N/A",
     "additional_sources": "",
@@ -16443,7 +16578,7 @@
     "custody": ""
   },
   {
-    "id": 610,
+    "id": 615,
     "article_date": "3/18/2026",
     "school": "LaRue County Schools",
     "school_type": "TBD",
@@ -16470,7 +16605,7 @@
     "custody": ""
   },
   {
-    "id": 611,
+    "id": 616,
     "article_date": "3/18/2026",
     "school": "Shoshone School District",
     "school_type": "TBD",
@@ -16491,6 +16626,330 @@
     "gender": "Unknown",
     "charged": "Unknown",
     "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 617,
+    "article_date": "3/18/2026",
+    "school": "South St. Paul Secondary School",
+    "school_type": "TBD",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://www.mprnews.org/story/2026/03/18/south-st-paul-schools-online-learning-authorities-investigate-potential-threat-violence",
+    "offense_date": "3/18/2026",
+    "time": "Morning",
+    "law_enforcement": "South St. Paul Police Department",
+    "threat_type": "Shooting",
+    "conveyance": "Verbal",
+    "who_threatened": "School",
+    "incident_details": "Prior to law enforcement's arrival to a call, the suspect made a specific threat of violence against South St. Paul public schools and fled the scene. Suspect allegedly told a female, who has a protection order against him, that he was going to, \"shoot the (expletive)\" out of her son's school.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "28 year old",
+    "charges": "Threats of Violence and Violating a Domestic Abuse Order for Protection",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 618,
+    "article_date": "3/18/2026",
+    "school": "Rosemary Middle School",
+    "school_type": "Middle School",
+    "state": "South Carolina",
+    "region": "South",
+    "source": "https://www.wmbfnews.com/2026/03/18/deputies-georgetown-county-student-makes-school-shooting-threat-kill-list/#",
+    "offense_date": "3/19/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Georgetown County Sheriff's Office",
+    "threat_type": "Shooting",
+    "conveyance": "Social Media",
+    "who_threatened": "School and Students",
+    "incident_details": "Student made a threat to shoot up the school on social media and compiled a \"kill list.\"",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "No",
+    "gender": "Unknown",
+    "charged": "12 year old",
+    "charges": "Student Threats",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 619,
+    "article_date": "3/19/2026",
+    "school": "Canyon View High School, Verrado High School, Festival Foothills Elementary, Verrado Elementary, and Verrado Middle School",
+    "school_type": "Multiple Schools",
+    "state": "Arizona",
+    "region": "West",
+    "source": "https://www.abc15.com/news/region-west-valley/buckeye/canyon-view-high-school-evacuated-after-reported-threat-buckeye-police-say",
+    "offense_date": "3/19/2026",
+    "time": "8:00 a.m.",
+    "law_enforcement": "Buckeye Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Multiple schools received a bomb threat in the city of Buckeye",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "https://www.kjzz.org/education/2026-03-19/classes-canceled-at-2-buckeye-high-schools-due-to-bomb-threats",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 620,
+    "article_date": "3/19/2026",
+    "school": "West Deptford High School and Deptford High School",
+    "school_type": "Multiple Schools",
+    "state": "New Jersey",
+    "region": "Northeast",
+    "source": "https://6abc.com/amp/post/students-staff-kept-deptford-high-school-threat/18735454/",
+    "offense_date": "3/19/2026",
+    "time": "7:30 a.m. and 7:40 a.m.",
+    "law_enforcement": "West Deptford Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Two New Jersey High Schools received bomb threats.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 621,
+    "article_date": "3/19/2026",
+    "school": "Upper Moreland Middle School",
+    "school_type": "Middle School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://glensidelocal.com/upper-moreland-middle-school-receives-online-threat-involving-a-weapon-deemed-not-credible-by-police/",
+    "offense_date": "3/17/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Upper Moreland Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "Student on social media threatened to bring a weapon to school",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 622,
+    "article_date": "3/19/2026",
+    "school": "Willowbrook High School",
+    "school_type": "High School",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://rollingout.com/2026/03/19/willowbrook-high-school-bomb-threat/",
+    "offense_date": "3/19/2026",
+    "time": "9:10 a.m.",
+    "law_enforcement": "Villa Park Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School received a bomb threat, leading to an evacuation and eventually an early dismissal",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 623,
+    "article_date": "3/19/2026",
+    "school": "Dr. Lewis S. Libby School and Old Town Middle School",
+    "school_type": "Multiple Schools",
+    "state": "Maine",
+    "region": "Northeast",
+    "source": "https://www.bangordailynews.com/2026/03/19/bangor/bangor-police-courts/milford-maine-dr-lewis-s-libby-school-bomb-threat/",
+    "offense_date": "3/19/2026",
+    "time": "Morning",
+    "law_enforcement": "Penobscot County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "Two Schools received a bomb threat via phone call, leading to evacuations",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 624,
+    "article_date": "3/19/2026",
+    "school": "Moberly Schools",
+    "school_type": "TBD",
+    "state": "Missouri",
+    "region": "Midwest",
+    "source": "https://www.komu.com/news/midmissourinews/false-threat-causes-lockdown-at-moberly-schools-district-says/article_1e890812-2d95-44ca-8e21-8580e9a8899d.html",
+    "offense_date": "3/19/2026",
+    "time": "Afternoon",
+    "law_enforcement": "Moberly Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "Schools",
+    "incident_details": "Swatting Calls to law enforcement lead to 8 schools going on lockdowns.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 625,
+    "article_date": "3/19/2026",
+    "school": "Otay Ranch High School, Eastlake High School, and Eastlake Elementary School",
+    "school_type": "Multiple Schools",
+    "state": "California",
+    "region": "West",
+    "source": "https://timesofsandiego.com/education/2026/03/19/bomb-threats-against-schools-not-credible-says-chula-vista-pd/",
+    "offense_date": "3/19/2026",
+    "time": "9:00 a.m.",
+    "law_enforcement": "Chula Vista Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "Schools",
+    "incident_details": "Schools received voicemails overnight where bomb threats were made.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 626,
+    "article_date": "3/19/2026",
+    "school": "Jena High School",
+    "school_type": "High School",
+    "state": "Louisiana",
+    "region": "South",
+    "source": "https://www.kalb.com/2026/03/19/jena-high-school-soft-lockdown-caused-by-students-verbal-threat/#",
+    "offense_date": "3/19/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "School",
+    "incident_details": "School went on a soft lockdown after a student made a verbal threat",
+    "lockdown_type": "Soft Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "No",
+    "gender": "Unknown",
+    "charged": "Student",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 627,
+    "article_date": "3/19/2026",
+    "school": "Warroad Public Schools",
+    "school_type": "TBD",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "source": "https://www.wdayradionow.com/news/local-news/no-credible-threat-weapons-found-in-warroad-schools-after-9-1-1-call-voicing-potential-threats/",
+    "offense_date": "3/19/2026",
+    "time": "Morning",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after a 911 call included a threat of potential violence",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 628,
+    "article_date": "3/19/2026",
+    "school": "Northwest High School",
+    "school_type": "High School",
+    "state": "Louisiana",
+    "region": "South",
+    "source": "https://www.kadn.com/news/crime/opelousas-teen-accused-of-reporting-5-fake-bomb-threats-at-local-high-school/article_b697153c-235e-4f63-8198-1dbdb0f4ab6d.html",
+    "offense_date": "1/16/2026",
+    "time": "Not Specified",
+    "law_enforcement": "St. Landry Parish Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Suspect was arrested for making multiple bomb threats to the same school since January of this year. Suspect was a person of interest in a threats case in 2023.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "18 year old",
+    "charges": "Five Counts of Terrorizing and Five Counts of Communicating of False Information of Planned Bombing on School Property",
     "bond": "N/A",
     "additional_sources": "",
     "classes_cancelled": "",
