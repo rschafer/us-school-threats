@@ -19195,5 +19195,32 @@
     "additional_sources": "",
     "custody": "",
     "classes_cancelled": ""
+  },
+  {
+    "id": 712,
+    "article_date": "3/31/2026",
+    "school": "Edcouch-Elsa High School",
+    "school_type": "High School",
+    "state": "Texas",
+    "region": "South",
+    "source": "https://www.krgv.com/news/female-student-confesses-to-making-threat-at-edcouch-elsa-high-school-police-say",
+    "offense_date": "3/30/2026",
+    "time": "10:57 a.m.",
+    "law_enforcement": "Elsa Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "Student made a social media post about a student with a gun on campus and additional threatening posts.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "17 year old",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
   }
 ]
