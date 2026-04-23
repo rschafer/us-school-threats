@@ -15,6 +15,7 @@
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 <style>
   :root {
     --bg-primary: #0f1117;
@@ -280,6 +281,12 @@
     <div class="card chart-wrap"><div class="card-title">Top 10 States</div><canvas id="chart-states"></canvas></div>
     <div class="card chart-wrap"><div class="card-title">Threat Type Breakdown</div><canvas id="chart-types"></canvas></div>
   </div>
+  <div style="display:grid;grid-template-columns:1fr;gap:20px;margin-top:20px;">
+    <div class="card chart-wrap" style="overflow:hidden">
+      <div class="card-title" id="chart-age-title">Age of Suspect Who Made School Threat</div>
+      <canvas id="chart-age" style="max-height:260px"></canvas>
+    </div>
+  </div>
 
   <!-- Filters -->
   <div class="filters-bar" id="filters-bar">
@@ -368,7 +375,7 @@ let data2025 = [], data2026 = [];
 let currentYear = '2026';
 const PAGE_SIZE = 20;
 let selectedState = null;
-let chartRegion, chartStates, chartTypes;
+let chartRegion, chartStates, chartTypes, chartAge;
 
 // 2024 US Census population estimates (millions)
 const STATE_POP = {
@@ -727,6 +734,29 @@ function createCharts() {
     type: 'doughnut', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
     options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { color: '#ffffff', padding: 14, font: { size: 11 }, generateLabels: (chart) => pctLegendLabels(chart) } } } }
   });
+  chartAge = new Chart(document.getElementById('chart-age'), {
+    type: 'bar',
+    plugins: [ChartDataLabels],
+    data: { labels: [], datasets: [{ data: [], backgroundColor: '#4f8ff7', borderRadius: 3, maxBarThickness: 22 }] },
+    options: {
+      responsive: true,
+      layout: { padding: { top: 18 } },
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: (ctx) => `Count: ${ctx.raw}` } },
+        datalabels: {
+          anchor: 'end', align: 'top',
+          color: '#9ca3af',
+          font: { size: 9 },
+          formatter: (v) => v > 0 ? v : null
+        }
+      },
+      scales: {
+        x: { grid: { color: '#2a2e3f' }, ticks: { color: '#9ca3af', font: { size: 10 } }, title: { display: true, text: 'Age', color: '#9ca3af', font: { size: 12 } } },
+        y: { grid: { color: '#2a2e3f' }, ticks: { color: '#9ca3af' }, title: { display: true, text: 'Frequency', color: '#9ca3af', font: { size: 12 } } }
+      }
+    }
+  });
 }
 
 function pctLegendLabels(chart) {
@@ -766,6 +796,35 @@ function updateCharts() {
   chartTypes.data.labels = tEntries.map(e=>e[0]);
   chartTypes.data.datasets[0].data = tEntries.map(e=>e[1]);
   chartTypes.update();
+
+  // Age distribution — extracted from "charged" and "incident_details" fields
+  const ageRe = /\b(\d{1,2})[\s\-]year[\s\-]old\b/i;
+  const ageCounts = {};
+  let ageTotal = 0;
+  filteredData.forEach(d => {
+    const src = (d.charged || '') + ' ' + (d.incident_details || '');
+    const m = src.match(ageRe);
+    if (m) {
+      const age = parseInt(m[1]);
+      if (age >= 5 && age <= 100) {
+        ageCounts[age] = (ageCounts[age] || 0) + 1;
+        ageTotal++;
+      }
+    }
+  });
+  const ages = Object.keys(ageCounts).map(Number).sort((a, b) => a - b);
+  const ageLabels = [], ageData = [];
+  if (ages.length) {
+    for (let a = ages[0]; a <= ages[ages.length - 1]; a++) {
+      ageLabels.push(a);
+      ageData.push(ageCounts[a] || 0);
+    }
+  }
+  chartAge.data.labels = ageLabels;
+  chartAge.data.datasets[0].data = ageData;
+  document.getElementById('chart-age-title').textContent =
+    `Age of Suspect Who Made School Threat (n = ${ageTotal})`;
+  chartAge.update();
 }
 
 /* ---- TABLE ---- */
