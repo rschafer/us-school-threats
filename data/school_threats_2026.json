@@ -21196,6 +21196,33 @@
   },
   {
     "id": 786,
+    "article_date": "4/9/2026",
+    "school": "Classen SAS Middle School",
+    "school_type": "Middle School",
+    "state": "Oklahoma",
+    "region": "South",
+    "source": "https://www.news9.com/crime/okcps-said-threat-made-against-the-classen-sas-middle-school-soccer-game-was-deemed-unsubstantiated",
+    "offense_date": "4/9/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "Soccer Game",
+    "incident_details": "Additional security and a heightened awareness was put in place for the soccer game after a threat was made. Threat was determined to be unsubstantiated.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Additional Security",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 787,
     "article_date": "4/10/2026",
     "school": "Edgerton High School",
     "school_type": "High School",
@@ -21222,7 +21249,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 787,
+    "id": 788,
     "article_date": "4/10/2026",
     "school": "St. Clairsville Middle School",
     "school_type": "Middle School",
@@ -21249,7 +21276,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 788,
+    "id": 789,
     "article_date": "4/10/2026",
     "school": "Windy Hill Middle School",
     "school_type": "Middle School",
@@ -21276,7 +21303,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 789,
+    "id": 790,
     "article_date": "4/10/2026",
     "school": "Luther High School",
     "school_type": "Private School",
@@ -21303,7 +21330,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 790,
+    "id": 791,
     "article_date": "4/10/2026",
     "school": "Warrensburg High School",
     "school_type": "High School",
@@ -21330,7 +21357,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 791,
+    "id": 792,
     "article_date": "4/10/2026",
     "school": "Sault Area Public Schools",
     "school_type": "TBD",
@@ -21357,7 +21384,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 792,
+    "id": 793,
     "article_date": "4/10/2026",
     "school": "Naperville Central High School",
     "school_type": "High School",
@@ -21384,7 +21411,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 793,
+    "id": 794,
     "article_date": "4/10/2026",
     "school": "Live Oak High School",
     "school_type": "High School",
@@ -21411,7 +21438,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 794,
+    "id": 795,
     "article_date": "4/10/2026",
     "school": "Perry High School",
     "school_type": "High School",
@@ -21438,7 +21465,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 795,
+    "id": 796,
     "article_date": "4/10/2026",
     "school": "Del Oro High School",
     "school_type": "High School",
@@ -21465,7 +21492,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 796,
+    "id": 797,
     "article_date": "4/10/2026",
     "school": "Westwood Christian School",
     "school_type": "Private School",
@@ -21492,7 +21519,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 797,
+    "id": 798,
     "article_date": "4/10/2026",
     "school": "Rocklin High School",
     "school_type": "High School",
@@ -21519,7 +21546,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 798,
+    "id": 799,
     "article_date": "4/10/2026",
     "school": "Torrey Pines High School",
     "school_type": "High School",
@@ -21546,7 +21573,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 799,
+    "id": 800,
     "article_date": "4/10/2026",
     "school": "Paxton School",
     "school_type": "TBD",
@@ -21573,7 +21600,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 800,
+    "id": 801,
     "article_date": "4/10/2026",
     "school": "Shawnee Schools",
     "school_type": "TBD",
@@ -21600,7 +21627,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 801,
+    "id": 802,
     "article_date": "4/10/2026",
     "school": "Springport High School",
     "school_type": "High School",
@@ -21627,7 +21654,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 802,
+    "id": 803,
     "article_date": "4/10/2026",
     "school": "Technology High School",
     "school_type": "High School",
@@ -21654,7 +21681,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 803,
+    "id": 804,
     "article_date": "4/11/2026",
     "school": "Mount Savage School",
     "school_type": "TBD",
@@ -21681,7 +21708,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 804,
+    "id": 805,
     "article_date": "4/11/2026",
     "school": "Forest Hills High School",
     "school_type": "High School",
@@ -21708,7 +21735,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 805,
+    "id": 806,
     "article_date": "4/13/2026",
     "school": "Huntington Local Schools",
     "school_type": "TBD",
@@ -21735,7 +21762,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 806,
+    "id": 807,
     "article_date": "4/13/2026",
     "school": "Swartz Creek High School",
     "school_type": "High School",
@@ -21762,7 +21789,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 807,
+    "id": 808,
     "article_date": "4/13/2026",
     "school": "Multiple Schools in New Jersey",
     "school_type": "Multiple Schools",
@@ -21789,7 +21816,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 808,
+    "id": 809,
     "article_date": "4/13/2026",
     "school": "Federal Way High School",
     "school_type": "High School",
@@ -21816,7 +21843,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 809,
+    "id": 810,
     "article_date": "4/13/2026",
     "school": "Moody High School",
     "school_type": "High School",
@@ -21843,7 +21870,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 810,
+    "id": 811,
     "article_date": "4/13/2026",
     "school": "Clinton Middle School",
     "school_type": "Middle School",
@@ -21870,7 +21897,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 811,
+    "id": 812,
     "article_date": "4/13/2026",
     "school": "Central Michigan University",
     "school_type": "University/ College",
@@ -21897,7 +21924,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 812,
+    "id": 813,
     "article_date": "4/13/2026",
     "school": "Huntsville High School",
     "school_type": "High School",
@@ -21924,7 +21951,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 813,
+    "id": 814,
     "article_date": "4/13/2026",
     "school": "Will Rogers High School",
     "school_type": "High School",
@@ -21951,7 +21978,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 814,
+    "id": 815,
     "article_date": "4/13/2026",
     "school": "University of Texas El Paso",
     "school_type": "University/ College",
@@ -21978,7 +22005,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 815,
+    "id": 816,
     "article_date": "4/13/2026",
     "school": "Grapevine High School",
     "school_type": "High School",
@@ -22005,7 +22032,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 816,
+    "id": 817,
     "article_date": "4/13/2026",
     "school": "Valley Middle School",
     "school_type": "Middle School",
@@ -22032,7 +22059,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 817,
+    "id": 818,
     "article_date": "4/13/2026",
     "school": "Davison Middle School",
     "school_type": "Middle School",
@@ -22059,7 +22086,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 818,
+    "id": 819,
     "article_date": "4/13/2026",
     "school": "Alice Johnson Junior High School",
     "school_type": "Middle School",
@@ -22086,7 +22113,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 819,
+    "id": 820,
     "article_date": "4/14/2026",
     "school": "BASIS San Antonio Primary",
     "school_type": "Charter School",
@@ -22113,7 +22140,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 820,
+    "id": 821,
     "article_date": "4/14/2026",
     "school": "Conway Junior High School",
     "school_type": "Middle School",
@@ -22140,7 +22167,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 821,
+    "id": 822,
     "article_date": "4/14/2026",
     "school": "Assumption High School",
     "school_type": "High School",
@@ -22167,7 +22194,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 822,
+    "id": 823,
     "article_date": "4/14/2026",
     "school": "Iowa School for the Deaf",
     "school_type": "TBD",
@@ -22194,7 +22221,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 823,
+    "id": 824,
     "article_date": "4/14/2026",
     "school": "Clearview Elementary School",
     "school_type": "Elementary",
@@ -22221,7 +22248,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 824,
+    "id": 825,
     "article_date": "4/14/2026",
     "school": "Alto ISD",
     "school_type": "TBD",
@@ -22248,7 +22275,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 825,
+    "id": 826,
     "article_date": "4/14/2026",
     "school": "Rome Free Academy",
     "school_type": "TBD",
@@ -22275,7 +22302,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 826,
+    "id": 827,
     "article_date": "4/14/2026",
     "school": "Cameron County Junior-Senior High School",
     "school_type": "7-12 School",
@@ -22302,7 +22329,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 827,
+    "id": 828,
     "article_date": "4/15/2026",
     "school": "Conway School",
     "school_type": "TBD",
@@ -22329,7 +22356,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 828,
+    "id": 829,
     "article_date": "4/15/2026",
     "school": "Gaylesville School",
     "school_type": "TBD",
@@ -22356,7 +22383,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 829,
+    "id": 830,
     "article_date": "4/15/2026",
     "school": "Bradley Hills Elementary",
     "school_type": "Elementary",
@@ -22383,7 +22410,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 830,
+    "id": 831,
     "article_date": "4/15/2026",
     "school": "Rusk ISD",
     "school_type": "TBD",
@@ -22410,7 +22437,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 831,
+    "id": 832,
     "article_date": "4/15/2026",
     "school": "Northwest Technical College",
     "school_type": "University/ College",
@@ -22437,7 +22464,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 832,
+    "id": 833,
     "article_date": "4/15/2026",
     "school": "Altoona Area School District",
     "school_type": "TBD",
@@ -22464,7 +22491,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 833,
+    "id": 834,
     "article_date": "4/15/2026",
     "school": "Maumelle High School",
     "school_type": "High School",
@@ -22491,7 +22518,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 834,
+    "id": 835,
     "article_date": "4/15/2026",
     "school": "Portage High School",
     "school_type": "High School",
@@ -22518,7 +22545,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 835,
+    "id": 836,
     "article_date": "4/15/2026",
     "school": "Spruce Elementary School",
     "school_type": "Elementary",
@@ -22545,7 +22572,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 836,
+    "id": 837,
     "article_date": "4/15/2026",
     "school": "Crystal Lake Middle School",
     "school_type": "Middle School",
@@ -22572,7 +22599,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 837,
+    "id": 838,
     "article_date": "4/16/2026",
     "school": "Warren School District",
     "school_type": "TBD",
@@ -22599,7 +22626,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 838,
+    "id": 839,
     "article_date": "4/16/2026",
     "school": "Creative Action Team School",
     "school_type": "TBD",
@@ -22626,7 +22653,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 839,
+    "id": 840,
     "article_date": "4/16/2026",
     "school": "Ellison High School",
     "school_type": "High School",
@@ -22653,7 +22680,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 840,
+    "id": 841,
     "article_date": "4/16/2026",
     "school": "Martin High School",
     "school_type": "Multiple Schools",
@@ -22680,7 +22707,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 841,
+    "id": 842,
     "article_date": "4/16/2026",
     "school": "Port Angeles High School",
     "school_type": "High School",
@@ -22707,7 +22734,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 842,
+    "id": 843,
     "article_date": "4/16/2026",
     "school": "Victoria Christian School",
     "school_type": "Private School",
@@ -22734,7 +22761,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 843,
+    "id": 844,
     "article_date": "4/16/2026",
     "school": "Westfield High School",
     "school_type": "High School",
@@ -22761,7 +22788,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 844,
+    "id": 845,
     "article_date": "4/17/2026",
     "school": "Aberdeen Central High School",
     "school_type": "High School",
@@ -22788,7 +22815,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 845,
+    "id": 846,
     "article_date": "4/17/2026",
     "school": "Moorestown Friends School",
     "school_type": "TBD",
@@ -22815,7 +22842,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 846,
+    "id": 847,
     "article_date": "4/17/2026",
     "school": "Innovation Prepatory Academy of Naples",
     "school_type": "Charter School",
@@ -22842,7 +22869,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 847,
+    "id": 848,
     "article_date": "4/17/2026",
     "school": "Cheat Lake Elementary School",
     "school_type": "Elementary",
@@ -22869,7 +22896,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 848,
+    "id": 849,
     "article_date": "4/17/2026",
     "school": "Devils Lake Public School District",
     "school_type": "TBD",
@@ -22896,7 +22923,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 849,
+    "id": 850,
     "article_date": "4/17/2026",
     "school": "The Dalles High School",
     "school_type": "High School",
@@ -22923,7 +22950,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 850,
+    "id": 851,
     "article_date": "4/17/2026",
     "school": "Fargo North High School",
     "school_type": "High School",
@@ -22950,7 +22977,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 851,
+    "id": 852,
     "article_date": "4/17/2026",
     "school": "Bellingham Memorial Middle School",
     "school_type": "Middle School",
@@ -22977,7 +23004,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 852,
+    "id": 853,
     "article_date": "4/17/2026",
     "school": "Pinconning Middle/High School",
     "school_type": "TBD",
@@ -23004,7 +23031,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 853,
+    "id": 854,
     "article_date": "4/17/2026",
     "school": "Centre Middle School",
     "school_type": "Middle School",
@@ -23031,7 +23058,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 854,
+    "id": 855,
     "article_date": "4/17/2026",
     "school": "Anthony Wayne High School",
     "school_type": "High School",
@@ -23058,7 +23085,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 855,
+    "id": 856,
     "article_date": "4/17/2026",
     "school": "Derby Public Schools",
     "school_type": "TBD",
@@ -23085,7 +23112,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 856,
+    "id": 857,
     "article_date": "4/17/2026",
     "school": "Gardner High School",
     "school_type": "High School",
@@ -23112,7 +23139,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 857,
+    "id": 858,
     "article_date": "4/17/2026",
     "school": "Otisfield Elementary School",
     "school_type": "Elementary",
@@ -23139,7 +23166,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 858,
+    "id": 859,
     "article_date": "4/17/2026",
     "school": "Walt Whitman High School",
     "school_type": "High School",
@@ -23166,7 +23193,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 859,
+    "id": 860,
     "article_date": "4/17/2026",
     "school": "Thomas O'Brien Academy of Science and Technology",
     "school_type": "TBD",
@@ -23193,7 +23220,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 860,
+    "id": 861,
     "article_date": "4/17/2026",
     "school": "Collinwood High School",
     "school_type": "High School",
@@ -23220,7 +23247,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 861,
+    "id": 862,
     "article_date": "4/17/2026",
     "school": "Florida International University",
     "school_type": "University/ College",
@@ -23247,7 +23274,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 862,
+    "id": 863,
     "article_date": "4/18/2026",
     "school": "Shaker Heights Middle School",
     "school_type": "Middle School",
@@ -23274,7 +23301,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 863,
+    "id": 864,
     "article_date": "4/20/2026",
     "school": "P.S. 32",
     "school_type": "TBD",
@@ -23301,7 +23328,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 864,
+    "id": 865,
     "article_date": "4/20/2026",
     "school": "Putnam Elementary",
     "school_type": "Elementary",
@@ -23328,7 +23355,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 865,
+    "id": 866,
     "article_date": "4/20/2026",
     "school": "Peak Charter Academy",
     "school_type": "TBD",
@@ -23355,7 +23382,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 866,
+    "id": 867,
     "article_date": "4/20/2026",
     "school": "New Canaan High School",
     "school_type": "High School",
@@ -23382,7 +23409,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 867,
+    "id": 868,
     "article_date": "4/20/2026",
     "school": "Dolgeville Central School",
     "school_type": "TBD",
@@ -23409,7 +23436,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 868,
+    "id": 869,
     "article_date": "4/20/2026",
     "school": "River Ridge High School",
     "school_type": "High School",
@@ -23436,7 +23463,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 869,
+    "id": 870,
     "article_date": "4/20/2026",
     "school": "Jackson County High School",
     "school_type": "High School",
@@ -23463,7 +23490,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 870,
+    "id": 871,
     "article_date": "4/20/2026",
     "school": "Pelham Middle School and Pelham High School",
     "school_type": "Multiple Schools",
@@ -23490,7 +23517,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 871,
+    "id": 872,
     "article_date": "4/20/2026",
     "school": "Griffin High School",
     "school_type": "High School",
@@ -23517,7 +23544,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 872,
+    "id": 873,
     "article_date": "4/20/2026",
     "school": "Duke University",
     "school_type": "University/ College",
@@ -23544,7 +23571,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 873,
+    "id": 874,
     "article_date": "4/21/2026",
     "school": "Carlisle County Middle School",
     "school_type": "Middle School",
@@ -23571,7 +23598,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 874,
+    "id": 875,
     "article_date": "4/21/2026",
     "school": "Jensen Beach High School",
     "school_type": "High School",
@@ -23598,7 +23625,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 875,
+    "id": 876,
     "article_date": "4/21/2026",
     "school": "Oconee County Schools",
     "school_type": "Multiple Schools",
@@ -23625,7 +23652,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 876,
+    "id": 877,
     "article_date": "4/21/2026",
     "school": "Buchanan High School and Lighthouse Education Center",
     "school_type": "Multiple Schools",
@@ -23652,7 +23679,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 877,
+    "id": 878,
     "article_date": "4/21/2026",
     "school": "Lucerne Elementary School and Upper Lake Unified School District",
     "school_type": "Multiple Schools",
@@ -23679,7 +23706,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 878,
+    "id": 879,
     "article_date": "4/21/2026",
     "school": "Rivera Early College High School",
     "school_type": "High School",
@@ -23706,7 +23733,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 879,
+    "id": 880,
     "article_date": "4/21/2026",
     "school": "Davis High School",
     "school_type": "High School",
@@ -23733,7 +23760,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 880,
+    "id": 881,
     "article_date": "4/21/2026",
     "school": "West Elementary School",
     "school_type": "Elementary",
@@ -23760,7 +23787,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 881,
+    "id": 882,
     "article_date": "4/21/2026",
     "school": "Richland High School",
     "school_type": "High School",
@@ -23787,7 +23814,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 882,
+    "id": 883,
     "article_date": "4/21/2026",
     "school": "Tottenville High School",
     "school_type": "High School",
@@ -23814,7 +23841,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 883,
+    "id": 884,
     "article_date": "4/21/2026",
     "school": "Northfield Middle School",
     "school_type": "Middle School",
@@ -23841,7 +23868,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 884,
+    "id": 885,
     "article_date": "4/22/2026",
     "school": "East Yancey Middle School",
     "school_type": "Middle School",
@@ -23868,7 +23895,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 885,
+    "id": 886,
     "article_date": "4/22/2026",
     "school": "Spring Hill College",
     "school_type": "University/ College",
@@ -23895,7 +23922,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 886,
+    "id": 887,
     "article_date": "4/22/2026",
     "school": "University School of Jackson",
     "school_type": "TBD",
@@ -23922,7 +23949,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 887,
+    "id": 888,
     "article_date": "4/22/2026",
     "school": "South Sioux City School District",
     "school_type": "High School",
@@ -23949,7 +23976,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 888,
+    "id": 889,
     "article_date": "4/22/2026",
     "school": "Garden City High School",
     "school_type": "High School",
@@ -23976,7 +24003,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 889,
+    "id": 890,
     "article_date": "4/22/2026",
     "school": "Middle School in Orrville, Ohio",
     "school_type": "Middle School",
@@ -24003,7 +24030,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 890,
+    "id": 891,
     "article_date": "4/22/2026",
     "school": "Nimitz Middle School",
     "school_type": "Middle School",
@@ -24030,7 +24057,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 891,
+    "id": 892,
     "article_date": "4/22/2026",
     "school": "Southeast High School and Central Christian School",
     "school_type": "Multiple Schools",
@@ -24057,7 +24084,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 892,
+    "id": 893,
     "article_date": "4/22/2026",
     "school": "Abingdon-Avon High School",
     "school_type": "High School",
@@ -24084,7 +24111,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 893,
+    "id": 894,
     "article_date": "4/22/2026",
     "school": "Mission High School",
     "school_type": "High School",
@@ -24111,7 +24138,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 894,
+    "id": 895,
     "article_date": "4/22/2026",
     "school": "Lawton High School",
     "school_type": "High School",
@@ -24138,7 +24165,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 895,
+    "id": 896,
     "article_date": "4/22/2026",
     "school": "College Park Elementary School",
     "school_type": "Elementary",
@@ -24165,7 +24192,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 896,
+    "id": 897,
     "article_date": "4/22/2026",
     "school": "Laurel Christian School, Laurel Christian Elementary, and Laurel High School",
     "school_type": "Multiple Schools",
@@ -24192,7 +24219,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 897,
+    "id": 898,
     "article_date": "4/22/2026",
     "school": "Auburn High School",
     "school_type": "High School",
@@ -24219,7 +24246,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 898,
+    "id": 899,
     "article_date": "4/22/2026",
     "school": "Westwood High School",
     "school_type": "High School",
@@ -24246,7 +24273,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 899,
+    "id": 900,
     "article_date": "4/22/2026",
     "school": "Victory Charter School",
     "school_type": "Charter School",
@@ -24273,7 +24300,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 900,
+    "id": 901,
     "article_date": "4/22/2026",
     "school": "Forks Middle School",
     "school_type": "Middle School",
@@ -24300,7 +24327,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 901,
+    "id": 902,
     "article_date": "4/22/2026",
     "school": "Roulhac Middle School",
     "school_type": "Middle School",
@@ -24327,7 +24354,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 902,
+    "id": 903,
     "article_date": "4/23/2026",
     "school": "Beth Israel Shlenker School",
     "school_type": "Elementary",
@@ -24354,7 +24381,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 903,
+    "id": 904,
     "article_date": "4/23/2026",
     "school": "Wyoming High School",
     "school_type": "High School",
@@ -24381,7 +24408,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 904,
+    "id": 905,
     "article_date": "4/23/2026",
     "school": "Springfield Local Schools",
     "school_type": "TBD",
@@ -24408,7 +24435,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 905,
+    "id": 906,
     "article_date": "4/23/2026",
     "school": "Adair County Elementary School",
     "school_type": "Elementary",
@@ -24435,7 +24462,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 906,
+    "id": 907,
     "article_date": "4/23/2026",
     "school": "Centennial Public Schools",
     "school_type": "TBD",
@@ -24462,7 +24489,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 907,
+    "id": 908,
     "article_date": "4/23/2026",
     "school": "John Champe High School",
     "school_type": "High School",
@@ -24489,7 +24516,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 908,
+    "id": 909,
     "article_date": "4/23/2026",
     "school": "Holy Trinity School",
     "school_type": "TBD",
@@ -24516,7 +24543,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 909,
+    "id": 910,
     "article_date": "4/23/2026",
     "school": "Union Hill ISD",
     "school_type": "TBD",
@@ -24543,7 +24570,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 910,
+    "id": 911,
     "article_date": "4/23/2026",
     "school": "Cache Public Schools",
     "school_type": "TBD",
@@ -24570,7 +24597,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 911,
+    "id": 912,
     "article_date": "4/23/2026",
     "school": "Lewis County Schools",
     "school_type": "Middle School",
@@ -24597,7 +24624,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 912,
+    "id": 913,
     "article_date": "4/23/2026",
     "school": "Springfield High School",
     "school_type": "High School",
@@ -24624,7 +24651,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 913,
+    "id": 914,
     "article_date": "4/23/2026",
     "school": "Laurel High School",
     "school_type": "High School",
@@ -24651,7 +24678,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 914,
+    "id": 915,
     "article_date": "4/24/2026",
     "school": "Cony High School",
     "school_type": "High School",
@@ -24678,7 +24705,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 915,
+    "id": 916,
     "article_date": "4/24/2026",
     "school": "Sheffield High School",
     "school_type": "High School",
@@ -24705,7 +24732,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 916,
+    "id": 917,
     "article_date": "4/24/2026",
     "school": "Neptune High School",
     "school_type": "High School",
@@ -24732,7 +24759,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 917,
+    "id": 918,
     "article_date": "4/24/2026",
     "school": "Fort White High School",
     "school_type": "High School",
@@ -24759,7 +24786,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 918,
+    "id": 919,
     "article_date": "4/24/2026",
     "school": "Long Lake Central School",
     "school_type": "TBD",
@@ -24786,7 +24813,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 919,
+    "id": 920,
     "article_date": "4/24/2026",
     "school": "Salem High School",
     "school_type": "High School",
@@ -24813,7 +24840,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 920,
+    "id": 921,
     "article_date": "4/24/2026",
     "school": "Riverside High School",
     "school_type": "High School",
@@ -24840,7 +24867,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 921,
+    "id": 922,
     "article_date": "4/24/2026",
     "school": "Northeast High School",
     "school_type": "High School",
@@ -24867,7 +24894,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 922,
+    "id": 923,
     "article_date": "4/24/2026",
     "school": "Mountain Brook High School",
     "school_type": "High School",
@@ -24894,7 +24921,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 923,
+    "id": 924,
     "article_date": "4/24/2026",
     "school": "St. Matthews K8 School",
     "school_type": "TBD",
@@ -24921,7 +24948,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 924,
+    "id": 925,
     "article_date": "4/24/2026",
     "school": "Fairview High School",
     "school_type": "High School",
@@ -24948,7 +24975,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 925,
+    "id": 926,
     "article_date": "4/26/2026",
     "school": "Ridgemont Elementary School",
     "school_type": "Elementary",
@@ -24975,7 +25002,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 926,
+    "id": 927,
     "article_date": "4/27/2026",
     "school": "Bridgeport High School",
     "school_type": "High School",
@@ -25002,7 +25029,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 927,
+    "id": 928,
     "article_date": "4/27/2026",
     "school": "Watertown High School",
     "school_type": "High School",
@@ -25029,7 +25056,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 928,
+    "id": 929,
     "article_date": "4/27/2026",
     "school": "Lake Minneola High School",
     "school_type": "High School",
@@ -25056,7 +25083,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 929,
+    "id": 930,
     "article_date": "4/27/2026",
     "school": "Premier High School- McAllen",
     "school_type": "Charter School",
@@ -25083,7 +25110,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 930,
+    "id": 931,
     "article_date": "4/27/2026",
     "school": "Las Vegas High School",
     "school_type": "High School",
@@ -25110,7 +25137,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 931,
+    "id": 932,
     "article_date": "4/27/2026",
     "school": "Hanley International Academy",
     "school_type": "TBD",
@@ -25137,7 +25164,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 932,
+    "id": 933,
     "article_date": "4/27/2026",
     "school": "Crimson Cliffs High School",
     "school_type": "High School",
@@ -25164,7 +25191,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 933,
+    "id": 934,
     "article_date": "4/27/2026",
     "school": "Bleckley County High School",
     "school_type": "High School",
@@ -25191,7 +25218,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 934,
+    "id": 935,
     "article_date": "4/27/2026",
     "school": "Northside High School",
     "school_type": "High School",
@@ -25218,7 +25245,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 935,
+    "id": 936,
     "article_date": "4/27/2026",
     "school": "Sugg Middle School",
     "school_type": "Middle School",
@@ -25245,7 +25272,61 @@
     "classes_cancelled": ""
   },
   {
-    "id": 936,
+    "id": 937,
+    "article_date": "4/27/2026",
+    "school": "Lake City Middle School",
+    "school_type": "Middle School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.wcjb.com/2026/04/27/schools-ocala-lake-city-disrupted-due-threats-lockdowns-lifted/",
+    "offense_date": "4/27/2026",
+    "time": "12:00 p.m.",
+    "law_enforcement": "Columbia County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "School",
+    "incident_details": "Student was arrested after stating that they lost their gun they brought in their backpack, resulting in the school going into lockdown. Student claimed it was supposed to be a joke.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "14 year old",
+    "charges": "Falsely Reporting a Weapon on Campus and for Disrupting the School Day",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 938,
+    "article_date": "4/27/2026",
+    "school": "Forest High School",
+    "school_type": "High School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.wcjb.com/2026/04/27/schools-ocala-lake-city-disrupted-due-threats-lockdowns-lifted/",
+    "offense_date": "4/27/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Marion County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on Code Yellow Lockdown after receiving a threat by phone. Threat was determined to be a swatting call.",
+    "lockdown_type": "Code Yellow Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 939,
     "article_date": "4/28/2026",
     "school": "Beulah Middle School",
     "school_type": "Middle School",
@@ -25272,7 +25353,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 937,
+    "id": 940,
     "article_date": "4/28/2026",
     "school": "Bozeman High School",
     "school_type": "High School",
@@ -25299,7 +25380,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 938,
+    "id": 941,
     "article_date": "4/28/2026",
     "school": "Lakoa West High School",
     "school_type": "High School",
@@ -25326,7 +25407,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 939,
+    "id": 942,
     "article_date": "4/28/2026",
     "school": "Fletcher Middle School",
     "school_type": "Middle School",
@@ -25353,7 +25434,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 940,
+    "id": 943,
     "article_date": "4/28/2026",
     "school": "Sebastian River High School and Vero Beach High School",
     "school_type": "Multiple Schools",
@@ -25380,7 +25461,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 941,
+    "id": 944,
     "article_date": "4/28/2026",
     "school": "Timberline Middle School",
     "school_type": "Middle School",
@@ -25407,7 +25488,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 942,
+    "id": 945,
     "article_date": "4/28/2026",
     "school": "Rockford High School",
     "school_type": "High School",
@@ -25434,7 +25515,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 943,
+    "id": 946,
     "article_date": "4/28/2026",
     "school": "North Marion High School",
     "school_type": "High School",
@@ -25442,13 +25523,13 @@
     "region": "South",
     "source": "https://www.wcjb.com/2026/04/28/marion-county-high-school-locked-down-due-reported-threat/#",
     "offense_date": "4/28/2026",
-    "time": "Not Specified",
+    "time": "1:57 p.m.",
     "law_enforcement": "Marion County Sheriff's Office",
     "threat_type": "Bomb",
     "conveyance": "Not Disclosed",
     "who_threatened": "School",
     "incident_details": "School went into a lockdown after receiving a bomb threat",
-    "lockdown_type": "Lockdown",
+    "lockdown_type": "Code Yellow Lockdown",
     "evacuation": "N/A",
     "precautions": "N/A",
     "weapons": "Unknown",
@@ -25461,7 +25542,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 944,
+    "id": 947,
     "article_date": "4/28/2026",
     "school": "CE Murray Middle School",
     "school_type": "Middle School",
@@ -25488,7 +25569,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 945,
+    "id": 948,
     "article_date": "4/28/2026",
     "school": "Montgomery High School",
     "school_type": "High School",
@@ -25515,7 +25596,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 946,
+    "id": 949,
     "article_date": "4/28/2026",
     "school": "Great Bend USD 428",
     "school_type": "TBD",
@@ -25542,7 +25623,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 947,
+    "id": 950,
     "article_date": "4/28/2026",
     "school": "Conroe High School",
     "school_type": "High School",
@@ -25569,7 +25650,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 948,
+    "id": 951,
     "article_date": "4/28/2026",
     "school": "Dora Schools",
     "school_type": "TBD",
@@ -25596,7 +25677,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 949,
+    "id": 952,
     "article_date": "4/28/2026",
     "school": "Maili Elementary School",
     "school_type": "Elementary",
@@ -25623,7 +25704,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 950,
+    "id": 953,
     "article_date": "4/28/2026",
     "school": "Stevenson High School",
     "school_type": "High School",
@@ -25650,7 +25731,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 951,
+    "id": 954,
     "article_date": "4/28/2026",
     "school": "River Glen School",
     "school_type": "K-8 School",
@@ -25677,7 +25758,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 952,
+    "id": 955,
     "article_date": "4/29/2026",
     "school": "Northwest High School",
     "school_type": "High School",
@@ -25704,7 +25785,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 953,
+    "id": 956,
     "article_date": "4/29/2026",
     "school": "Lebanon High School",
     "school_type": "High School",
@@ -25731,7 +25812,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 954,
+    "id": 957,
     "article_date": "4/29/2026",
     "school": "West-Oak High School",
     "school_type": "High School",
@@ -25758,7 +25839,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 955,
+    "id": 958,
     "article_date": "4/29/2026",
     "school": "North High School",
     "school_type": "High School",
@@ -25785,7 +25866,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 956,
+    "id": 959,
     "article_date": "4/29/2026",
     "school": "Cypress Bay High School",
     "school_type": "High School",
@@ -25812,7 +25893,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 957,
+    "id": 960,
     "article_date": "4/29/2026",
     "school": "Flagler Palm Coast High School",
     "school_type": "High School",
@@ -25839,7 +25920,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 958,
+    "id": 961,
     "article_date": "4/29/2026",
     "school": "Horizon Middle School",
     "school_type": "Middle School",
@@ -25866,7 +25947,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 959,
+    "id": 962,
     "article_date": "4/29/2026",
     "school": "Wildwood Middle School",
     "school_type": "Middle School",
@@ -25893,7 +25974,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 960,
+    "id": 963,
     "article_date": "4/29/2026",
     "school": "Belle Vernon Area School District",
     "school_type": "TBD",
@@ -25920,7 +26001,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 961,
+    "id": 964,
     "article_date": "4/29/2026",
     "school": "John Campbell Primary",
     "school_type": "TBD",
@@ -25947,7 +26028,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 962,
+    "id": 965,
     "article_date": "4/29/2026",
     "school": "North Valleys High School",
     "school_type": "High School",
@@ -25974,7 +26055,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 963,
+    "id": 966,
     "article_date": "4/29/2026",
     "school": "Bullard High School and Fresno High School",
     "school_type": "Multiple Schools",
@@ -26001,7 +26082,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 964,
+    "id": 967,
     "article_date": "4/29/2026",
     "school": "Clovis High School",
     "school_type": "High School",
@@ -26028,7 +26109,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 965,
+    "id": 968,
     "article_date": "4/29/2026",
     "school": "North Valley Continuation School",
     "school_type": "TBD",
@@ -26055,7 +26136,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 966,
+    "id": 969,
     "article_date": "4/29/2026",
     "school": "Manzanita Elementary School",
     "school_type": "Elementary",
@@ -26082,7 +26163,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 967,
+    "id": 970,
     "article_date": "4/29/2026",
     "school": "Karns City Area School District",
     "school_type": "TBD",
@@ -26109,7 +26190,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 968,
+    "id": 971,
     "article_date": "4/29/2026",
     "school": "Mauro-Sheridan Interdistrict Magnet School",
     "school_type": "TBD",
@@ -26136,7 +26217,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 969,
+    "id": 972,
     "article_date": "4/29/2026",
     "school": "Sterling School",
     "school_type": "TBD",
@@ -26163,7 +26244,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 970,
+    "id": 973,
     "article_date": "4/29/2026",
     "school": "North Valley High School",
     "school_type": "High School",
@@ -26190,7 +26271,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 971,
+    "id": 974,
     "article_date": "4/29/2026",
     "school": "Kealakehe Intermediate School",
     "school_type": "TBD",
@@ -26217,7 +26298,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 972,
+    "id": 975,
     "article_date": "4/30/2026",
     "school": "Douglas High School",
     "school_type": "High School",
@@ -26244,7 +26325,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 973,
+    "id": 976,
     "article_date": "4/30/2026",
     "school": "Florence Nightingale Middle School",
     "school_type": "Middle School",
@@ -26271,7 +26352,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 974,
+    "id": 977,
     "article_date": "4/30/2026",
     "school": "Newton High School",
     "school_type": "High School",
@@ -26298,7 +26379,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 975,
+    "id": 978,
     "article_date": "4/30/2026",
     "school": "Deerfield Beach Middle School",
     "school_type": "Middle School",
@@ -26325,7 +26406,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 976,
+    "id": 979,
     "article_date": "4/30/2026",
     "school": "Perry County Central High School, Whitesburg Middle School, and Knott County Central High School",
     "school_type": "Multiple Schools",
@@ -26352,7 +26433,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 977,
+    "id": 980,
     "article_date": "4/30/2026",
     "school": "Lexington Middle School",
     "school_type": "Middle School",
@@ -26379,7 +26460,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 978,
+    "id": 981,
     "article_date": "4/30/2026",
     "school": "Charles Town Middle School",
     "school_type": "Middle School",
@@ -26406,7 +26487,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 979,
+    "id": 982,
     "article_date": "4/30/2026",
     "school": "Gering High School",
     "school_type": "High School",
@@ -26433,7 +26514,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 980,
+    "id": 983,
     "article_date": "4/30/2026",
     "school": "Jefferson High School",
     "school_type": "High School",
@@ -26460,7 +26541,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 981,
+    "id": 984,
     "article_date": "4/30/2026",
     "school": "El Dorado USD 490, Western Plains USD 106, and Cheylin USD 103",
     "school_type": "Multiple Schools",
@@ -26487,7 +26568,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 982,
+    "id": 985,
     "article_date": "4/30/2026",
     "school": "Green Charter Middle School",
     "school_type": "Charter School",
@@ -26514,7 +26595,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 983,
+    "id": 986,
     "article_date": "4/30/2026",
     "school": "Calaveras High School",
     "school_type": "High School",
@@ -26541,7 +26622,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 984,
+    "id": 987,
     "article_date": "4/30/2026",
     "school": "Killingly High School",
     "school_type": "High School",
@@ -26568,7 +26649,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 985,
+    "id": 988,
     "article_date": "4/30/2026",
     "school": "Bainbridge Middle School",
     "school_type": "Middle School",
@@ -26595,7 +26676,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 986,
+    "id": 989,
     "article_date": "4/30/2026",
     "school": "Onslow County Schools",
     "school_type": "TBD",
@@ -26622,7 +26703,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 987,
+    "id": 990,
     "article_date": "4/30/2026",
     "school": "Robert Asp Elementary School",
     "school_type": "Elementary",
@@ -26649,7 +26730,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 988,
+    "id": 991,
     "article_date": "4/30/2026",
     "school": "River Ridge Middle School and River Ridge High School",
     "school_type": "Multiple Schools",
@@ -26676,7 +26757,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 989,
+    "id": 992,
     "article_date": "5/1/2026",
     "school": "Parkview High School",
     "school_type": "High School",
@@ -26703,7 +26784,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 990,
+    "id": 993,
     "article_date": "5/1/2026",
     "school": "Franklin County High School and Western Hills High School",
     "school_type": "Multiple Schools",
@@ -26730,7 +26811,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 991,
+    "id": 994,
     "article_date": "5/1/2026",
     "school": "Medina High School",
     "school_type": "High School",
@@ -26757,7 +26838,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 992,
+    "id": 995,
     "article_date": "5/1/2026",
     "school": "East Lansing High School",
     "school_type": "High School",
@@ -26784,7 +26865,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 993,
+    "id": 996,
     "article_date": "5/1/2026",
     "school": "Immokalee High School",
     "school_type": "High School",
@@ -26811,7 +26892,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 994,
+    "id": 997,
     "article_date": "5/1/2026",
     "school": "St. Clairsville Schools",
     "school_type": "TBD",
@@ -26838,7 +26919,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 995,
+    "id": 998,
     "article_date": "5/1/2026",
     "school": "Robert Pollack Elemetary School",
     "school_type": "Elementary",
@@ -26865,7 +26946,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 996,
+    "id": 999,
     "article_date": "5/1/2026",
     "school": "Avon High School and Zionsville High School",
     "school_type": "Multiple Schools",
@@ -26892,7 +26973,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 997,
+    "id": 1000,
     "article_date": "5/1/2026",
     "school": "Westport High School",
     "school_type": "High School",
@@ -26919,7 +27000,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 998,
+    "id": 1001,
     "article_date": "5/1/2026",
     "school": "Madison Central High School",
     "school_type": "High School",
@@ -26946,7 +27027,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 999,
+    "id": 1002,
     "article_date": "5/1/2026",
     "school": "Sauk Centre Senior High School",
     "school_type": "High School",
@@ -26973,7 +27054,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1000,
+    "id": 1003,
     "article_date": "5/1/2026",
     "school": "St. Mary's Middle School",
     "school_type": "Middle School",
@@ -27000,7 +27081,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1001,
+    "id": 1004,
     "article_date": "5/1/2026",
     "school": "Alma High School",
     "school_type": "High School",
@@ -27027,7 +27108,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1002,
+    "id": 1005,
     "article_date": "5/1/2026",
     "school": "Eastern Schools",
     "school_type": "TBD",
@@ -27054,7 +27135,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1003,
+    "id": 1006,
     "article_date": "5/1/2026",
     "school": "Unnamed Schools in Whitehall, Ohio",
     "school_type": "TBD",
@@ -27081,7 +27162,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1004,
+    "id": 1007,
     "article_date": "5/2/2026",
     "school": "Wiley University",
     "school_type": "University/ College",
@@ -27103,6 +27184,1194 @@
     "charged": "50 year old",
     "charges": "Terroristic Threat- Impeding Public Service, Causing Fear of Serious Bodily Injury or Influencing Government",
     "bond": "$50,000",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1008,
+    "article_date": "5/2/2026",
+    "school": "Career Academy Charter School",
+    "school_type": "Charter School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.wpbf.com/article/florida-man-accused-social-media-threats-charter-school-students-including-naming-himself/71186796",
+    "offense_date": "5/1/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Palm Beach County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Instagram",
+    "who_threatened": "School and Student",
+    "incident_details": "Suspect wrote the following message: \"I'm gonna kill Dylan tomorrow with a gun, I'm gonna kill his brain. I'm gonna kill you and everyone and it kill Dylan.\" Suspect created the fake account.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Male",
+    "charged": "21 year old",
+    "charges": "Written Threats to Kill or Bodily Harm, Written Threats of a Mass Shooting or Terrorism Act, Unlawful Use of a Two-Way Communication Device to Facilitate a Felony, and Obstructing an Officer Without Violence",
+    "bond": "$206,000",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1009,
+    "article_date": "5/3/2026",
+    "school": "Sanders Middle School",
+    "school_type": "Middle School",
+    "state": "South Carolina",
+    "region": "South",
+    "source": "https://www.wspa.com/news/officials-investigating-tiktok-threat-made-by-upstate-student/",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Laurens Police Department",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "School",
+    "incident_details": "Student made a TikTok video that was determined to be inappropriate and threatening content.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1010,
+    "article_date": "5/4/2026",
+    "school": "W.S. Mount Elementary School",
+    "school_type": "Elementary",
+    "state": "New York",
+    "region": "Northeast",
+    "source": "https://longisland.news12.com/police-stepping-up-patrols-after-threat-made-against-an-elementary-school-in-the-three-village-school-district",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Suffolk County Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Law Enforcement to Increase their presence at the school after a threat was made against the school and individuals who attend the school by another individual",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Individual",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1011,
+    "article_date": "5/4/2026",
+    "school": "Pennsbury High School",
+    "school_type": "High School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://www.nbcphiladelphia.com/news/local/bucks-co-high-school-locked-down-due-to-threat-officials-say/4396467/#",
+    "offense_date": "5/4/2026",
+    "time": "7:55 a.m.",
+    "law_enforcement": "Falls Township Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on secure mode after receiving a call from a California number, in which they claimed they were on their way to the school with an assault rifle and pipe bomb",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1012,
+    "article_date": "5/4/2026",
+    "school": "Upper St. Clair School District",
+    "school_type": "TBD",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://www.wtae.com/article/upper-st-clair-threat-hoax/71201315",
+    "offense_date": "5/4/2026",
+    "time": "Morning",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School went into secure mode after receiving a general threat",
+    "lockdown_type": "Secure the School Campus",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1013,
+    "article_date": "5/4/2026",
+    "school": "North Penn High School",
+    "school_type": "High School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://northpennnow.com/news/2026/may/04/threat-prompts-lockout-at-north-penn-high-school-monday-morning/",
+    "offense_date": "5/4/2026",
+    "time": "Morning",
+    "law_enforcement": "Towamencin Township Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockout after receiving a call where the caller indicated they were enroute to the school to cause harm",
+    "lockdown_type": "Lockout",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1014,
+    "article_date": "5/4/2026",
+    "school": "Blue Mountain School District",
+    "school_type": "TBD",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://fox56.com/news/local/blue-mountain-school-district-implements-soft-lockdown-after-possible-robocall-threat",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into soft lockdown after receiving a threat by robocall.",
+    "lockdown_type": "Soft Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1015,
+    "article_date": "5/4/2026",
+    "school": "Washington Elementary School",
+    "school_type": "Elementary",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://local21news.com/news/local/police-investigate-false-threat-at-lancaster-county-elementary-school-police-pa-pennsylvania-george-washington-elementary-school",
+    "offense_date": "5/4/2026",
+    "time": "12:15 p.m.",
+    "law_enforcement": "Lancaster City Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a threat to the school",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1016,
+    "article_date": "5/4/2026",
+    "school": "Conestoga High School",
+    "school_type": "High School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://patch.com/pennsylvania/te/conestoga-high-school-lockdown-possible-swatting-call-police",
+    "offense_date": "5/4/2026",
+    "time": "8:00 a.m.",
+    "law_enforcement": "Treddyffrin Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a threat by phone. Call was determined to be a swatting call.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1017,
+    "article_date": "5/4/2026",
+    "school": "Council Rock High School",
+    "school_type": "High School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://patch.com/pennsylvania/newtown-pa/lockdown-lifted-after-threat-council-rock-high-school-north?utm_source=newsstand&utm_medium=rss&utm_term=crime%20%26%20safety&utm_campaign=recirc&utm_content=newsstand",
+    "offense_date": "5/4/2026",
+    "time": "Morning",
+    "law_enforcement": "Newton Township Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a threat",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1018,
+    "article_date": "5/4/2026",
+    "school": "Colonial School District and Hatboro-Horsham School District",
+    "school_type": "Multiple Schools",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://www.nbcphiladelphia.com/news/local/bucks-co-high-school-locked-down-due-to-threat-officials-say/4396467/#",
+    "offense_date": "5/4/2026",
+    "time": "10:00 a.m.",
+    "law_enforcement": "Multiple Agencies",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "Schools",
+    "incident_details": "Both school districts received threats. The number used for the threat made to Colonial School District was a California number.",
+    "lockdown_type": "Lockout for the Hatboro-Horsham School District",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence for the Colonial School District",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1019,
+    "article_date": "5/4/2026",
+    "school": "Dowling Catholic High School",
+    "school_type": "High School",
+    "state": "Iowa",
+    "region": "Midwest",
+    "source": "https://www.kcci.com/article/dowling-catholic-high-school-west-des-moines-lockdown-potential-threat/71201464",
+    "offense_date": "5/4/2026",
+    "time": "8:00 a.m.",
+    "law_enforcement": "West Des Moines Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into secure hold after receiving a threat. Employee reported receiving the threat via voicemail.",
+    "lockdown_type": "Secure Hold",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1020,
+    "article_date": "5/4/2026",
+    "school": "Joliet Central High School",
+    "school_type": "High School",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://www.shawlocal.com/the-herald-news/2026/05/04/joliet-police-investigate-social-media-threat-to-joliet-central-hs/",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Joliet Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "Increased law enforcement presence at the school after the school received a threat on social media",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1021,
+    "article_date": "5/4/2026",
+    "school": "Liberty High School",
+    "school_type": "High School",
+    "state": "Virginia",
+    "region": "South",
+    "source": "https://www.rappnews.com/crime-courts/police-respond-to-online-threat-at-fauquier-countys-liberty-high-school-faa3d83e",
+    "offense_date": "5/3/2026",
+    "time": "Evening",
+    "law_enforcement": "Fauquier County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Online",
+    "who_threatened": "School",
+    "incident_details": "Law Enforcement investigated an online threat made towards the school. Threat was made through the school division's tip line.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1022,
+    "article_date": "5/4/2026",
+    "school": "Provo High School",
+    "school_type": "High School",
+    "state": "Utah",
+    "region": "West",
+    "source": "https://ksltv.com/local-news/provo-high-school-lockdown/905058/",
+    "offense_date": "5/4/2026",
+    "time": "7:32 a.m.",
+    "law_enforcement": "Provo Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after law enforcement received a call where the caller stated they were at the school and threatened to kill others and themselves",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1023,
+    "article_date": "5/4/2026",
+    "school": "New Haven High School",
+    "school_type": "High School",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.macombdaily.com/2026/05/04/threat-to-high-school-forces-new-haven-community-schools-to-close-for-the-day/",
+    "offense_date": "5/1/2026",
+    "time": "2:51 p.m.",
+    "law_enforcement": "Macomb County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School closed for the day after receiving a bomb threat after school on Friday.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1024,
+    "article_date": "5/4/2026",
+    "school": "McInnis Elementary",
+    "school_type": "Elementary",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.wesh.com/article/girl-arrested-school-threat-arrest-mcinnis-elementary/71203299",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Volusia County Sheriff's Office",
+    "threat_type": "Shooting",
+    "conveyance": "Email",
+    "who_threatened": "School",
+    "incident_details": "Student used her ex-boyfriends school log-in to send a teacher a threat, which consisted of saying they were going to shoot up the school on the last day. The full email read: Hi ms nghdiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\nThis is just a short little thing about how I feel about you and everyone at that school!!!\nTo youuu\n(Expletive) you nasty (expletives) go die hoe I hate you im gonna blow up your (expletive) house. Cross eyed ugly hoe I hope you get hit by a (expletive) train. I hate you and this class. And that (expletive) school.\nAnd tell the counselor\nI cut myself, I hate myself, I might kill myself. Ive been mentally, physically, and mentally abusing my girlfriend and I don\u00e2\u0080\u0099t feel bad about it. Ive told her to cut herself multiple times and I would do it again. And said itdbe better for her to kill herself. Ive also been sexuaely asalting and talking innapropietly to many of my friends that are girls like bella, jassy, and more and im not gonna stop. It\u00e2\u0080\u0099s the end of the year do whatever u want to me hoes I don\u00e2\u0080\u0099t care nd neither do myparents.\nOh yeah and last day im shooting up the school, revolver style.\nGet me hoes (expletive) yall all yall are ded.\"",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "12 year old",
+    "charges": "Making Written/Electronic Threats to Kill and Unlawful Use of a Two-Way Communications Device",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1025,
+    "article_date": "5/4/2026",
+    "school": "Mason Elementary",
+    "school_type": "Elementary",
+    "state": "Missouri",
+    "region": "Midwest",
+    "source": "https://www.kmbc.com/article/lees-summit-mason-elementary-lockdown-reported-threat/71204453",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Jackson County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a threat",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Counselors and Support Staff available for Students",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1026,
+    "article_date": "5/4/2026",
+    "school": "Shawnee High School",
+    "school_type": "High School",
+    "state": "Oklahoma",
+    "region": "South",
+    "source": "https://www.koco.com/article/shawnee-high-school-social-media-threat-arrest/71204132",
+    "offense_date": "5/3/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Shawnee Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "A Juvenile was arrested after making a threat on social media",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Juvenile",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1027,
+    "article_date": "5/4/2026",
+    "school": "Warner Robins High School",
+    "school_type": "High School",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.13wmaz.com/article/news/local/warner-robins/bomb-threat-forces-warner-robins-high-school-into-lockdown-no-active-threat/93-f39c5abc-876b-4d93-b752-b17e0b6bf32d#",
+    "offense_date": "5/4/2026",
+    "time": "2:00 p.m.",
+    "law_enforcement": "Warner Robins Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School evacuated after law enforcement received a call about a bomb threat",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1028,
+    "article_date": "5/4/2026",
+    "school": "Polk County High School",
+    "school_type": "High School",
+    "state": "Tennessee",
+    "region": "South",
+    "source": "https://www.local3news.com/local-news/polk-county-high-school-student-suspended-following-school-threat-officials-say-no-danger-to-students/article_8c201aa3-300d-4070-a0d1-6ef3cc5dc52a.html",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "Student",
+    "incident_details": "Student was suspended after someone overheard them say they planned on bringing a weapon to school to harm a student",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1029,
+    "article_date": "5/4/2026",
+    "school": "Walden Grove High School",
+    "school_type": "High School",
+    "state": "Arizona",
+    "region": "West",
+    "source": "https://www.kgun9.com/news/community-inspired-journalism/sahuarita-and-green-valley-news/student-in-sahuarita-arrested-after-alleged-weekend-threat-to-walden-grove-high#google_vignette",
+    "offense_date": "5/2/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Sahuarita Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "A student at the school was arrested after law enforcement received a 911 report that he threatened to bring a guns and an explosive device to campus to school on Monday May 4. Threat was substantiated.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "No",
+    "gender": "Male",
+    "charged": "Juvenile",
+    "charges": "Threats and Intimidation and Interfering with an Educational Institution",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1030,
+    "article_date": "5/4/2026",
+    "school": "Alternative School in Pennsylvania",
+    "school_type": "Alternative School",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "source": "https://wjactv.com/news/local/police-female-juvenile-arrested-after-bringing-knife-clearfield-alternative-school-pennsylvania-threat-harm-student-staff",
+    "offense_date": "5/4/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Clearfield Regional Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "Staff Member and Student",
+    "incident_details": "A Female Student at the school was arrested after she brought a knife to school with the plan to harm two individuals",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "Juvenile",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1031,
+    "article_date": "5/5/2026",
+    "school": "North Haven Middle School and North Haven High School",
+    "school_type": "Multiple Schools",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "source": "https://www.nhregister.com/news/article/north-haven-high-middle-school-threat-lockdown-22242725.php",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "North Haven Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Schools went into lockdown after receiving threats of violence",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1032,
+    "article_date": "5/5/2026",
+    "school": "Isabella High School",
+    "school_type": "High School",
+    "state": "Alabama",
+    "region": "South",
+    "source": "https://www.wvtm13.com/article/school-secure-threat-lockdown-chilton-county-alabama/71220143",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Chilton County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after authorities received a threat that someone intending to cause harm was headed to the school",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1033,
+    "article_date": "5/5/2026",
+    "school": "Airline High School",
+    "school_type": "High School",
+    "state": "Louisiana",
+    "region": "South",
+    "source": "https://www.ksla.com/2026/05/05/airline-high-school-evacuated-bomb-threat/#",
+    "offense_date": "5/5/2026",
+    "time": "12:00 p.m.",
+    "law_enforcement": "Not Named",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School was evacuated after receiving a bomb threat, the Seniors' last day of school",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1034,
+    "article_date": "5/5/2026",
+    "school": "Betsy Lane Elementary School and Johnson Central High School",
+    "school_type": "Multiple Schools",
+    "state": "Kentucky",
+    "region": "South",
+    "source": "https://www.wave3.com/2026/05/05/johnson-central-high-school-evacuated-after-bomb-threat/#",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Multiple Agencies",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "Schools",
+    "incident_details": "Both schools received threats. Johnson Central High School evacuated and went into soft lockdown",
+    "lockdown_type": "Soft Lockdown for JCHS",
+    "evacuation": "Evacuated",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1035,
+    "article_date": "5/5/2026",
+    "school": "Anderson County High School and Owensboro High School",
+    "school_type": "Multiple Schools",
+    "state": "Kentucky",
+    "region": "South",
+    "source": "https://www.wave3.com/2026/05/05/anderson-county-high-school-closed-day-response-threat/",
+    "offense_date": "5/5/2026",
+    "time": "8:00 a.m.",
+    "law_enforcement": "Multiple Agencies",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "Schools",
+    "incident_details": "Anderson County High School closed school for the day after law enforcement received a threat to the school and Owensboro High School evacuated due to a threat",
+    "lockdown_type": "N/A",
+    "evacuation": "OHS Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1036,
+    "article_date": "5/5/2026",
+    "school": "Irwin County Middle-High School",
+    "school_type": "TBD",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.walb.com/2026/05/05/bomb-threat-irwin-county-school-under-investigation-all-students-safe/#:~:text=(WALB)%20%E2%80%93%20The%20Irwin%20County,law%20enforcement%20continues%20its%20investigation.",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School was evacuated after receiving a bomb threat",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1037,
+    "article_date": "5/5/2026",
+    "school": "School in Coffee County, Tennessee",
+    "school_type": "TBD",
+    "state": "Tennessee",
+    "region": "South",
+    "source": "https://www.wsmv.com/2026/05/05/two-high-school-students-custody-alleged-online-threat-toward-school-coffee-county/#",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Coffee County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Facebook",
+    "who_threatened": "School",
+    "incident_details": "Two Ninth Grade Students were arrested after making a threat towards the school on Facebook",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Two Ninth Grade Students",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1038,
+    "article_date": "5/5/2026",
+    "school": "Lacey High School",
+    "school_type": "High School",
+    "state": "New Jersey",
+    "region": "Northeast",
+    "source": "https://www.aol.com/articles/lacey-high-school-placed-under-130031047.html",
+    "offense_date": "5/5/2026",
+    "time": "7:10 a.m.",
+    "law_enforcement": "Lacey Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into Secure after receiving a threat",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "Heightened Security",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1039,
+    "article_date": "5/5/2026",
+    "school": "Normal Community High School",
+    "school_type": "High School",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://www.wglt.org/local-news/2026-05-05/normal-community-high-school-students-moved-out-due-to-potential-threat",
+    "offense_date": "5/5/2026",
+    "time": "8:00 a.m.",
+    "law_enforcement": "Normal Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School cancelled classes for the day after receiving a threat",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1040,
+    "article_date": "5/5/2026",
+    "school": "Lee's Summit High School",
+    "school_type": "High School",
+    "state": "Missouri",
+    "region": "Midwest",
+    "source": "https://fox4kc.com/news/lees-summit-high-school-under-lockdown-for-reported-threat-tuesday-morning/",
+    "offense_date": "5/5/2026",
+    "time": "7:30 a.m.",
+    "law_enforcement": "Lee's Summit Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a threat by phone call",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence and Counselors/Support Staff available",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1041,
+    "article_date": "5/5/2026",
+    "school": "Andover High School",
+    "school_type": "High School",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "source": "https://www.boston25news.com/news/local/police-called-mass-high-school-after-officials-get-swatting-call-with-threat-school/R4XQ2TILMVD7XKQYVYYC2UWC4A/",
+    "offense_date": "5/5/2026",
+    "time": "Early Morning",
+    "law_enforcement": "Andover Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School received a voicemail containing a threat directed at the school. Call originated out of California.",
+    "lockdown_type": "Hold",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1042,
+    "article_date": "5/5/2026",
+    "school": "Desert Hills High School",
+    "school_type": "High School",
+    "state": "Utah",
+    "region": "West",
+    "source": "https://ksltv.com/local-news/secure-lockdown-in-washington-county/905465/",
+    "offense_date": "5/5/2026",
+    "time": "Morning",
+    "law_enforcement": "St. George Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after law enforcement received a threat to the school by phone call",
+    "lockdown_type": "Secure",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1043,
+    "article_date": "5/5/2026",
+    "school": "Ohio Northern University",
+    "school_type": "University/ College",
+    "state": "Ohio",
+    "region": "Midwest",
+    "source": "https://www.wtol.com/article/news/local/ohio-northern-university-evacuated-due-to-bomb-threat-tuesday/512-a8108de7-f207-448c-9457-508c45000c4d",
+    "offense_date": "5/5/2026",
+    "time": "2:16 p.m.",
+    "law_enforcement": "Not Named",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School evacuated after receiving a bomb threat. Students were told to leave campus immediately, not to touch anything, and not use their phones.",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1044,
+    "article_date": "5/5/2026",
+    "school": "East Lansing High School",
+    "school_type": "High School",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://eastlansinginfo.news/east-lansing-schools-lockdown-today-may-have-been-caused-by-another-swatting-incident-police-say/",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "East Lansing Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after receiving a threat, its second in the past three school days",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1045,
+    "article_date": "5/5/2026",
+    "school": "Boca Raton Middle School",
+    "school_type": "Middle School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.wpbf.com/article/boca-raton-police-investigate-middle-school-threat/71221215",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Boca Raton Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into lockdown after receiving a call where the caller stated that he was armed and in the area of the school",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1046,
+    "article_date": "5/5/2026",
+    "school": "Santa Teresa Middle School",
+    "school_type": "Middle School",
+    "state": "New Mexico",
+    "region": "West",
+    "source": "https://kvia.com/news/top-stories/2026/05/05/santa-teresa-middle-school-on-precautionary-safety-status-for-reported-threat/#google_vignette",
+    "offense_date": "5/5/2026",
+    "time": "12:00 p.m.",
+    "law_enforcement": "Sunland Park Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School evacuated due to receiving a threat",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1047,
+    "article_date": "5/5/2026",
+    "school": "Little Rock Central High School",
+    "school_type": "High School",
+    "state": "Arkansas",
+    "region": "South",
+    "source": "https://www.kark.com/news/local-news/central-high-school-placed-on-lockdown-after-threat/",
+    "offense_date": "5/5/2026",
+    "time": "Afternoon",
+    "law_enforcement": "Not Named",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after receiving a bomb threat",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1048,
+    "article_date": "5/5/2026",
+    "school": "Bismarck High School",
+    "school_type": "High School",
+    "state": "North Dakota",
+    "region": "Midwest",
+    "source": "https://www.kxnet.com/news/bismarck-high-school-evacuates-early-after-reported-threat-authorities-on-scene/",
+    "offense_date": "5/5/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Bismarck Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School dismissed early for the day after receiving a threatening phone call. The school received a voicemail in which the caller expressed their intent to come to school with violence and to detonate multiple explosives inside the building.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1049,
+    "article_date": "5/5/2026",
+    "school": "Calvert Elementary School",
+    "school_type": "Elementary",
+    "state": "Nebraska",
+    "region": "Midwest",
+    "source": "https://www.1011now.com/2026/05/05/southeast-lincoln-elementary-school-receives-swatting-call/",
+    "offense_date": "5/5/2026",
+    "time": "2:15 p.m.",
+    "law_enforcement": "Lincoln Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after receiving a phone call from a San Francisco number where the caller made threats towards the school and people inside",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1050,
+    "article_date": "5/5/2026",
+    "school": "Folsom High School",
+    "school_type": "High School",
+    "state": "California",
+    "region": "West",
+    "source": "https://fox40.com/news/local-news/sacramento-county/folsom/no-threat-found-at-folsom-high-school-after-threatening-call-led-to-lockdown/",
+    "offense_date": "5/5/2026",
+    "time": "12:00 p.m.",
+    "law_enforcement": "Folsom Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went on lockdown after receiving a threat by phone call",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1051,
+    "article_date": "5/5/2026",
+    "school": "Glenbard West High School",
+    "school_type": "High School",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://abc7chicago.com/post/glenbard-west-high-school-students-not-being-dismissed-suspicious-call-received-glen-ellyn-police/19045675/#",
+    "offense_date": "5/5/2026",
+    "time": "2:20 p.m.",
+    "law_enforcement": "Not Named",
+    "threat_type": "Suspicious Call",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into Secure and Teach after receiving a suspicious phone call",
+    "lockdown_type": "Secure and Teach",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "charges": "Unknown",
+    "bond": "N/A",
     "additional_sources": "",
     "custody": "",
     "classes_cancelled": ""
