@@ -63,6 +63,7 @@ COLUMN_MAP = {
     "Charges": "charges",
     "Bond": "bond",
     "Additional Sources": "additional_sources",
+    "Second Suspect": "second_suspect",
 }
 
 # State abbreviation to full name mapping

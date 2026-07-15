@@ -797,14 +797,16 @@ function updateCharts() {
   chartTypes.data.datasets[0].data = tEntries.map(e=>e[1]);
   chartTypes.update();
 
-  // Age distribution — extracted from "charged" and "incident_details" fields
+  // Age distribution — extracted from suspect fields and incident details
   const ageRe = /\b(\d{1,2})[\s\-]year[\s\-]old\b/i;
   const ageCounts = {};
   let ageTotal = 0;
   filteredData.forEach(d => {
-    const src = (d.charged || '') + ' ' + (d.incident_details || '');
-    const m = src.match(ageRe);
-    if (m) {
+    // Combine all suspect information (primary + secondary + details)
+    const src = (d.charged || '') + ' ' + (d.second_suspect || '') + ' ' + (d.incident_details || '');
+    // Extract all ages from the combined text
+    const matches = src.matchAll(ageRe);
+    for (const m of matches) {
       const age = parseInt(m[1]);
       if (age >= 5 && age <= 100) {
         ageCounts[age] = (ageCounts[age] || 0) + 1;
