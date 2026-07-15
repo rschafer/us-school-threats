@@ -798,7 +798,7 @@ function updateCharts() {
   chartTypes.update();
 
   // Age distribution — extracted from suspect fields and incident details
-  const ageRe = /\b(\d{1,2})[\s\-]year[\s\-]old\b/i;
+  const ageRe = /\b(\d{1,2})[\s\-]year[\s\-]old\b/gi;
   const ageCounts = {};
   let ageTotal = 0;
   filteredData.forEach(d => {
