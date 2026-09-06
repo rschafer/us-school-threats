@@ -44230,8 +44230,8 @@
     "evacuation": "N/A",
     "precautions": "N/A",
     "weapons": "Unknown",
-    "gender": "Unknown",
-    "charged": "Individual",
+    "gender": "Male",
+    "charged": "Student",
     "second_suspect": "",
     "charges": "Unknown",
     "bond": "N/A",
@@ -44281,7 +44281,7 @@
     "threat_type": "Threat",
     "conveyance": "Social Media",
     "who_threatened": "Schools and Students",
-    "incident_details": "School District announced extra security at three schools after students and schools were named and threatened in the cat in the hat trend.",
+    "incident_details": "School District announced extra security at three schools after students and schools were named and threatened in the cat in the hat trend. Schools affected included Cordova High School, Oakman Middle School, and Parrish.",
     "lockdown_type": "N/A",
     "evacuation": "N/A",
     "precautions": "Extra Security",
@@ -44606,6 +44606,62 @@
   {
     "id": 1594,
     "article_date": "",
+    "school": "Schools in St. Mary Parish",
+    "school_type": "TBD",
+    "state": "Louisiana",
+    "region": "South",
+    "source": "https://www.wbrz.com/news/four-juveniles-arrested-in-berwick-following-investigation-into-cat-in-the-hat-trend/",
+    "offense_date": "9/1/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Berwick Police Department",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "Schools",
+    "incident_details": "Three students were arrested and charged with terrorizing after making vague or specific threats towards schools.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "13 year old",
+    "second_suspect": "14 year old",
+    "charges": "Terrorizing",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1595,
+    "article_date": "",
+    "school": "Schools in St. Mary Parish",
+    "school_type": "TBD",
+    "state": "Louisiana",
+    "region": "South",
+    "source": "https://www.wbrz.com/news/four-juveniles-arrested-in-berwick-following-investigation-into-cat-in-the-hat-trend/",
+    "offense_date": "9/1/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Berwick Police Department",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "Schools",
+    "incident_details": "A 14 year old girl was charged with Cyberbullying after making threats on TikTok towards schools with the Cat in the Hat TikTok Trend.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Female",
+    "charged": "14 year old",
+    "second_suspect": "",
+    "charges": "Cyberbullying",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1596,
+    "article_date": "",
     "school": "Westpark Elementary School",
     "school_type": "Elementary",
     "state": "Arizona",
@@ -44632,7 +44688,7 @@
     "custody": ""
   },
   {
-    "id": 1595,
+    "id": 1597,
     "article_date": "",
     "school": "Lakewood High School",
     "school_type": "High School",
@@ -44660,7 +44716,7 @@
     "custody": ""
   },
   {
-    "id": 1596,
+    "id": 1598,
     "article_date": "",
     "school": "Ellison High School",
     "school_type": "High School",
@@ -44688,7 +44744,7 @@
     "custody": ""
   },
   {
-    "id": 1597,
+    "id": 1599,
     "article_date": "",
     "school": "Oxford Middle School",
     "school_type": "Middle School",
@@ -44716,7 +44772,7 @@
     "custody": ""
   },
   {
-    "id": 1598,
+    "id": 1600,
     "article_date": "",
     "school": "Alhambra High School",
     "school_type": "High School",
@@ -44744,7 +44800,7 @@
     "custody": ""
   },
   {
-    "id": 1599,
+    "id": 1601,
     "article_date": "",
     "school": "Vero Beach High School",
     "school_type": "High School",
@@ -44772,7 +44828,7 @@
     "custody": ""
   },
   {
-    "id": 1600,
+    "id": 1602,
     "article_date": "",
     "school": "Maury County Public Schools",
     "school_type": "TBD",
@@ -44800,7 +44856,7 @@
     "custody": ""
   },
   {
-    "id": 1601,
+    "id": 1603,
     "article_date": "",
     "school": "Baker College",
     "school_type": "University/ College",
@@ -44828,7 +44884,7 @@
     "custody": ""
   },
   {
-    "id": 1602,
+    "id": 1604,
     "article_date": "",
     "school": "Warren County High School",
     "school_type": "High School",
@@ -44856,7 +44912,91 @@
     "custody": ""
   },
   {
-    "id": 1603,
+    "id": 1605,
+    "article_date": "",
+    "school": "Boardman Schools",
+    "school_type": "Multiple Schools",
+    "state": "Ohio",
+    "region": "Midwest",
+    "source": "https://www.wfmj.com/news/local-news/canfield/police-second-cat-in-the-hat-threat-video-posted-multiple-valley-schools-named/article_7aee14f0-c7cd-4eeb-8e25-b3390b924db3.html",
+    "offense_date": "9/1/2026",
+    "time": "Night",
+    "law_enforcement": "Boardman Police Department",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "Schools",
+    "incident_details": "A student posted just before midnight a Cat in the Hat response that read, \"I'm coming for you Canfield, Poland, South Range, and Austintown.\"",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Eighth Grade Student",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1606,
+    "article_date": "",
+    "school": "Ashland High School",
+    "school_type": "High School",
+    "state": "Wisconsin",
+    "region": "Midwest",
+    "source": "https://www.northernnewsnow.com/2026/09/02/authorities-investigating-written-threat-found-ashland-high-school/",
+    "offense_date": "9/1/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Ashland Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Written",
+    "who_threatened": "School",
+    "incident_details": "School and Law Enforcement began an investigation was launched after a written threat was found on the wall of the school that included a specific date in the future",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1607,
+    "article_date": "",
+    "school": "DuBose Middle School",
+    "school_type": "Middle School",
+    "state": "South Carolina",
+    "region": "South",
+    "source": "https://abcnews4.com/news/local/increased-security-at-dubose-middle-william-reeves-elementary-after-reported-threat-investigation-credibility-response-education-parents-students",
+    "offense_date": "9/2/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Dorchester County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Increased Law Enforcement Presence occurred at the school after the school received an anonymous threat.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1608,
     "article_date": "",
     "school": "Carlsbad High School",
     "school_type": "High School",
@@ -44884,7 +45024,7 @@
     "custody": ""
   },
   {
-    "id": 1604,
+    "id": 1609,
     "article_date": "",
     "school": "Michigan State University",
     "school_type": "University/ College",
@@ -44912,7 +45052,7 @@
     "custody": ""
   },
   {
-    "id": 1605,
+    "id": 1610,
     "article_date": "",
     "school": "Wallace Middle School",
     "school_type": "Middle School",
@@ -44940,7 +45080,7 @@
     "custody": ""
   },
   {
-    "id": 1606,
+    "id": 1611,
     "article_date": "",
     "school": "Wilmington City Schools",
     "school_type": "TBD",
@@ -44959,7 +45099,7 @@
     "precautions": "Increased Law Enforcement Presence",
     "weapons": "Unknown",
     "gender": "Unknown",
-    "charged": "Student",
+    "charged": "Juvenile",
     "second_suspect": "",
     "charges": "Unknown",
     "bond": "N/A",
@@ -44968,7 +45108,7 @@
     "custody": ""
   },
   {
-    "id": 1607,
+    "id": 1612,
     "article_date": "",
     "school": "Chestnut Oaks Middle School",
     "school_type": "Middle School",
@@ -44996,7 +45136,7 @@
     "custody": ""
   },
   {
-    "id": 1608,
+    "id": 1613,
     "article_date": "",
     "school": "Gulf High School",
     "school_type": "High School",
@@ -45024,7 +45164,7 @@
     "custody": ""
   },
   {
-    "id": 1609,
+    "id": 1614,
     "article_date": "",
     "school": "Unnamed School",
     "school_type": "TBD",
@@ -45052,7 +45192,7 @@
     "custody": ""
   },
   {
-    "id": 1610,
+    "id": 1615,
     "article_date": "",
     "school": "Purvis Middle School",
     "school_type": "Middle School",
@@ -45080,7 +45220,91 @@
     "custody": ""
   },
   {
-    "id": 1611,
+    "id": 1616,
+    "article_date": "",
+    "school": "Cameron Public Schools",
+    "school_type": "TBD",
+    "state": "Missouri",
+    "region": "Midwest",
+    "source": "https://fox4kc.com/news/threatening-cat-in-the-hat-ai-trend-reaches-missouri-school/",
+    "offense_date": "9/3/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "Students",
+    "incident_details": "Students received threat messages by way of the Cat in the Hat AI trend.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1617,
+    "article_date": "",
+    "school": "Taylor County Schools",
+    "school_type": "TBD",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://wgxa.tv/news/local/taylor-county-schools-add-deputies-friday-after-unsubstantiated-shooting-threat-rumor-butler-police-department-sheriffs-office-facebook-allegations-rumors-school-no-evidence-claim-arrested-prosecuted-john-bubba-sawyer-increased-law-enforcement-parents-st",
+    "offense_date": "9/3/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Taylor County Sheriff's Office",
+    "threat_type": "Shooting",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "Law Enforcement investigated rumors of an alleged shooting threat at one of their schools. Threat was deemed to be unsubstantiated.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1618,
+    "article_date": "",
+    "school": "Glenview Middle School",
+    "school_type": "Middle School",
+    "state": "Illinois",
+    "region": "Midwest",
+    "source": "https://www.wqad.com/article/news/local/public-safety/threat-glenview-middle-school-not-credible/526-8ddd3f91-b2ac-4ad8-90f8-069732ca2081",
+    "offense_date": "9/3/2026",
+    "time": "Not Specified",
+    "law_enforcement": "East Moline Police Department",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "School",
+    "incident_details": "Someone posted on TikTok a threat of violence towards the school that would occur on September 10.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
+  },
+  {
+    "id": 1619,
     "article_date": "",
     "school": "Andalusia High School",
     "school_type": "High School",
@@ -45108,7 +45332,7 @@
     "custody": ""
   },
   {
-    "id": 1612,
+    "id": 1620,
     "article_date": "",
     "school": "Monterey High School",
     "school_type": "High School",
@@ -45136,7 +45360,7 @@
     "custody": ""
   },
   {
-    "id": 1613,
+    "id": 1621,
     "article_date": "",
     "school": "Penn Hills High School",
     "school_type": "High School",
@@ -45164,7 +45388,7 @@
     "custody": ""
   },
   {
-    "id": 1614,
+    "id": 1622,
     "article_date": "",
     "school": "STREAM Charter School",
     "school_type": "Charter School",
@@ -45192,7 +45416,7 @@
     "custody": ""
   },
   {
-    "id": 1615,
+    "id": 1623,
     "article_date": "",
     "school": "Port Allen High School",
     "school_type": "High School",
@@ -45220,7 +45444,7 @@
     "custody": ""
   },
   {
-    "id": 1616,
+    "id": 1624,
     "article_date": "",
     "school": "Union 7th Grade Center",
     "school_type": "TBD",
@@ -45248,7 +45472,7 @@
     "custody": ""
   },
   {
-    "id": 1617,
+    "id": 1625,
     "article_date": "",
     "school": "Carter Middle School",
     "school_type": "Middle School",
@@ -45276,7 +45500,7 @@
     "custody": ""
   },
   {
-    "id": 1618,
+    "id": 1626,
     "article_date": "",
     "school": "Amon Carter-Riverside High School",
     "school_type": "High School",
@@ -45304,7 +45528,7 @@
     "custody": ""
   },
   {
-    "id": 1619,
+    "id": 1627,
     "article_date": "",
     "school": "Fort Pierce Central High School",
     "school_type": "High School",
@@ -45332,7 +45556,7 @@
     "custody": ""
   },
   {
-    "id": 1620,
+    "id": 1628,
     "article_date": "",
     "school": "Maumelle High School",
     "school_type": "High School",
@@ -45360,7 +45584,7 @@
     "custody": ""
   },
   {
-    "id": 1621,
+    "id": 1629,
     "article_date": "",
     "school": "Antietam High School",
     "school_type": "High School",
@@ -45388,7 +45612,7 @@
     "custody": ""
   },
   {
-    "id": 1622,
+    "id": 1630,
     "article_date": "",
     "school": "Schools in Shafter, California",
     "school_type": "TBD",
