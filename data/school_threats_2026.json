@@ -50206,6 +50206,34 @@
   {
     "id": 1794,
     "article_date": "",
+    "school": "Carbondale Middle School",
+    "school_type": "Middle School",
+    "state": "Colorado",
+    "region": "West",
+    "source": "https://www.postindependent.com/news/parents-raise-concerns-over-delayed-communication-following-carbondale-middle-school-threat/",
+    "offense_date": "",
+    "time": "",
+    "law_enforcement": "",
+    "threat_type": "",
+    "conveyance": "",
+    "who_threatened": "",
+    "incident_details": "",
+    "lockdown_type": "",
+    "evacuation": "",
+    "precautions": "",
+    "weapons": "",
+    "gender": "",
+    "charged": "",
+    "second_suspect": "",
+    "charges": "",
+    "bond": "",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1795,
+    "article_date": "",
     "school": "Wicomico County Public Schools",
     "school_type": "Multiple Schools",
     "state": "Maryland",
@@ -50232,7 +50260,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1795,
+    "id": 1796,
     "article_date": "",
     "school": "Howard County Public Schools",
     "school_type": "Multiple Schools",
@@ -50260,7 +50288,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1796,
+    "id": 1797,
     "article_date": "",
     "school": "Miami Valley Career Technology Center",
     "school_type": "TBD",
@@ -50288,7 +50316,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1797,
+    "id": 1798,
     "article_date": "",
     "school": "Central Middle School",
     "school_type": "Middle School",
@@ -50316,7 +50344,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1798,
+    "id": 1799,
     "article_date": "",
     "school": "Batavia High School",
     "school_type": "High School",
@@ -50344,7 +50372,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1799,
+    "id": 1800,
     "article_date": "",
     "school": "Frank Wright Middle School",
     "school_type": "Middle School",
@@ -50372,7 +50400,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1800,
+    "id": 1801,
     "article_date": "",
     "school": "Central Park Elementary School",
     "school_type": "Elementary",
@@ -50400,7 +50428,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1801,
+    "id": 1802,
     "article_date": "",
     "school": "Saugerties Junior/Senior High School",
     "school_type": "TBD",
@@ -50428,7 +50456,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1802,
+    "id": 1803,
     "article_date": "",
     "school": "Geneva High School",
     "school_type": "High School",
@@ -50456,7 +50484,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1803,
+    "id": 1804,
     "article_date": "",
     "school": "Barrington Schools",
     "school_type": "Multiple Schools",
@@ -50484,7 +50512,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1804,
+    "id": 1805,
     "article_date": "",
     "school": "Lakewood Middle School",
     "school_type": "Middle School",
@@ -50512,7 +50540,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1805,
+    "id": 1806,
     "article_date": "",
     "school": "Harmony Area School District",
     "school_type": "TBD",
@@ -50540,7 +50568,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1806,
+    "id": 1807,
     "article_date": "",
     "school": "Franklin County High School",
     "school_type": "High School",
@@ -50568,7 +50596,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1807,
+    "id": 1808,
     "article_date": "",
     "school": "Smilow Prep",
     "school_type": "Charter School",
@@ -50596,7 +50624,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1808,
+    "id": 1809,
     "article_date": "",
     "school": "Wheeling Park High School",
     "school_type": "High School",
@@ -50624,7 +50652,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1809,
+    "id": 1810,
     "article_date": "",
     "school": "Southeast Bulloch High School",
     "school_type": "High School",
@@ -50652,7 +50680,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1810,
+    "id": 1811,
     "article_date": "",
     "school": "Gillingham Charter School",
     "school_type": "Charter School",
@@ -50680,7 +50708,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1811,
+    "id": 1812,
     "article_date": "",
     "school": "Powell Middle School",
     "school_type": "Middle School",
@@ -50708,7 +50736,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1812,
+    "id": 1813,
     "article_date": "",
     "school": "Matawan High School",
     "school_type": "High School",
@@ -50736,7 +50764,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1813,
+    "id": 1814,
     "article_date": "",
     "school": "Boardman Center Intermediate School",
     "school_type": "TBD",
@@ -50764,7 +50792,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1814,
+    "id": 1815,
     "article_date": "",
     "school": "Rose Bud School District",
     "school_type": "TBD",
@@ -50792,7 +50820,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1815,
+    "id": 1816,
     "article_date": "",
     "school": "Ardmore Middle School",
     "school_type": "Middle School",
@@ -50820,7 +50848,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1816,
+    "id": 1817,
     "article_date": "",
     "school": "Evergreen Junior High School",
     "school_type": "Middle School",
@@ -50848,7 +50876,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1817,
+    "id": 1818,
     "article_date": "",
     "school": "Farmington School District",
     "school_type": "TBD",
@@ -50876,7 +50904,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1818,
+    "id": 1819,
     "article_date": "",
     "school": "Switzerland County Schools",
     "school_type": "TBD",
@@ -50904,7 +50932,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1819,
+    "id": 1820,
     "article_date": "",
     "school": "McCamey ISD",
     "school_type": "TBD",
@@ -50932,7 +50960,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1820,
+    "id": 1821,
     "article_date": "",
     "school": "Harvard University",
     "school_type": "University/ College",
@@ -50960,7 +50988,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1821,
+    "id": 1822,
     "article_date": "",
     "school": "Rockdale Academy",
     "school_type": "Elementary",
@@ -50988,7 +51016,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1822,
+    "id": 1823,
     "article_date": "",
     "school": "Schools in Okeechobee County, Florida",
     "school_type": "Multiple Schools",
@@ -51016,7 +51044,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1823,
+    "id": 1824,
     "article_date": "",
     "school": "Lee High School",
     "school_type": "High School",
@@ -51044,7 +51072,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1824,
+    "id": 1825,
     "article_date": "",
     "school": "Evergreen Junior High School",
     "school_type": "Middle School",
@@ -51072,7 +51100,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1825,
+    "id": 1826,
     "article_date": "",
     "school": "Evergreen Junior High School",
     "school_type": "Middle School",
@@ -51100,7 +51128,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1826,
+    "id": 1827,
     "article_date": "",
     "school": "Gaylord High School",
     "school_type": "High School",
@@ -51128,7 +51156,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1827,
+    "id": 1828,
     "article_date": "",
     "school": "Charlotte Independent School District",
     "school_type": "TBD",
@@ -51156,7 +51184,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1828,
+    "id": 1829,
     "article_date": "",
     "school": "Ansonia Public Schools",
     "school_type": "TBD",
@@ -51184,7 +51212,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1829,
+    "id": 1830,
     "article_date": "",
     "school": "Coakley Middle School",
     "school_type": "Middle School",
@@ -51212,7 +51240,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1830,
+    "id": 1831,
     "article_date": "",
     "school": "Panther Valley School District",
     "school_type": "TBD",
@@ -51240,7 +51268,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1831,
+    "id": 1832,
     "article_date": "",
     "school": "Edgecombe County Public Schools",
     "school_type": "TBD",
@@ -51268,7 +51296,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1832,
+    "id": 1833,
     "article_date": "",
     "school": "Primrose School",
     "school_type": "Private School",
@@ -51296,7 +51324,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1833,
+    "id": 1834,
     "article_date": "",
     "school": "Hamilton County School District",
     "school_type": "TBD",
@@ -51324,7 +51352,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1834,
+    "id": 1835,
     "article_date": "",
     "school": "Morgan County R-1 School District",
     "school_type": "TBD",
@@ -51352,7 +51380,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1835,
+    "id": 1836,
     "article_date": "",
     "school": "Lakeside High School",
     "school_type": "High School",
@@ -51380,7 +51408,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1836,
+    "id": 1837,
     "article_date": "",
     "school": "Pulaski County Public Schools",
     "school_type": "TBD",
@@ -51408,7 +51436,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1837,
+    "id": 1838,
     "article_date": "",
     "school": "Lakeville Pathways Academy and Kenwood Trail Middle School",
     "school_type": "Multiple Schools",
@@ -51436,7 +51464,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1838,
+    "id": 1839,
     "article_date": "",
     "school": "Liberty High School",
     "school_type": "High School",
@@ -51464,7 +51492,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1839,
+    "id": 1840,
     "article_date": "",
     "school": "Seaside Schools",
     "school_type": "TBD",
@@ -51492,7 +51520,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1840,
+    "id": 1841,
     "article_date": "",
     "school": "Kearney Public Schools",
     "school_type": "TBD",
@@ -51520,7 +51548,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1841,
+    "id": 1842,
     "article_date": "",
     "school": "Farmington Ascent Academy",
     "school_type": "TBD",
@@ -51548,7 +51576,35 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1842,
+    "id": 1843,
+    "article_date": "",
+    "school": "Pickens County High School",
+    "school_type": "High School",
+    "state": "Georgia",
+    "region": "South",
+    "source": "https://www.pickens.k12.ga.us/live_feeds/13294683",
+    "offense_date": "9/29/2026",
+    "time": "Morning",
+    "law_enforcement": "Pickens County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Online",
+    "who_threatened": "School",
+    "incident_details": "School went on soft lockdown after an online threat was directed towards the school",
+    "lockdown_type": "Soft Lockdown",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1844,
     "article_date": "",
     "school": "Tennessee State University",
     "school_type": "University/ College",
@@ -51576,7 +51632,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1843,
+    "id": 1845,
     "article_date": "",
     "school": "Butler Area Schools",
     "school_type": "TBD",
@@ -51589,7 +51645,7 @@
     "threat_type": "Threat",
     "conveyance": "Phone Call",
     "who_threatened": "School",
-    "incident_details": "All schools went on perimeter lockdown after 911 dispatchers received a call regarding a threat towards a school",
+    "incident_details": "All schools went on perimeter lockdown after 911 dispatchers received multiple calls regarding an armed person or persons at the school. It is believed to be a swatting incident.",
     "lockdown_type": "Perimeter Lockdown",
     "evacuation": "N/A",
     "precautions": "N/A",
@@ -51604,7 +51660,7 @@
     "classes_cancelled": ""
   },
   {
-    "id": 1844,
+    "id": 1846,
     "article_date": "",
     "school": "Mid-East Career and Technology Center",
     "school_type": "TBD",
@@ -51624,6 +51680,230 @@
     "weapons": "Unknown",
     "gender": "Unknown",
     "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1847,
+    "article_date": "",
+    "school": "Manatee School for the Arts",
+    "school_type": "TBD",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://www.mysuncoast.com/2026/09/30/manatee-school-arts-placed-lockdown-after-threat-reported-social-media/",
+    "offense_date": "9/29/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "A student was taken into custody after they made a threatening comment on social media. As a result of the threat, the school was put on lockdown.",
+    "lockdown_type": "Lockdown",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1848,
+    "article_date": "",
+    "school": "Cumberland County High School",
+    "school_type": "High School",
+    "state": "Tennessee",
+    "region": "South",
+    "source": "https://www.wbir.com/article/news/crime/cumberland-county-student-charged-threat-of-mass-violence/51-46a4c275-412a-46bc-8c4f-c00af30b2cea",
+    "offense_date": "9/30/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Cumberland County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "School",
+    "incident_details": "A student was charged after they made alarming statements to school officials and law enforcement.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "High School Student",
+    "second_suspect": "",
+    "charges": "Making a Threat of Mass Violence on School Property",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1849,
+    "article_date": "",
+    "school": "Kingsley Middle School",
+    "school_type": "Middle School",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://www.9and10news.com/2026/09/30/kingsley-students-evacuated-no-injuries-reported-in-police-situation/",
+    "offense_date": "9/30/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Grand Traverse County Sheriff's Office",
+    "threat_type": "Bomb",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "School was evacuated after it received a bomb threat.",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1850,
+    "article_date": "",
+    "school": "Highland Park Elementary School",
+    "school_type": "Elementary",
+    "state": "Indiana",
+    "region": "Midwest",
+    "source": "https://www.wthr.com/article/news/crime/students-highland-park-elementary-school-bloomington-indiana-receive-death-threats-social-media/531-0cf602f0-6672-493f-aeb2-b32e97ddc876",
+    "offense_date": "9/30/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Monroe County Sheriff's Office",
+    "threat_type": "Threat",
+    "conveyance": "TikTok",
+    "who_threatened": "Students",
+    "incident_details": "Students received threats of violence from created TikTok accounts that pretended to be students at the school.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Additional Security Measures",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1851,
+    "article_date": "",
+    "school": "Bismarck High School",
+    "school_type": "High School",
+    "state": "North Dakota",
+    "region": "Midwest",
+    "source": "https://www.kfyrtv.com/2026/09/30/update-bismarck-high-school-shelter-in-place-lifted-following-likely-hoax-call/",
+    "offense_date": "9/30/2026",
+    "time": "1:15 p.m.",
+    "law_enforcement": "Bismarck Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Phone Call",
+    "who_threatened": "School",
+    "incident_details": "School went into Shelter in Place after dispatch received a call from a female who said her boyfriend was in the school parking lot threatening her with a gun and a bomb. Threat was determined to be a swatting call and the caller used VOIP. Mandan High School also had a swatting incident but no details have been provided.",
+    "lockdown_type": "Shelter in Place",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1852,
+    "article_date": "",
+    "school": "Palm Beach Prepatory Charter Academy",
+    "school_type": "Charter School",
+    "state": "Florida",
+    "region": "South",
+    "source": "https://cbs12.com/news/local/palm-beach-preparatory-charter-academy-briefly-evacuated-after-reported-bomb-threat-florida-news-florida-crime-local-news-local-crime-bomb-threat-at-school-palm-springs",
+    "offense_date": "9/30/2026",
+    "time": "3:34 p.m.",
+    "law_enforcement": "Palm Springs Police Department",
+    "threat_type": "Bomb",
+    "conveyance": "Computer",
+    "who_threatened": "School",
+    "incident_details": "School evacuated after a bomb threat was found on a computer via a message left on it.",
+    "lockdown_type": "N/A",
+    "evacuation": "Evacuated",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Unknown",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1853,
+    "article_date": "",
+    "school": "Benvenue Elementary School",
+    "school_type": "Elementary",
+    "state": "North Carolina",
+    "region": "South",
+    "source": "https://www.witn.com/2026/10/01/nash-county-elementary-school-student-charged-connection-social-media-threat/",
+    "offense_date": "9/30/2026",
+    "time": "12:00 a.m.",
+    "law_enforcement": "Rocky Mount Police Department",
+    "threat_type": "Threat",
+    "conveyance": "Social Media",
+    "who_threatened": "School",
+    "incident_details": "A student was arrested after the FBI tipped off local law enforcement about a school threat on social media.",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "Increased Law Enforcement Presence",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
+    "second_suspect": "",
+    "charges": "Unknown",
+    "bond": "N/A",
+    "additional_sources": "",
+    "custody": "",
+    "classes_cancelled": ""
+  },
+  {
+    "id": 1854,
+    "article_date": "",
+    "school": "Plainwell High School",
+    "school_type": "High School",
+    "state": "Michigan",
+    "region": "Midwest",
+    "source": "https://wilcoxnewspapers.com/public-safety-finds-no-credible-threat-following-plainwell-high-school-report/",
+    "offense_date": "9/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Verbal",
+    "who_threatened": "School",
+    "incident_details": "School received a tip about a student who made statements in class about bringing a gun to school. Student admitted to making statements that involved a firearm and told other students \"not to be a hero.\"",
+    "lockdown_type": "N/A",
+    "evacuation": "N/A",
+    "precautions": "N/A",
+    "weapons": "Unknown",
+    "gender": "Unknown",
+    "charged": "Student",
     "second_suspect": "",
     "charges": "Unknown",
     "bond": "N/A",
