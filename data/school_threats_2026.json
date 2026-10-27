@@ -57314,5 +57314,33 @@
     "additional_sources": "",
     "classes_cancelled": "",
     "custody": ""
+  },
+  {
+    "id": 2048,
+    "article_date": "",
+    "school": "Rochester Schools",
+    "school_type": "High School",
+    "state": "Washington",
+    "region": "West",
+    "source": "https://www.west42sports.com/2026/10/23/breaking-news-centralia-at-rochester-football-game-cancelled-due-to-threat/",
+    "offense_date": "10/23/2026",
+    "time": "Not Specified",
+    "law_enforcement": "Not Named",
+    "threat_type": "Threat",
+    "conveyance": "Not Disclosed",
+    "who_threatened": "School",
+    "incident_details": "The Centralia at Rochester football game was canceled after a student from Centralia reported a credible threat of violence to the school.",
+    "lockdown_type": "",
+    "evacuation": "",
+    "precautions": "",
+    "weapons": "",
+    "gender": "",
+    "charged": "",
+    "second_suspect": "",
+    "charges": "",
+    "bond": "",
+    "additional_sources": "",
+    "classes_cancelled": "",
+    "custody": ""
   }
 ]
