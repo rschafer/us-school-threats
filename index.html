@@ -287,6 +287,10 @@
       <canvas id="chart-age" style="max-height:260px"></canvas>
     </div>
   </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px;margin-top:20px;">
+    <div class="card chart-wrap"><div class="card-title" id="chart-lockdown-title">Type of Lockdown</div><canvas id="chart-lockdown"></canvas></div>
+    <div class="card chart-wrap"><div class="card-title" id="chart-evac-title">Evacuations</div><canvas id="chart-evac"></canvas></div>
+  </div>
 
   <!-- Filters -->
   <div class="filters-bar" id="filters-bar">
@@ -375,7 +379,7 @@ let data2025 = [], data2026 = [];
 let currentYear = '2026';
 const PAGE_SIZE = 20;
 let selectedState = null;
-let chartRegion, chartStates, chartTypes, chartAge;
+let chartRegion, chartStates, chartTypes, chartAge, chartLockdown, chartEvac;
 
 // 2024 US Census population estimates (millions)
 const STATE_POP = {
@@ -757,6 +761,23 @@ function createCharts() {
       }
     }
   });
+  const smallPieConfig = () => ({ type: 'pie', data: { labels: [], datasets: [{ data: [], backgroundColor: PALETTE }] },
+    options: { responsive: true, plugins: { tooltip: pieTooltipOpts, legend: { position: 'bottom', labels: { color: '#ffffff', padding: 14, font: { size: 11 }, generateLabels: (chart) => pctLegendLabels(chart) } } } } });
+  chartLockdown = new Chart(document.getElementById('chart-lockdown'), smallPieConfig());
+  chartEvac = new Chart(document.getElementById('chart-evac'), smallPieConfig());
+}
+
+// Lockdown/hold wording in the sheet is free text; group it into a few categories.
+// Blank or "N/A"-style entries mean no lockdown and are left out of the pie.
+function lockdownCategory(text) {
+  const t = (text || '').trim();
+  if (!t || /^(n\/?a|not applicable|no)$/i.test(t)) return null;
+  if (/lockdown|lock down/i.test(t)) return 'Lockdown';
+  if (/shelter/i.test(t)) return 'Shelter in Place';
+  if (/lockout/i.test(t)) return 'Lockout';
+  if (/secure/i.test(t)) return 'Secure';
+  if (/hold/i.test(t)) return 'Hold';
+  return 'Other';
 }
 
 function pctLegendLabels(chart) {
@@ -796,6 +817,24 @@ function updateCharts() {
   chartTypes.data.labels = tEntries.map(e=>e[0]);
   chartTypes.data.datasets[0].data = tEntries.map(e=>e[1]);
   chartTypes.update();
+
+  // Lockdown type (incidents with a lockdown-type entry only)
+  const lc = {}; let lockdownTotal = 0;
+  filteredData.forEach(d => { const cat = lockdownCategory(d.lockdown_type); if (cat) { lc[cat] = (lc[cat]||0)+1; lockdownTotal++; } });
+  const lEntries = Object.entries(lc).sort((a,b)=>b[1]-a[1]);
+  chartLockdown.data.labels = lEntries.map(e=>e[0]);
+  chartLockdown.data.datasets[0].data = lEntries.map(e=>e[1]);
+  document.getElementById('chart-lockdown-title').textContent = `Type of Lockdown (n = ${lockdownTotal})`;
+  chartLockdown.update();
+
+  // Evacuations
+  const ec = { 'Evacuated': 0, 'Not Evacuated': 0 };
+  filteredData.forEach(d => { if (/evacuat/i.test(d.evacuation || '')) ec['Evacuated']++; else ec['Not Evacuated']++; });
+  const eEntries = Object.entries(ec).filter(e => e[1] > 0);
+  chartEvac.data.labels = eEntries.map(e=>e[0]);
+  chartEvac.data.datasets[0].data = eEntries.map(e=>e[1]);
+  document.getElementById('chart-evac-title').textContent = `Evacuations (n = ${filteredData.length})`;
+  chartEvac.update();
 
   // Age distribution — one count per suspect, taken from the suspect fields.
   // Incident details usually repeat the same age, so they are only used
